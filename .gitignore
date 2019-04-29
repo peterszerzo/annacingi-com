@@ -1,0 +1,12 @@
+.env
+.DS_Store
+node_modules
+elm-stuff
+dist
+build
+*.log
+tmp
+*.gif
+public/index.html
+elm.js
+.cache
