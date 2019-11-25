@@ -11,11 +11,23 @@
 
 <script>
   import { fade } from "svelte/transition";
-  import { createEventDispatcher } from "svelte";
+  import { onMount, onDestroy, createEventDispatcher } from "svelte";
   import IconButton from "./IconButton.svelte";
   import Logo from "./Logo.svelte";
 
   const close = () => dispatch("close");
+
+  onMount(() => {
+    try {
+      document.body.style.overflowY = "hidden";
+    } catch(err) {}
+  });
+
+  onDestroy(() => {
+    try {
+      document.body.style.overflowY = "auto";
+    } catch(err) {}
+  });
 
   const dispatch = createEventDispatcher();
 </script>

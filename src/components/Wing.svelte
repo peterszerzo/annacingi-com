@@ -94,11 +94,13 @@
     .wing:nth-child(2n+1) .wing-side:nth-child(1) {
       order: 2;
       transform: skewY(14deg);
+      margin-left: -1px;
     }
 
     .wing:nth-child(2n+1) .wing-side:nth-child(2) {
       order: 1;
       transform: skewY(-14deg);
+      margin-left: 0;
     }
   }
 
