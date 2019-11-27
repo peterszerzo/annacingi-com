@@ -90,7 +90,7 @@
 <style>
   .carousel-container,
   .carousel-slide {
-    width: 100%;
+    width: calc(100% - 20px);
     height: 280px;
   }
 

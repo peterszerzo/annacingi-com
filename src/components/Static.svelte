@@ -12,7 +12,7 @@
 
 <style>
   .static {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
   }
 
@@ -21,7 +21,7 @@
   }
 
   .static :global(p) {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
   }
 
   .static :global(blockquote) {
