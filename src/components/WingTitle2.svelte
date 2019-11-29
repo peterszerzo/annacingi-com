@@ -3,7 +3,10 @@
   {#if tags}
     <div class="tags">
       {#each tags as tag}
-        <Tag tag={tag} />
+        <Tag
+          tag={tag}
+          href="{null && `/tags/${tagUrl(tag)}`}"
+        />
       {/each}
     </div>
   {/if}
@@ -11,6 +14,10 @@
 
 <script>
   import Tag from "./Tag.svelte";
+
+  export const tagUrl = tag => {
+    return tag && tag.replace && tag.replace(/\ /g, "--");
+  }
 
   export let title;
   export let tags;
@@ -30,6 +37,7 @@
   h1 {
     width: fit-content;
     width: -moz-fit-content;
+    margin: auto;
     padding: 4px 10px;
   }
 

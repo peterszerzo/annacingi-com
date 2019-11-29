@@ -14,7 +14,9 @@ Costume design and masks by Ilaria Ariemme, dramaturgy by Giulia Tollis, light d
 
 An original show by Teatro dei Gordi. Produced by Teatro Franco Parenti and Teatro dei Gordi.
 
-Opening November 20th, 2018 in [Teatro Franco Parenti](https://www.teatrodeigordi.it/spettacolo/visite/).
+First performed November 20th, 2018 in [Teatro Franco Parenti](https://www.teatrodeigordi.it/spettacolo/visite/).
+
+**Awards:** Premio Tragos - Upcoming Set Designer 2019; [Premio Hystrio](https://premiohystrio.org) 2019.
 `,
     imgs: [
       {
@@ -242,7 +244,7 @@ Original play by Dario Fo and Franca Rame. Produced by Milano Teatro Scuola Paol
 
 First performed on September 24th 2014 in Piccolo Teatro Studio Melato, Milan.
 
-Awarded Premio Salon Brera-Bicocca in 2015, displayed in the International Art Academies Exihibition (Beijing, September 2015).
+**Awards:** Premio Salon Brera-Bicocca in 2015, displayed in the International Art Academies Exihibition (Beijing, September 2015).
 `,
     imgs: [
       {
@@ -329,7 +331,7 @@ Awarded Premio Salon Brera-Bicocca in 2015, displayed in the International Art A
 
 Costume design by Mark Bouman, light design by Fabrice Kebour.
 
-Opening on November 6th, 2019 in [Teatro alla Scala, Milan](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
+First performed on November 6th, 2019 in [Teatro alla Scala, Milan](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
 
 Produced by Teatro alla Scala.
 `,
@@ -561,20 +563,22 @@ Produced by Teatro alla Scala.
     id: "hansel-gretel",
     group: "Opera",
     title: "Hänsel und Gretel",
-    tags: ["set assistant"],
+    tags: ["set assistant", "award-winning"],
     openedAt: [2017, 9, 2],
     content: `
-**Conductor:** Marc Albrecht
+**Conductor:** Marc Albrecht.
 
-**Director:** Sven-Eric Bechtolf
+**Director:** Sven-Eric Bechtolf.
 
-**Set designer:** Julian Crouch
+**Set designer:** Julian Crouch.
 
 Costume design by Kevin Pollard, light design by Marco Filibeck, video design by Joshua Higgason.
 
 Opening on September 2nd, 2017 in Teatro alla Scala, Milan // [show link](http://www.teatroallascala.org/it/stagione/2016-2017/opera/hansel-und-gretel.html).
 
 Produced by Teatro alla Scala.
+
+**Awards:** Premio Abbiati - Best Sets, Costumes, Lights and Video 2018.
 `,
     imgs: [
       {

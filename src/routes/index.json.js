@@ -1,4 +1,4 @@
-import projects from "./projects/_projects.js";
+import projects from "./db/_projects.js";
 
 const contents = JSON.stringify(projects);
 

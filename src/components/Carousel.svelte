@@ -1,27 +1,29 @@
-<div class="carousel-container stickout">
-  {#if images[carouselPage] && images[carouselPage].credit}
-    <div class="carousel-credit">Credit: {images[carouselPage].credit}</div>
-  {/if}
-  <div class="carousel-controls">
-    {#each imageIndices as image, index}
-      <button class="carousel-button" class:selected={index === carouselPage} on:click={() => {
-        carouselPage = index;
-      }}></button>
-    {/each}
+{#if images.length > 0}
+  <div class="carousel-container stickout">
+    {#if images[carouselPage] && images[carouselPage].credit}
+      <div class="carousel-credit">Credit: {images[carouselPage].credit}</div>
+    {/if}
+    <div class="carousel-controls">
+      {#each imageIndices as image, index}
+        <button class="carousel-button" class:selected={index === carouselPage} on:click={() => {
+          carouselPage = index;
+        }}></button>
+      {/each}
+    </div>
+    <button class="carousel-side carousel-side-left" on:click={prev}>
+      <Chevron dir="left" />
+    </button>
+    <button class="carousel-side carousel-side-right" on:click={next}>
+      <Chevron dir="right" />
+    </button>
+    <div class="carousel" id={carouselId}>
+      {#each images as image}
+        <div class="carousel-slide" style="background-image: url({image.url});">
+        </div>
+      {/each}
+    </div>
   </div>
-  <button class="carousel-side carousel-side-left" on:click={prev}>
-    <Chevron dir="left" />
-  </button>
-  <button class="carousel-side carousel-side-right" on:click={next}>
-    <Chevron dir="right" />
-  </button>
-  <div class="carousel" id={carouselId}>
-    {#each images as image}
-      <div class="carousel-slide" style="background-image: url({image.url});">
-      </div>
-    {/each}
-  </div>
-</div>
+{/if}
 
 <script>
   import Siema from "siema";
@@ -155,9 +157,8 @@
   .carousel-credit {
     position: absolute;
     width: fit-content;
-    top: 10px;
-    left: 50%;
-    transform: translate3d(-50%, 0, 0);
+    bottom: 6px;
+    left: 6px;
     font-size: 12px;
     padding: 2px 6px;
     border-radius: 2px;

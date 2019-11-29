@@ -12,6 +12,7 @@
     "compression": "^1.7.1",
     "marked": "^0.7.0",
     "polka": "next",
+    "ramda": "^0.26.1",
     "siema": "^1.5.1",
     "sirv": "^0.4.0",
     "snarkdown": "^1.2.2"

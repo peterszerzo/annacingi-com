@@ -2,15 +2,13 @@
   <title>{status}</title>
 </svelte:head>
 
-<WingTitle2 title="Error" tags={[status]} />
+<div class="content">
+  <WingTitle2 title="{error.message}" tags={[status]} />
 
-<Static markdown={`
-\`\`\`
-${error.message}
-
-${error.stack}
-\`\`\`
-`} />
+  {#if dev}
+  <Static markdown={error.stack || ""} />
+  {/if}
+</div>
 
 <script>
   import WingTitle2 from "../components/WingTitle2.svelte";
@@ -18,8 +16,6 @@ ${error.stack}
 
   export let status;
   export let error;
-
-  console.log(status, error);
 
   const dev = process.env.NODE_ENV === 'development';
 </script>

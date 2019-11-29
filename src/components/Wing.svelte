@@ -11,9 +11,9 @@
   {#if project.thumbnailImg}
     <div class="wing-side stickout" style="background-image: url({project.thumbnailImg})"></div>
   {:else}
-    <div class="wing-side stickout" style="background: #ababab;">
+    <div class="wing-side stickout" style="background: #454545;">
       {#each grid as gridItem}
-        <div class="wing-pattern" style="top: {5 + gridItem[0] * 40}px; left: {5 + gridItem[1] * 40 + (gridItem[0] % 2 === 0 ? 20 : 0)}px;">
+        <div class="wing-pattern" style="top: {-10 + gridItem[0] * 40}px; left: {-10 + gridItem[1] * 40 + (gridItem[0] % 2 === 0 ? 20 : 0)}px;">
           <svg viewBox="0 0 1000 1000">
             <use xlink:href="#logo" />
           </svg>
@@ -35,7 +35,7 @@
       .map(i => range(m).map(j => [i, j]))
       .reduce((accumulator, current) => [...accumulator, ...current], []);
   
-  let grid = range2(6)(3);
+  let grid = range2(8)(4);
 </script>
 
 <style>
@@ -169,7 +169,7 @@
 
   .date {
     margin: 0;
-    font-size: 18px;
+    font-size: 20px;
     color: #BBB;
   }
 
