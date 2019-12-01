@@ -2,13 +2,11 @@
   <title>{status}</title>
 </svelte:head>
 
-<div class="content">
-  <WingTitle2 title="{error.message}" tags={[status]} />
+<WingTitle2 title="{error.message}" tags={[status]} />
 
-  {#if dev}
-  <Static markdown={error.stack || ""} />
-  {/if}
-</div>
+{#if dev}
+<Static markdown={error.stack || ""} />
+{/if}
 
 <script>
   import WingTitle2 from "../components/WingTitle2.svelte";

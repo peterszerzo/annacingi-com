@@ -170,7 +170,7 @@
   .date {
     margin: 0;
     font-size: 20px;
-    color: #BBB;
+    color: #999;
   }
 
   h3 {

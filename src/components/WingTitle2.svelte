@@ -5,7 +5,7 @@
       {#each tags as tag}
         <Tag
           tag={tag}
-          href="{null && `/tags/${tagUrl(tag)}`}"
+          href="{`/tags/${tagUrl(tag)}`}"
         />
       {/each}
     </div>

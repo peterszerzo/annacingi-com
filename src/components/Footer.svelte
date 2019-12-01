@@ -6,7 +6,7 @@
   footer {
     font-family: "Quicksand", sans-serif;
     padding: 20px 0;
-    color: #ababab;
+    color: #787878;
     text-align: center;
     font-size: 14px;
   }

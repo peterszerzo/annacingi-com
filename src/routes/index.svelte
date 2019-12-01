@@ -2,25 +2,23 @@
   <title>Anna Cingi | Set Designer</title>
 </svelte:head>
 
-<div class="content">
-  <section>
-    <WingTitle title="Theatre" />
-    <div class="wings">
+<section>
+  <WingTitle title="Theatre" />
+  <Wings>
     {#each theatreProjects as project, index}
       <Wing project={project} />
     {/each}
-    </div>
-  </section>
+  </Wings>
+</section>
 
-  <section>
-    <WingTitle title="Opera" />
-    <div class="wings">
-      {#each operaProjects as project, index}
-        <Wing project={project} />
-      {/each}
-    </div>
-  </section>
-</div>
+<section>
+  <WingTitle title="Opera" />
+  <Wings>
+    {#each operaProjects as project, index}
+      <Wing project={project} />
+    {/each}
+  </Wings>
+</section>
 
 <script context="module">
   export function preload({ params, query }) {
@@ -30,6 +28,7 @@
 
 <script>
   import Wing from "../components/Wing.svelte";
+  import Wings from "../components/Wings.svelte";
   import WingTitle from "../components/WingTitle.svelte";
 
   export let projects;
@@ -42,15 +41,5 @@
 <style>
   section:not(:first-child) {
     margin-top: 120px;
-  }
-
-  .wings {
-    text-align: center;
-  }
-
-  @media (min-width: 860px) {
-    .wings {
-      text-align: left;
-    }
   }
 </style>

@@ -2,11 +2,9 @@
   <title>{project.title}</title>
 </svelte:head>
 
-<div class="content">
-  <WingTitle2 title={project.title} tags={project.tags} />
-  <Carousel carouselId="car1" images={project.imgs} />
-  <Static markdown={project.content} />
-</div>
+<WingTitle2 title={project.title} tags={project.tags} />
+<Carousel carouselId="car1" images={project.imgs} />
+<Static markdown={project.content} />
 
 <script context="module">
   export async function preload({ params, query }) {

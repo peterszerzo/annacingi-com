@@ -1,25 +1,24 @@
 import projects from "../db/_projects.js";
+import { fromSlug } from "../../utils.js";
 
 const lookup = new Map();
 
 projects.forEach(project => {
   project.tags.forEach(tag => {
     const current = lookup.get(tag);
-    lookup.set(tag, [JSON.stringify(project), ...(current || [])]);
+    lookup.set(tag, [project, ...(current || [])]);
   });
 });
 
 export function get(req, res, next) {
-  // the `slug` parameter is available because
-  // this file is called [slug].json.js
-  const slug = req.params.slug.replace(/\-\-/g, "-");
+  const tag = fromSlug(req.params.slug);
 
-  if (lookup.has(slug)) {
+  if (lookup.has(tag)) {
     res.writeHead(200, {
       "Content-Type": "application/json"
     });
 
-    res.end(lookup.get(slug));
+    res.end(JSON.stringify(lookup.get(tag)));
   } else {
     res.writeHead(404, {
       "Content-Type": "application/json"

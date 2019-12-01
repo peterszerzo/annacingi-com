@@ -1,4 +1,4 @@
-<button class="icon-button" on:click>
+<button title={title} class="icon-button" on:click>
   <svelte:component this={useIcon} />
 </button>
 
@@ -7,6 +7,7 @@
   import X from "./icons/X.svelte";
 
   export let icon;
+  export let title;
 
   $ : useIcon = (() => {
     if (icon === "Falafel") {

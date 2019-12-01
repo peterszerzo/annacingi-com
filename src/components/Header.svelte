@@ -9,7 +9,7 @@
     </div>
   </a>
   <nav class="header-nav-mobile">
-    <IconButton icon="Falafel" on:click={() => isMobileNavOpen = !isMobileNavOpen} />
+    <IconButton title="Open navigation" icon="Falafel" on:click={() => isMobileNavOpen = !isMobileNavOpen} />
   </nav>
   {#if isMobileNavOpen}
     <MobileNavOverlay on:close={() => isMobileNavOpen = false} />

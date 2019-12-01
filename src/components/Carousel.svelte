@@ -92,7 +92,6 @@
 <style>
   .carousel-container,
   .carousel-slide {
-    width: calc(100% - 20px);
     height: 280px;
   }
 
@@ -111,7 +110,7 @@
   .carousel-container {
     background-color: #000;
     position: relative;
-    margin: 20px auto;
+    margin: 20px 0;
   }
 
   .carousel-slide {
@@ -131,14 +130,22 @@
 
   .carousel-button {
     display: block;
-    margin: 0 6px;
     padding: 0;
-    width: 10px;
-    height: 10px;
     border-radius: 50%;
     background-color: #CCC;
     border: 0;
+    width: 6px;
+    height: 6px;
+    margin: 0 3px;
     cursor: pointer;
+  }
+
+  @media (min-width: 860px) {
+    .carousel-button {
+      width: 12px;
+      height: 12px;
+      margin: 0 6px;
+    }
   }
 
   .carousel-button:hover {
@@ -157,8 +164,9 @@
   .carousel-credit {
     position: absolute;
     width: fit-content;
+    max-width: 120px;
     bottom: 6px;
-    left: 6px;
+    right: 6px;
     font-size: 12px;
     padding: 2px 6px;
     border-radius: 2px;

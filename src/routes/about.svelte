@@ -2,10 +2,8 @@
   <title>About Anna</title>
 </svelte:head>
 
-<div class="content">
-  <WingTitle2 title="About Anna" />
-  <Static markdown={content} />
-</div>
+<WingTitle2 title="About Anna" />
+<Static markdown={content} />
 
 <script>
   import Static from "../components/Static.svelte";
@@ -23,7 +21,7 @@ Feel free to connect by [email](mailto:annamcingi@gmail.com) or [social media](h
 </script>
 
 <style>
-  .content > :global(div:nth-child(2)) {
+  :global(.content) > :global(div:nth-child(2)) {
     margin-top: 80px;
   }
 </style>

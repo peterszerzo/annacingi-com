@@ -1,6 +1,6 @@
 <div class="mobile-nav-popup" transition:fade="{{ duration: 50, delay: 50 }}">
   <div class="mobile-nav-content">
-    <IconButton icon="X" on:click={close} />
+    <IconButton title="Close navigation" icon="X" on:click={close} />
     <a on:click={close} href="/">Home</a>
     <a on:click={close} href="/about">About</a>
     <a on:click={close} href="mailto:annamcingi@gmail.com">Contact</a>
