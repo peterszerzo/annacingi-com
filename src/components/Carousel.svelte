@@ -95,14 +95,16 @@
     height: 280px;
   }
 
-  @media (min-width: 860px) {
-    .carousel-container {
-      left: 0;
-    }
-
+  @media (min-width: 480px) {
     .carousel-container,
     .carousel-slide {
-      width: 840px;
+      height: 360px;
+    }
+  }
+
+  @media (min-width: 860px) {
+    .carousel-container,
+    .carousel-slide {
       height: 480px;
     }
   }

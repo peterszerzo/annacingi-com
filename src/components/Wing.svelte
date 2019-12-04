@@ -12,8 +12,8 @@
     <div class="wing-side stickout" style="background-image: url({project.thumbnailImg})"></div>
   {:else}
     <div class="wing-side stickout" style="background: #454545;">
-      {#each grid as gridItem}
-        <div class="wing-pattern" style="top: {-10 + gridItem[0] * 40}px; left: {-10 + gridItem[1] * 40 + (gridItem[0] % 2 === 0 ? 20 : 0)}px;">
+      {#each grid as gridItem, index}
+        <div class="wing-pattern" style="transform: rotate({(index % 4) * 90}deg); top: {-10 + gridItem[0] * 40}px; left: {-10 + gridItem[1] * 40 + (gridItem[0] % 2 === 0 ? 20 : 0)}px;">
           <svg viewBox="0 0 1000 1000">
             <use xlink:href="#logo" />
           </svg>
