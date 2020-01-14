@@ -1,4 +1,6 @@
 <div class="container">
+  <div class="overlay" class:overlayActive={$preloading}></div>
+
   <Header />
 
   <main class="content">
@@ -9,8 +11,11 @@
 </div>
 
 <script>
+  import { stores } from "@sapper/app";
   import Header from '../components/Header.svelte';
   import Footer from '../components/Footer.svelte';
+
+  const { preloading } = stores();
 </script>
 
 <style>
@@ -75,5 +80,22 @@
     font-size: 30px;
     text-transform: uppercase;
     font-family: "Quicksand", sans-serif;
+  }
+
+  .overlay {
+    position: fixed;
+    z-index: 100000;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+
+  .overlayActive {
+    opacity: 1;
   }
 </style>
