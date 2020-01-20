@@ -20,6 +20,10 @@
   </Wings>
 </section>
 
+<div style="display:none" aria-hidden>
+  <a href="/admin">Admin</a>
+</div>
+
 <script context="module">
   export function preload({ params, query }) {
     return this.fetch("index.json").then(res => res.json()).then(projects => ({ projects }));
