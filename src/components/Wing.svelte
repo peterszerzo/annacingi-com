@@ -6,7 +6,7 @@
         <Tag tag={tag} />
       {/each}
     </div>
-    <p class="date">{project.openedAt[1]} / {project.openedAt[0]}</p>
+    <p class="date">{openingMonth} / {openingYear}</p>
   </div>
   {#if project.thumbnailImg}
     <div class="wing-side stickout" style="background-image: url({project.thumbnailImg})"></div>
@@ -41,6 +41,9 @@
   const handleLoad = () => {
     // isImageLoaded = true;
   };
+
+  $ : openingYear = new Date(project.openedAt).getFullYear();
+  $ : openingMonth = new Date(project.openedAt).getMonth() + 1;
 
   const range = n => [...Array(n).keys()];
 

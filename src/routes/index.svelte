@@ -26,7 +26,7 @@
 
 <script context="module">
   export function preload({ params, query }) {
-    return this.fetch("index.json").then(res => res.json()).then(projects => ({ projects }));
+    return this.fetch("index.data.json").then(res => res.json());
   }
 </script>
 
