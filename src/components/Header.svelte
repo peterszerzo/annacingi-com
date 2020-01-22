@@ -15,9 +15,9 @@
     <MobileNavOverlay on:close={() => isMobileNavOpen = false} />
   {/if}
   <nav class="header-nav-desktop">
-    <a class="nav-link" href="about">about</a>
+    <a class="nav-link" href="/about">about</a>
     <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>
-    <a class="nav-link" href="anna-cingi-cv-english.pdf">cv</a>
+    <a class="nav-link" href="/anna-cingi-cv-english.pdf">cv</a>
   </nav>
 </header>
 

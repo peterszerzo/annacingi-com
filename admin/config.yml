@@ -42,8 +42,8 @@ collections:
           - label: "Caption"
             name: "credit"
             widget: "string"
-      - label: "Category"
-        name: "category"
+      - label: "Group"
+        name: "group"
         widget: "select"
         options: ["Theatre", "Opera"]
   - name: "sections"

@@ -5,15 +5,15 @@ title: "Schneewittchen"
 tags: 
   - "shadow play"
 openedAt: 2019-03-13T12:00:00.000Z
-thumbnailImg: "/images/schneewittchen-thumbnail.jpg"
+thumbnailImg: "/cms/images/schneewittchen-thumbnail.jpg"
 imgs:
-  - url: "/images/schneewittchen-1.jpg"
+  - url: "/cms/images/schneewittchen-1.jpg"
     alt: "Schneewittchen 1"
     credit: "my rendering"
-  - url: "/images/schneewittchen-2.jpg"
+  - url: "/cms/images/schneewittchen-2.jpg"
     alt: "Schneewittchen 2"
     credit: "Gianmarco Bresadola"
-  - url: "/images/schneewittchen-3.jpg"
+  - url: "/cms/images/schneewittchen-3.jpg"
     alt: "Schneewittchen 3"
     credit: "Gianmarco Bresadola"
 ---

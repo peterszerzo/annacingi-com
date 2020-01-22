@@ -1,31 +1,38 @@
-import projects from "../db/_projects.js";
+import { fs } from "mz";
+import frontMatter from "front-matter";
 
-const lookup = new Map();
-
-projects.forEach(project => {
-  lookup.set(project.id, JSON.stringify(project));
-});
-
-export function get(req, res, next) {
+export const get = async (req, res, next) => {
   // the `slug` parameter is available because
   // this file is called [slug].json.js
   const { slug } = req.params;
 
-  if (lookup.has(slug)) {
+  try {
+    const file = (await fs.readFile(
+      `static/cms/projects/${slug}.md`
+    )).toString();
+
+    const parsedFile = frontMatter(file);
+
     res.writeHead(200, {
       "Content-Type": "application/json"
     });
 
-    res.end(lookup.get(slug));
-  } else {
+    res.end(
+      JSON.stringify({
+        ...parsedFile.attributes,
+        body: parsedFile.body
+      })
+    );
+  } catch (err) {
     res.writeHead(404, {
       "Content-Type": "application/json"
     });
 
     res.end(
       JSON.stringify({
-        message: `Not found`
+        status: 404,
+        message: "Not found"
       })
     );
   }
-}
+};

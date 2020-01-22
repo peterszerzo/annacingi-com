@@ -4,7 +4,7 @@
 
 <WingTitle2 title={project.title} tags={project.tags} />
 <Carousel carouselId="car1" images={project.imgs} />
-<Static markdown={project.content} />
+<Static markdown={project.body} />
 
 <script context="module">
   export async function preload({ params, query }) {

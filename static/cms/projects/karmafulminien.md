@@ -6,39 +6,39 @@ tags:
   - "set designer"
   - "costume designer"
 openedAt: 2015-11-03T12:00:00.000Z
-thumbnailImg: "/images/karmafulminien-thumbnail.jpeg"
+thumbnailImg: "/cms/images/karmafulminien-thumbnail.jpeg"
 imgs:
-  - url: "/images/karmafulminien-stage-1.jpg"
+  - url: "/cms/images/karmafulminien-stage-1.jpg"
     alt: "Karmafulminien Stage 1"
     credit: null
-  - url: "/images/karmafulminien-stage-2.jpg"
+  - url: "/cms/images/karmafulminien-stage-2.jpg"
     alt: "Karmafulminien Stage 2"
     credit: null
-  - url: "/images/karmafulminien-stage-10.jpg"
+  - url: "/cms/images/karmafulminien-stage-10.jpg"
     alt: "Karmafulminien Stage 10"
     credit: null
-  - url: "/images/karmafulminien-stage-3.jpg"
+  - url: "/cms/images/karmafulminien-stage-3.jpg"
     alt: "Karmafulminien Stage 3"
     credit: null
-  - url: "/images/karmafulminien-stage-4.jpg"
+  - url: "/cms/images/karmafulminien-stage-4.jpg"
     alt: "Karmafulminien Stage 4"
     credit: null
-  - url: "/images/karmafulminien-stage-5.jpg"
+  - url: "/cms/images/karmafulminien-stage-5.jpg"
     alt: "Karmafulminien Stage 5"
     credit: null
-  - url: "/images/karmafulminien-stage-6.jpg"
+  - url: "/cms/images/karmafulminien-stage-6.jpg"
     alt: "Karmafulminien Stage 6"
     credit: "Laura Granelli"
-  - url: "/images/karmafulminien-stage-11.jpg"
+  - url: "/cms/images/karmafulminien-stage-11.jpg"
     alt: "Karmafulminien Stage 11"
     credit: null
-  - url: "/images/karmafulminien-stage-12.jpg"
+  - url: "/cms/images/karmafulminien-stage-12.jpg"
     alt: "Karmafulminien Stage 12"
     credit: null
-  - url: "/images/karmafulminien-rendering.jpg"
+  - url: "/cms/images/karmafulminien-rendering.jpg"
     alt: "Karmafulminien rendering"
     credit: "my rendering"
-  - url: "/images/karmafulminien-poster.jpg"
+  - url: "/cms/images/karmafulminien-poster.jpg"
     alt: "Karmafulminien poster"
     credit: "Niccolò Masini"
 ---

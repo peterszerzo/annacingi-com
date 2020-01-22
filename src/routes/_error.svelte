@@ -2,7 +2,7 @@
   <title>{status}</title>
 </svelte:head>
 
-<WingTitle2 title="{error.status} {error.message}" tags={[]} />
+<WingTitle2 title="{error.message}" tags={[]} />
 
 {#if dev}
 <Static markdown={error.stack || ""} />
