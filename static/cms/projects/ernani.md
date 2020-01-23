@@ -5,7 +5,7 @@ title: "Ernani"
 tags: 
   - "set assistant"
 openedAt: 2018-09-29T12:00:00.000Z
-thumbnailImg: "/images/ernani-thumbnail.jpeg"
+thumbnailImg: "/cms/images/ernani-thumbnail.jpeg"
 imgs:
   - url: "/cms/images/ernani-01.jpg"
     alt: "Ernani stage 1"
