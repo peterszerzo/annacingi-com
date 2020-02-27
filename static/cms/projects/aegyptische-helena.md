@@ -4,7 +4,7 @@ title: Die Ägyptische Helena
 openedAt: 2019-11-06T12:00:00.000Z
 tags:
   - set assistant
-thumbnailImg: /cms/images/1cropped.jpg
+thumbnailImg: ''
 imgs: []
 group: Opera
 ---
