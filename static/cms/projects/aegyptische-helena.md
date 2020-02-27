@@ -1,12 +1,12 @@
 ---
-id: "aegyptische-helena"
-group: "Opera"
-title: "Die Ägyptische Helena"
-tags:
-  - "set assistant"
+id: aegyptische-helena
+title: Die Ägyptische Helena
 openedAt: 2019-11-06T12:00:00.000Z
+tags:
+  - set assistant
+thumbnailImg: /cms/images/1cropped.jpg
 imgs: []
-thumbnailImg: null
+group: Opera
 ---
 **Conductor:** Franz Welser-Möst.
 
@@ -16,6 +16,6 @@ thumbnailImg: null
 
 Costume design by Mark Bouman, light design by Fabrice Kebour.
 
-First performed on November 6th, 2019 in [Teatro alla Scala, Milan](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
+First performed on November 6th, 2019 in Teatro alla Scala, Milan // [more information](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
 
 Produced by Teatro alla Scala.
