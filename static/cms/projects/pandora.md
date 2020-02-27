@@ -4,7 +4,8 @@ title: Pandora
 openedAt: 2020-07-08T15:00:00.000Z
 tags:
   - set designer
-thumbnailImg: /cms/images/visite-thumbnail.jpg
+thumbnailImg: null
+imgs: []
 group: Theatre
 ---
 **Director:** Riccardo Pippa.

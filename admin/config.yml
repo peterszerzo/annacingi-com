@@ -34,6 +34,7 @@ collections:
       - label: "Thumbnail image"
         name: "thumbnailImg"
         widget: "image"
+        required: false
         hint: "Best results with a 280x560 jpg file."
       - label: "Images"
         name: "imgs"
