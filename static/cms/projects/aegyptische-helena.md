@@ -4,8 +4,14 @@ title: Die Ägyptische Helena
 openedAt: 2019-11-06T12:00:00.000Z
 tags:
   - set assistant
-thumbnailImg: ''
-imgs: []
+thumbnailImg: /cms/images/helena-thumbnail6.jpg
+imgs:
+  - alt: helena stage picture 1
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena1s.jpg
+  - alt: helena stage picture 2
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena2s.jpg
 group: Opera
 ---
 **Conductor:** Franz Welser-Möst.
