@@ -3,7 +3,9 @@
 </svelte:head>
 
 <WingTitle2 title={project.title} tags={project.tags} />
-<Carousel carouselId="car1" images={project.imgs} />
+{#if project.imgs}
+  <Carousel carouselId="car1" images={project.imgs} />
+{/if}
 <Static markdown={project.body} />
 
 <script context="module">
