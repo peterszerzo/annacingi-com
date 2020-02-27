@@ -12,6 +12,36 @@ imgs:
   - alt: helena stage picture 2
     credit: 'credit: Brescia, Amisano © Teatro alla Scala'
     url: /cms/images/helena2s.jpg
+  - alt: helena stage picture 3
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena3s.jpg
+  - alt: helena stage picture 4
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena4s.jpg
+  - alt: helena stage picture 5
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena5s.jpg
+  - alt: helena stage picture 6
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena6s.jpg
+  - alt: helena stage picture 7
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena7s.jpg
+  - alt: helena stage picture 8
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena8s.jpg
+  - alt: helena stage picture 9
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena9s.jpg
+  - alt: helena stage picture 10
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena10s.jpg
+  - alt: helena stage picture 11
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena11s.jpg
+  - alt: helena stage picture 12
+    credit: 'credit: Brescia, Amisano © Teatro alla Scala'
+    url: /cms/images/helena12s.jpg
 group: Opera
 ---
 **Conductor:** Franz Welser-Möst.
