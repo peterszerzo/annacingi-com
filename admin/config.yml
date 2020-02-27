@@ -46,9 +46,11 @@ collections:
           - label: "Alt text"
             name: "alt"
             widget: "string"
+            required: false
           - label: "Caption"
             name: "credit"
             widget: "string"
+            required: false
       - label: "Group"
         name: "group"
         widget: "select"
