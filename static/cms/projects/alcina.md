@@ -4,7 +4,7 @@ title: Alcina
 openedAt: 2020-02-14T18:30:56.530Z
 tags:
   - set assistant
-thumbnailImg: /cms/images/1cropped.jpg
+thumbnailImg: ''
 group: Opera
 ---
 Conductor: Axel Kober
