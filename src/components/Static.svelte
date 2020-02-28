@@ -4,10 +4,11 @@
 
 <script>
   import marked from "marked";
+  import { afterUpdate } from "svelte";
 
   export let markdown;
 
-  let htmlContent = marked(markdown);
+  $ : htmlContent = marked(markdown);
 </script>
 
 <style>

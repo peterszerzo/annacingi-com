@@ -1,4 +1,4 @@
-{#if images.length > 0}
+{#if images && images.length > 0}
   <div class="carousel-container stickout">
     {#if images[carouselPage] && images[carouselPage].credit}
       <div class="carousel-credit">Credit: {images[carouselPage].credit}</div>
@@ -17,10 +17,12 @@
       <Chevron dir="right" />
     </button>
     <div class="carousel" id={carouselId}>
-      {#each images as image}
-        <div class="carousel-slide" style="background-image: url({image.url});">
-        </div>
-      {/each}
+      {#if siemaImages}
+        {#each siemaImages as image}
+          <div class="carousel-slide" style="background-image: url({image.url});">
+          </div>
+        {/each}
+      {/if}
     </div>
   </div>
 {/if}
@@ -28,7 +30,7 @@
 <script>
   import Siema from "siema";
   import Chevron from "./icons/Chevron.svelte";
-  import { onMount, onDestroy } from "svelte";
+  import { onMount, onDestroy, afterUpdate, tick } from "svelte";
 
   export let carouselId;
 
@@ -37,6 +39,9 @@
   $: imageIndices = images.map((_image, index) => index);
 
   let siema;
+
+  // A copy of images, but modified in a sequence that takes into account the safe unmount of the Siema carousel
+  let siemaImages = images;
 
   let carouselPage = 0;
 
@@ -61,13 +66,24 @@
     }
   }
 
-  onMount(() => {
-    if (images.length === 0) {
-      return;
-    }
+  const initialSetup = () => {
     try {
       document.addEventListener("keydown", handleKeyPress);
     } catch(err) {}
+  }
+
+  const finalTeardown = () => {
+    // For some reason, this code runs on the server and throws an error
+    try {
+      document.removeEventListener("keydown", handleKeyPress);
+    } catch(err) {}
+  }
+
+  const setup = () => {
+    if (!siemaImages || siemaImages.length === 0) {
+      return;
+    }
+    siemaImages = images;
     siema = new Siema({
       selector: `#${carouselId}`,
       loop: true,
@@ -75,17 +91,33 @@
         carouselPage = siema.currentSlide;
       }
     });
+  }
+
+  afterUpdate(async () => {
+    if (siemaImages !== images) {
+      teardown();
+      await tick();
+      siemaImages = images;
+      await tick();
+      setup();
+    }
   });
 
-  onDestroy(() => {
+  const teardown = () => {
     if (images.length === 0) {
       return;
     }
-    // For some reason, this code runs on the server and throws an error
-    try {
-      document.removeEventListener("keydown", handleKeyPress);
-    } catch(err) {}
     siema && siema.destroy();
+  }
+
+  onMount(() => {
+    initialSetup();
+    setup();
+  });
+
+  onDestroy(() => {
+    teardown();
+    finalTeardown();
   });
 </script>
 

@@ -14,7 +14,6 @@
       class="load-test"
       src={project.thumbnailImg}
       alt="Loading image"
-      on:load={handleLoad}
       aria-hidden="true"
     />
   {:else}
@@ -34,13 +33,6 @@
   import Tag from "./Tag.svelte";
 
   export let project;
-
-  // TODO image lazy-loading not yet implemented
-  // let isImageLoaded = false;
-
-  const handleLoad = () => {
-    // isImageLoaded = true;
-  };
 
   $ : openingYear = new Date(project.openedAt).getFullYear();
   $ : openingMonth = new Date(project.openedAt).getMonth() + 1;
