@@ -2,6 +2,7 @@
 
 <style>
   .wing-title {
+    width: -moz-fit-content;
     width: fit-content;
     color: #FFF;
     background-color: #000;

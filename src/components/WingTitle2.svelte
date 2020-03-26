@@ -27,16 +27,16 @@
   .wing-title2 {
     color: #000;
     background-color: #FFF;
-    width: fit-content;
     width: -moz-fit-content;
+    width: fit-content;
     transform: skewY(-14deg);
     text-align: center;
     margin: 20px auto 40px;
   }
 
   h1 {
-    width: fit-content;
     width: -moz-fit-content;
+    width: fit-content;
     margin: auto;
     padding: 4px 10px;
   }

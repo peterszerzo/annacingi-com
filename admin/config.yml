@@ -65,6 +65,10 @@ collections:
           - label: "Body"
             name: "body"
             widget: "markdown"
+          - label: "Portrait"
+            name: "portraitUrl"
+            widget: "image"
+            required: false
       - label: "CV"
         name: "cv"
         file: "static/cms/cv.md"
