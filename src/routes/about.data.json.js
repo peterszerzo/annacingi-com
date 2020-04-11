@@ -1,4 +1,5 @@
 import { fs } from "mz";
+import frontMatter from "front-matter";
 
 export const get = async (req, res, next) => {
   // the `slug` parameter is available because
@@ -8,13 +9,16 @@ export const get = async (req, res, next) => {
   try {
     const file = (await fs.readFile("static/cms/about.md")).toString();
 
+    const parsedFile = frontMatter(file);
+
     res.writeHead(200, {
       "Content-Type": "application/json"
     });
 
     res.end(
       JSON.stringify({
-        body: file
+        ...parsedFile.attributes,
+        body: parsedFile.body
       })
     );
   } catch (err) {

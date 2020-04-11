@@ -15,16 +15,19 @@
     <MobileNavOverlay on:close={() => isMobileNavOpen = false} />
   {/if}
   <nav class="header-nav-desktop">
-    <a class="nav-link" href="/about">about</a>
+    <a class="nav-link" class:active-nav-link={$page.path === "/about"} href="/about">about</a>
     <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>
     <a class="nav-link" href="/cms/files/anna-cingi-cv-english.pdf">cv</a>
   </nav>
 </header>
 
 <script>
+  import { stores } from "@sapper/app";
   import Logo from "./Logo.svelte";
   import MobileNavOverlay from "./MobileNavOverlay.svelte";
   import IconButton from "./IconButton.svelte";
+
+  const { page } = stores();
 
   let isMobileNavOpen = false;
 </script>
@@ -93,7 +96,11 @@
     margin-left: 16px;
   }
 
+  .active-nav-link {
+    font-weight: 700;
+  }
+
   .nav-link:hover {
-    border-bottom: 1px solid currentColor;
+    border-bottom: 2px solid currentColor;
   }
 </style>

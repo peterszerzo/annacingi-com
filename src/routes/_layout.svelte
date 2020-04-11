@@ -34,6 +34,7 @@
 
   .content {
     padding: 40px 0;
+    min-height: calc(100vh - 140px);
   }
 
   @media (min-width: 860px) {
