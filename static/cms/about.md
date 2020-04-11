@@ -1,5 +1,5 @@
 ---
-portraitUrl: /cms/images/collage-pro3-small.jpg
+portraitUrl: /cms/images/collage-pro5.jpg
 ---
 I am a set, costume and prop designer with roots in Milan, working in theatre and opera since 2014.
 
