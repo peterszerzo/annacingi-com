@@ -15,7 +15,7 @@
     <MobileNavOverlay on:close={() => isMobileNavOpen = false} />
   {/if}
   <nav class="header-nav-desktop">
-    <a class="nav-link" class:active-nav-link={$page.path === "/about"} href="/about">about</a>
+    <a class="nav-link" class:active-nav-link={["/about", "/about/"].indexOf($page.path) > -1} href="/about">about</a>
     <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>
     <a class="nav-link" href="/cms/files/anna-cingi-cv-english.pdf">cv</a>
   </nav>
