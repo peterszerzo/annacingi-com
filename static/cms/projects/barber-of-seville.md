@@ -52,6 +52,6 @@ group: Opera
 
 Light design by Alex Brok, coreography by Zack Winokur, dramaturgy by Peter te Nuyl.
 
-First performed on November 10th, 2018 in [Dutch National Opera and Ballet](https://www.operaballet.nl/en/opera/2018-2019/show/il-barbiere-siviglia), Amsterdam. 
+First performed on November 10th, 2018 in Dutch National Opera and Ballet, Amsterdam // [more information](https://www.operaballet.nl/en/opera/2018-2019/show/il-barbiere-siviglia)
 
 Produced by Dutch National Opera and Ballet.
