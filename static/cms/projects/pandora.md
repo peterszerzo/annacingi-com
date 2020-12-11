@@ -44,10 +44,14 @@ imgs:
     url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
-**Director:** Riccardo Pippa.
+**Director:** Riccardo Pippa
 
-An original show by Teatro dei Gordi. Produced by Teatro Franco Parenti and Teatro dei Gordi.
+**Performers:** Claudia Caldarano, Cecilia Campani, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Matteo Vitanza
 
-**Opening in July, 2020 @ Venice Biennale.** Information and pictures coming soon!
+Costume design and masks by Ilaria Ariemme, dramaturgy by Giulia Tollis, light design by Paolo Casati, sound design by Luca De Marinis.
 
-Teatro dei Gordi is an Milan-based independent theater company, which I collaborate with since their 2018 production [Visite](/projects/visite). In 2019 they were awarded Premio Hystrio Iceberg.
+An original show by Teatro dei Gordi. Produced by Teatro Franco Parenti, Teatro Stabile di Torino-Teatro Nazionale, Fondazione Campania dei Festival
+
+First performed September 17th, 2020 at [Biennale di Venezia](https://www.labiennale.org/en/theatre/2020/theatre-performances/teatro-dei-gordi-pandora).
+
+Teatro dei Gordi is an Milan-based independent theater company, which I collaborate with since their 2018 production [Visite](/projects/visite). In 2019 they were awarded [Premio Hystrio Iceberg](https://www.premiohystrio.org/le-motivazioni-del-2019); in 2020 they were awarded [Premio ANCT](http://www.criticiditeatro.it/i-premi-anct-toccano-verona-allo-scenografo-antonio-panzuto-e-al-regista-riccardo-pippa/).
