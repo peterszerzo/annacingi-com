@@ -55,4 +55,6 @@ An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). 
 
 First performed September 17th, 2020 at [Biennale di Venezia](https://www.labiennale.org/en/theatre/2020/theatre-performances/teatro-dei-gordi-pandora), Venice // [more information](https://www.teatrodeigordi.it/en/pandora-2/)
 
-Teatro dei Gordi is an Milan-based independent theater company, which I collaborate with since their 2018 production [Visite](/projects/visite). In 2019 they were awarded [**Premio Hystrio Iceberg**](https://www.premiohystrio.org/le-motivazioni-del-2019); in 2020 they were awarded [**Premio ANCT**](http://www.criticiditeatro.it/i-premi-anct-toccano-verona-allo-scenografo-antonio-panzuto-e-al-regista-riccardo-pippa/).
+Teatro dei Gordi is a Milan-based independent theater company operating since 2010, which I collaborate with since their 2018 production [Visite](/projects/visite). 
+
+Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://www.premiohystrio.org/le-motivazioni-del-2019) ****in 2019 and [**Premio ANCT**](http://www.criticiditeatro.it/i-premi-anct-toccano-verona-allo-scenografo-antonio-panzuto-e-al-regista-riccardo-pippa/) in 2020.
