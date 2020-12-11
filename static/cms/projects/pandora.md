@@ -4,7 +4,20 @@ title: Pandora
 openedAt: 2020-07-08T15:00:00.000Z
 tags:
   - set designer
-imgs: []
+  - award winning
+imgs:
+  - url: /cms/images/noemi-ardesi-17_1.jpg
+  - url: /cms/images/noemi-ardesi-21_2.jpg
+  - url: /cms/images/noemi-ardesi-28_1.jpg
+  - url: /cms/images/noemi-ardesi-34_1.jpg
+  - url: /cms/images/noemi-ardesi-52-2.jpg
+  - url: /cms/images/noemi-ardesi-59_1.jpg
+  - url: /cms/images/noemi-ardesi-62_1.jpg
+  - url: /cms/images/noemi-ardesi-66_1.jpg
+  - url: /cms/images/noemi-ardesi-73_1.jpg
+  - url: /cms/images/noemi-ardesi-75_1.jpg
+  - url: /cms/images/noemi-ardesi-78_1.jpg
+  - url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
 **Director:** Riccardo Pippa.
