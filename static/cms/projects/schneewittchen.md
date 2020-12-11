@@ -1,21 +1,21 @@
 ---
-id: "schneewittchen"
-group: "Opera"
-title: "Schneewittchen"
-tags: 
-  - "shadow play"
+id: schneewittchen
+title: Schneewittchen
 openedAt: 2019-03-13T12:00:00.000Z
-thumbnailImg: "/cms/images/schneewittchen-thumbnail.jpg"
+tags:
+  - shadow play
+thumbnailImg: /cms/images/schneewittchen-thumbnail.jpg
 imgs:
-  - url: "/cms/images/schneewittchen-1.jpg"
-    alt: "Schneewittchen 1"
-    credit: "my rendering"
-  - url: "/cms/images/schneewittchen-2.jpg"
-    alt: "Schneewittchen 2"
-    credit: "Gianmarco Bresadola"
-  - url: "/cms/images/schneewittchen-3.jpg"
-    alt: "Schneewittchen 3"
-    credit: "Gianmarco Bresadola"
+  - alt: Schneewittchen 1
+    credit: my rendering
+    url: /cms/images/schneewittchen-1.jpg
+  - alt: Schneewittchen 2
+    credit: Gianmarco Bresadola
+    url: /cms/images/schneewittchen-2.jpg
+  - alt: Schneewittchen 3
+    credit: Gianmarco Bresadola
+    url: /cms/images/schneewittchen-3.jpg
+group: Opera
 ---
 **Music direction:** Symeon Ioannidis.
 
@@ -27,6 +27,6 @@ imgs:
 
 Light design by Simone Oestreicher, coreography by Gail Skrela, dramaturgy by Benjamin Wäntig.
 
-Opening on March 13th, 2019 in [Staatsoper Unter Der Linden, Berlin](https://www.staatsoper-berlin.de/de/veranstaltungen/schneewittchen.2763/).
+Opening on March 13th, 2019 in Staatsoper Unter Der Linden, Berlin // [more information](https://www.staatsoper-berlin.de/de/veranstaltungen/schneewittchen.2763/)
 
 Produced by Staatsoper Unter Der Linden.
