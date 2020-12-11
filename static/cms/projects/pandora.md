@@ -6,18 +6,42 @@ tags:
   - set designer
   - award winning
 imgs:
-  - url: /cms/images/noemi-ardesi-17_1.jpg
-  - url: /cms/images/noemi-ardesi-21_2.jpg
-  - url: /cms/images/noemi-ardesi-28_1.jpg
-  - url: /cms/images/noemi-ardesi-34_1.jpg
-  - url: /cms/images/noemi-ardesi-52-2.jpg
-  - url: /cms/images/noemi-ardesi-59_1.jpg
-  - url: /cms/images/noemi-ardesi-62_1.jpg
-  - url: /cms/images/noemi-ardesi-66_1.jpg
-  - url: /cms/images/noemi-ardesi-73_1.jpg
-  - url: /cms/images/noemi-ardesi-75_1.jpg
-  - url: /cms/images/noemi-ardesi-78_1.jpg
-  - url: /cms/images/noemi-ardesi-80_2.jpg
+  - alt: pandora1
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-17_1.jpg
+  - alt: pandora2
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-21_2.jpg
+  - alt: pandora3
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-28_1.jpg
+  - alt: pandora4
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-34_1.jpg
+  - alt: pandora5
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-52-2.jpg
+  - alt: pandora6
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-59_1.jpg
+  - alt: pandora7
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-62_1.jpg
+  - alt: pandora8
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-66_1.jpg
+  - alt: pandora9
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-73_1.jpg
+  - alt: pandora10
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-75_1.jpg
+  - alt: pandora11
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-78_1.jpg
+  - alt: pandora12
+    credit: Noemi Ardesi
+    url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
 **Director:** Riccardo Pippa.
