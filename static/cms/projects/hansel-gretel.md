@@ -59,7 +59,7 @@ group: Opera
 
 Costume design by Kevin Pollard, light design by Marco Filibeck, video design by Joshua Higgason.
 
-First performed on September 2nd, 2017 in Teatro alla Scala, Milan. // [more information](http://www.teatroallascala.org/it/stagione/2016-2017/opera/hansel-und-gretel.html)
+First performed on September 2nd, 2017 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=19493&id_event=29480&id_allest_conc=&uid=7bed6bb7-d894-469b-8da4-0cc045d5793c&objecttype=base)
 
 Produced by Teatro alla Scala.
 
