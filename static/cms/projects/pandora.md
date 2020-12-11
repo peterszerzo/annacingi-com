@@ -5,6 +5,7 @@ openedAt: 2020-07-08T15:00:00.000Z
 tags:
   - set designer
   - award winning
+thumbnailImg: /cms/images/pandora-thumbnail1.jpg
 imgs:
   - alt: pandora1
     credit: Noemi Ardesi
