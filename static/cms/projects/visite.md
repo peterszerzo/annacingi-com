@@ -58,4 +58,6 @@ An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). 
 
 First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more information](https://www.teatrodeigordi.it/visite/)
 
-**Awards:** Premio Tragos - Upcoming Set Designer 2019; [Premio Hystrio Iceberg](https://premiohystrio.org) 2019.
+This was my first collaboration with Teatro dei Gordi, an independent company based in Milan and operating since 2010. 
+
+For this design I was awarded [**Premio Tragos**](https://tragos.it/14a-edizione-tragos-2019-2/) as Upcoming Set Designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://premiohystrio.org) in 2019.
