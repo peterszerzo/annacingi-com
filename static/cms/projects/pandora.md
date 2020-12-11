@@ -57,4 +57,4 @@ First performed September 17th, 2020 at [Biennale di Venezia](https://www.labien
 
 Teatro dei Gordi is a Milan-based independent theater company operating since 2010, which I collaborate with since their 2018 production [Visite](/projects/visite). 
 
-Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://www.premiohystrio.org/le-motivazioni-del-2019) ****in 2019 and [**Premio ANCT**](http://www.criticiditeatro.it/i-premi-anct-toccano-verona-allo-scenografo-antonio-panzuto-e-al-regista-riccardo-pippa/) in 2020.
+Teatro dei Gordi was awarded [Premio Hystrio Iceberg](https://www.premiohystrio.org/le-motivazioni-del-2019) in 2019 and [Premio ANCT](http://www.criticiditeatro.it/i-premi-anct-toccano-verona-allo-scenografo-antonio-panzuto-e-al-regista-riccardo-pippa/) in 2020.
