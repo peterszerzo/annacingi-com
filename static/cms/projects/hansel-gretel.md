@@ -63,4 +63,4 @@ First performed on September 2nd, 2017 in Teatro alla Scala, Milan. // [more inf
 
 Produced by Teatro alla Scala.
 
-**Awards:** Premio Abbiati - Best Sets, Costumes, Lights and Video 2018.
+in 2018 Hänsel and Gretel was awarded [**Premio Abbiati**](http://www.classicvoice.com/rivista/mondo-classico/premio-abbiati-2018/) for Best Sets, Costumes, Lights and Video.
