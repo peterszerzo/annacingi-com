@@ -54,8 +54,8 @@ group: Theatre
 
 Costume design and masks by Ilaria Ariemme, dramaturgy by Giulia Tollis, light design by Paolo Casati, sound design by Luca De Marinis, directing assistent Daniele Cavone Felicioni.
 
-An original show by Teatro dei Gordi. Produced by Teatro Franco Parenti and Teatro dei Gordi.
+An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). Produced by Teatro Franco Parenti and Teatro dei Gordi.
 
-First performed November 20th, 2018 in [Teatro Franco Parenti](https://www.teatrodeigordi.it/spettacolo/visite/).
+First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more information](https://www.teatrodeigordi.it/visite/)
 
 **Awards:** Premio Tragos - Upcoming Set Designer 2019; [Premio Hystrio Iceberg](https://premiohystrio.org) 2019.
