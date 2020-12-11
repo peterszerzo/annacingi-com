@@ -53,14 +53,14 @@ imgs:
     url: /cms/images/ernani-15.jpg
 group: Opera
 ---
-**Conductor:** Ádám Fischer.
+**Conductor:** Ádám Fischer
 
-**Director:** Sven-Eric Bechtolf.
+**Director:** Sven-Eric Bechtolf
 
-**Set designer:** Julian Crouch.
+**Set designer:** Julian Crouch
 
 Costume design by Kevin Pollard, light design by Marco Filibeck, video design by Filippo Marta, coreography by Lara Montanaro.
 
-Opening on September 29th, 2018 in Teatro alla Scala, Milan. // [more information](http://www.teatroallascala.org/it/stagione/2017-2018/opera/ernani.html)
+Opening on September 29th, 2018 in [Teatro alla Scala, Milan](https://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html)
 
 Produced by Teatro alla Scala.
