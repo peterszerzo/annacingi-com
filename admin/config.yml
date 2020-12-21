@@ -5,6 +5,25 @@ media_folder: static/cms/images
 site_url: http://annacingi.com
 public_folder: /cms/images
 collections:
+  - name: "credits"
+    label: "Credits"
+    folder: "static/cms/credits"
+    create: true
+    fields:
+      - label: "Title"
+        hint: "Project title"
+        name: "title"
+        widget: "string"
+      - label: "Role"
+        hint: "E.g. 'Set assistant'"
+        name: "role"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "string"
+      - label: "Opening Date"
+        name: "openedAt"
+        widget: "datetime"
   - name: "projects"
     label: "Projects"
     folder: "static/cms/projects"
