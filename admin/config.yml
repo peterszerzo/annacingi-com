@@ -22,6 +22,7 @@ collections:
         name: "description"
         widget: "string"
       - label: "Opening Date"
+        required: false
         name: "openedAt"
         widget: "datetime"
   - name: "projects"
