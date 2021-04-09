@@ -9,8 +9,8 @@ export const get = async (req, res) => {
 
   // Projects
 
-  const projectsFiles = await new Promise((resolve, reject) => {
-    glob("static/cms/projects/*.md", (err, files) => {
+  const creditsFiles = await new Promise((resolve, reject) => {
+    glob("static/cms/credits/*.md", (err, files) => {
       if (err) {
         reject(err);
       } else {
@@ -19,18 +19,18 @@ export const get = async (req, res) => {
     });
   });
 
-  const projects = await Promise.all(
-    projectsFiles.map(async (file) => {
+  const credits = await Promise.all(
+    creditsFiles.map(async (file) => {
       const content = (await fs.readFile(file)).toString();
       return { ...frontMatter(content).attributes };
     })
   );
 
-  projects.sort(
+  credits.sort(
     (a, b) =>
       new Date(b.openedAt || "2100-01-01").getTime() -
       new Date(a.openedAt || "2100-01-01").getTime()
   );
 
-  res.end(JSON.stringify({ projects }));
+  res.end(JSON.stringify({ credits }));
 };
