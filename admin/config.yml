@@ -21,6 +21,10 @@ collections:
       - label: "Description"
         name: "description"
         widget: "string"
+      - label: "URL"
+        name: "url"
+        required: false
+        widget: "string"
       - label: "Opening Date"
         required: false
         name: "openedAt"
