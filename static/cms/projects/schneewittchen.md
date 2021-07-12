@@ -17,6 +17,8 @@ imgs:
     url: /cms/images/schneewittchen-3.jpg
 group: Opera
 ---
+**`shadowplay designer`**
+
 **Music direction:** Symeon Ioannidis.
 
 **Stage direction:** Constanze Albert, Gail Skrela.
