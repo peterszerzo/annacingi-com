@@ -4,6 +4,7 @@ title: Humane Methods / ∑XHALE
 openedAt: 2022-01-30T18:00:40.211Z
 tags:
   - set designer
+  - fronte vacuo
 group: Performance
 ---
 **`Set designer`**
