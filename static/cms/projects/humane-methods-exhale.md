@@ -2,7 +2,7 @@
 id: humane-methods-exhale
 title: Humane Methods / ∑XHALE
 openedAt: 2022-01-30T18:00:40.211Z
-group: Theatre
+group: Performance
 ---
 **`Set designer`**
 
