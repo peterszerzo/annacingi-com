@@ -45,6 +45,8 @@ imgs:
     url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
+**`set designer`**
+
 **Director:** Riccardo Pippa
 
 **Performers:** Claudia Caldarano, Cecilia Campani, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Matteo Vitanza
