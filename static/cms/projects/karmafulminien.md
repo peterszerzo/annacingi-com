@@ -5,6 +5,7 @@ openedAt: 2015-11-03T12:00:00.000Z
 tags:
   - set designer
   - costume designer
+  - Generazione Disagio
 thumbnailImg: /cms/images/karmafulminien-thumbnail.jpeg
 imgs:
   - alt: Karmafulminien Stage 1
