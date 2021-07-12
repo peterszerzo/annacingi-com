@@ -1,5 +1,5 @@
 ---
-id: cosifantutte
+id: cosi-fan-tutte
 title: Così fan tutte
 openedAt: 2021-03-28T17:00:33.636Z
 tags:
