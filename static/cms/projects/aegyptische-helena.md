@@ -44,6 +44,8 @@ imgs:
     url: /cms/images/helena12s.jpg
 group: Opera
 ---
+**`set assistant`**
+
 **Conductor:** Franz Welser-Möst.
 
 **Director:** Sven-Eric Bechtolf.
