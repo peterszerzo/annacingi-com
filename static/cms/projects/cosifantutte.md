@@ -4,6 +4,32 @@ title: Così fan tutte
 openedAt: 2021-03-28T17:00:33.636Z
 tags:
   - set assistant
+thumbnailImg: /cms/images/cosi-fan-tutte-thumb.jpg
+imgs:
+  - alt: così fan tutte 01
+    url: /cms/images/cosi-fan-tutte01.jpg
+  - alt: così fan tutte 02
+    url: /cms/images/cosi-fan-tutte02.jpg
+  - alt: così fan tutte 03
+    url: /cms/images/cosi-fan-tutte03.jpg
+  - alt: così fan tutte 04
+    url: /cms/images/cosi-fan-tutte04.jpg
+  - alt: così fan tutte 05
+    url: /cms/images/cosi-fan-tutte05.jpg
+  - alt: così fan tutte 06
+    url: /cms/images/cosi-fan-tutte06.jpg
+  - alt: così fan tutte 07
+    url: /cms/images/cosi-fan-tutte07.jpg
+  - alt: così fan tutte 08
+    url: /cms/images/cosi-fan-tutte08.jpg
+  - alt: così fan tutte 09
+    url: /cms/images/cosi-fan-tutte09.jpg
+  - alt: così fan tutte 10
+    url: /cms/images/cosi-fan-tutte10.jpg
+  - alt: così fan tutte 11
+    url: /cms/images/cosi-fan-tutte11.jpg
+  - alt: così fan tutte 12
+    url: /cms/images/cosi-fan-tutte12.jpg
 group: Opera
 ---
 **Conductor:** Zubin Metha.
