@@ -48,6 +48,8 @@ imgs:
     url: /cms/images/visite-13.jpg
 group: Theatre
 ---
+**`set designer`**
+
 **Director:** Riccardo Pippa.
 
 **Performers:** Cecilia Campani, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Maria Vittoria Scarlattei, Matteo Vitanza.
