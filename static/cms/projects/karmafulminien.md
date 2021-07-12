@@ -1,47 +1,41 @@
 ---
-id: "karmafulminien"
-group: "Theatre"
-title: "Karmafulminien"
-tags:
-  - "set designer"
-  - "costume designer"
+id: karmafulminien
+title: Karmafulminien
 openedAt: 2015-11-03T12:00:00.000Z
-thumbnailImg: "/cms/images/karmafulminien-thumbnail.jpeg"
+tags:
+  - set designer
+  - costume designer
+thumbnailImg: /cms/images/karmafulminien-thumbnail.jpeg
 imgs:
-  - url: "/cms/images/karmafulminien-stage-1.jpg"
-    alt: "Karmafulminien Stage 1"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-2.jpg"
-    alt: "Karmafulminien Stage 2"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-10.jpg"
-    alt: "Karmafulminien Stage 10"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-3.jpg"
-    alt: "Karmafulminien Stage 3"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-4.jpg"
-    alt: "Karmafulminien Stage 4"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-5.jpg"
-    alt: "Karmafulminien Stage 5"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-6.jpg"
-    alt: "Karmafulminien Stage 6"
-    credit: "Laura Granelli"
-  - url: "/cms/images/karmafulminien-stage-11.jpg"
-    alt: "Karmafulminien Stage 11"
-    credit: null
-  - url: "/cms/images/karmafulminien-stage-12.jpg"
-    alt: "Karmafulminien Stage 12"
-    credit: null
-  - url: "/cms/images/karmafulminien-rendering.jpg"
-    alt: "Karmafulminien rendering"
-    credit: "my rendering"
-  - url: "/cms/images/karmafulminien-poster.jpg"
-    alt: "Karmafulminien poster"
-    credit: "Niccolò Masini"
+  - alt: Karmafulminien Stage 1
+    url: /cms/images/karmafulminien-stage-1.jpg
+  - alt: Karmafulminien Stage 2
+    url: /cms/images/karmafulminien-stage-2.jpg
+  - alt: Karmafulminien Stage 10
+    url: /cms/images/karmafulminien-stage-10.jpg
+  - alt: Karmafulminien Stage 3
+    url: /cms/images/karmafulminien-stage-3.jpg
+  - alt: Karmafulminien Stage 4
+    url: /cms/images/karmafulminien-stage-4.jpg
+  - alt: Karmafulminien Stage 5
+    url: /cms/images/karmafulminien-stage-5.jpg
+  - alt: Karmafulminien Stage 6
+    credit: Laura Granelli
+    url: /cms/images/karmafulminien-stage-6.jpg
+  - alt: Karmafulminien Stage 11
+    url: /cms/images/karmafulminien-stage-11.jpg
+  - alt: Karmafulminien Stage 12
+    url: /cms/images/karmafulminien-stage-12.jpg
+  - alt: Karmafulminien rendering
+    credit: my rendering
+    url: /cms/images/karmafulminien-rendering.jpg
+  - alt: Karmafulminien poster
+    credit: Niccolò Masini
+    url: /cms/images/karmafulminien-poster.jpg
+group: Theatre
 ---
+**`set and costume designer`**
+
 **Director:** Riccardo Pippa.
 
 **Performers:** Luca Mammoli, Enrico Pittaluga, Graziano Sirressi.
