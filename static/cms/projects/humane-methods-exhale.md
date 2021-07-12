@@ -14,4 +14,8 @@ An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by V
 
 
 
+Premiere: *postponed to January 30th, 2022 in Hau2, Berlin
+
+
+
 _Is that dance, permanent performance, drama, biological-technological installation or a collective experiment? Probably all together. The artist group Fronte Vacuo (...) looks at people, machines and algorithms in their latest production HUMANE METHODS \[∑XHALE]. It takes place in a world in which systemic intolerance, environmental destruction and unethical technological developments have formed an all-pervasive structure of violence._
