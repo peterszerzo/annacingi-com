@@ -53,6 +53,8 @@ imgs:
     url: /cms/images/ernani-15.jpg
 group: Opera
 ---
+**`set assitant`**
+
 **Conductor:** Ádám Fischer
 
 **Director:** Sven-Eric Bechtolf
