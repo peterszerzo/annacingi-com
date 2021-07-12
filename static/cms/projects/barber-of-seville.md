@@ -44,6 +44,8 @@ imgs:
     url: /cms/images/barber-of-seville-12.jpg
 group: Opera
 ---
+**`set assistant`**
+
 **Conductor:** Maurizio Benini
 
 **Stage director:** Lotte de Beer
