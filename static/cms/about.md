@@ -1,9 +1,11 @@
 ---
 portraitUrl: /cms/images/collage-pro5.jpg
 ---
-I am a set, costume and prop designer with roots in Milan, working in theatre and opera since 2014.
+I am a designer with roots in Reggio Emilia, Italy, working in theatre, opera, performance and installations since 2014.
 
-I studied set design at Accademia di Brera in Milan, and I trained in stage engineering and scenic arts at Teatro alla Scala. I have a soft spot for puppetry, and for Bruno Schulz-quotes like this:
+I studied set design at Accademia di Brera in Milan, and I trained in stage engineering and scenic arts at Teatro alla Scala. Since then I've been moving around Europe and beyond. I am currently Milan- and Berlin-based.
+
+I have a soft spot for puppetry, and for Bruno Schulz-quotes like this:
 
 > ‘Do you understand \[...] the profound meaning of that weakness, that passion for gaudy tissue-paper, papier-mâché, coloured lacquer, straw, and sawdust? It is \[...] our love for matter as such, for its downiness and porousness, its unique, mystical consistency.’
 
