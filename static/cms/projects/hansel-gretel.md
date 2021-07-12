@@ -51,6 +51,8 @@ imgs:
     url: /cms/images/haensel-gretel-14.jpg
 group: Opera
 ---
+**`set assitant`**
+
 **Conductor:** Marc Albrecht.
 
 **Director:** Sven-Eric Bechtolf.
