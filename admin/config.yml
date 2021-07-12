@@ -78,7 +78,7 @@ collections:
       - label: "Group"
         name: "group"
         widget: "select"
-        options: ["Theatre", "Opera"]
+        options: ["Theatre", "Opera", "Performance"]
   - name: "sections"
     label: "Sections"
     files:
