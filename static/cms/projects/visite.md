@@ -5,6 +5,7 @@ openedAt: 2018-11-20T12:00:00.000Z
 tags:
   - set designer
   - award-winning
+  - Teatro dei Gordi
 thumbnailImg: /cms/images/visite-thumbnail.jpg
 imgs:
   - alt: Visite 1
