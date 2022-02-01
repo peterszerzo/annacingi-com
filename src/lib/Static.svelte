@@ -1,9 +1,11 @@
 <script lang="ts">
   import { marked } from "marked";
 
+  const m = typeof marked === "function" ? marked : (a: string) => a;
+
   export let markdown = "";
 
-  $: htmlContent = marked(markdown);
+  $: htmlContent = m(markdown);
 </script>
 
 <div class="static">
