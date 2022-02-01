@@ -1,12 +1,12 @@
-<script>
-  import { stores } from "@sapper/app";
+<script lang="ts">
+  import { page } from "$app/stores";
   import Logo from "./Logo.svelte";
   import MobileNavOverlay from "./MobileNavOverlay.svelte";
   import IconButton from "./IconButton.svelte";
 
-  const { page } = stores();
-
   let isMobileNavOpen = false;
+
+  $: path = $page.url.pathname;
 </script>
 
 <header>
@@ -32,7 +32,7 @@
   <nav class="header-nav-desktop">
     <a
       class="nav-link"
-      class:active-nav-link={["/about", "/about/"].indexOf($page.path) > -1}
+      class:active-nav-link={["/about", "/about/"].indexOf(path) > -1}
       href="/about">about</a
     >
     <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>

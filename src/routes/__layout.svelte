@@ -1,22 +1,20 @@
+<script lang="ts">
+  import { navigating } from "$app/stores";
+  import Header from "$lib/Header.svelte";
+  import Footer from "$lib/Footer.svelte";
+</script>
+
 <div class="container">
-  <div class="overlay" class:overlayActive={$preloading}></div>
+  <div class="overlay" class:overlayActive={$navigating} />
 
   <Header />
 
   <main class="content">
-    <slot></slot>
+    <slot />
   </main>
 
   <Footer />
 </div>
-
-<script>
-  import { stores } from "@sapper/app";
-  import Header from '../components/Header.svelte';
-  import Footer from '../components/Footer.svelte';
-
-  const { preloading } = stores();
-</script>
 
 <style>
   .container {

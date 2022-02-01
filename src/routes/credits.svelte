@@ -1,12 +1,18 @@
 <script context="module">
-  export function preload({ params, query }) {
-    return this.fetch("credits.data.json").then((res) => res.json());
+  export async function load({ params, fetch }) {
+    const fetched = await fetch("/credits.data.json");
+    const res = await fetched.json();
+    return {
+      props: {
+        credits: res,
+      },
+    };
   }
 </script>
 
 <script>
   import { format } from "date-fns";
-  import WingTitle from "../components/WingTitle.svelte";
+  import WingTitle from "$lib/WingTitle.svelte";
 
   const formatDate = (dateString) => {
     return format(new Date(dateString), "MMMM, yyyy");
@@ -14,6 +20,24 @@
 
   export let credits;
 </script>
+
+<WingTitle title="Credits" />
+{#if credits}
+  <div class="credits">
+    {#each credits as credit}
+      <div class="credit">
+        <div class="credit-content">
+          <p><strong>{credit.title}</strong></p>
+          <p><span>{credit.role}</span></p>
+          <p>{credit.description}</p>
+        </div>
+        {#if credit.openedAt}
+          <p class="credit-right">{formatDate(credit.openedAt)}</p>
+        {/if}
+      </div>
+    {/each}
+  </div>
+{/if}
 
 <style>
   .credit-content > * {
@@ -55,21 +79,3 @@
     margin-top: 40px;
   }
 </style>
-
-<WingTitle title="Credits" />
-{#if credits}
-  <div class="credits">
-    {#each credits as credit}
-      <div class="credit">
-        <div class="credit-content">
-          <p><strong>{credit.title}</strong></p>
-          <p><span>{credit.role}</span></p>
-          <p>{credit.description}</p>
-        </div>
-        {#if credit.openedAt}
-          <p class="credit-right">{formatDate(credit.openedAt)}</p>
-        {/if}
-      </div>
-    {/each}
-  </div>
-{/if}

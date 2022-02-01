@@ -1,15 +1,11 @@
-<button title={title} class="icon-button" on:click>
-  <svelte:component this={useIcon} />
-</button>
-
-<script>
+<script lang="ts">
   import Falafel from "./icons/Falafel.svelte";
   import X from "./icons/X.svelte";
 
   export let icon;
   export let title;
 
-  $ : useIcon = (() => {
+  $: useIcon = (() => {
     if (icon === "Falafel") {
       return Falafel;
     }
@@ -18,6 +14,10 @@
     }
   })();
 </script>
+
+<button {title} class="icon-button" on:click>
+  <svelte:component this={useIcon} />
+</button>
 
 <style>
   .icon-button {
@@ -30,11 +30,11 @@
   }
 
   .icon-button:hover {
-    background-color: #F5F5F5;
+    background-color: #f5f5f5;
   }
 
   .icon-button:focus {
     outline: none;
-    box-shadow: 0 0 0 3px #EFEFEF;
+    box-shadow: 0 0 0 3px #efefef;
   }
 </style>

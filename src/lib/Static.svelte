@@ -1,9 +1,9 @@
-<script>
-  import marked from "marked";
+<script lang="ts">
+  import { marked } from "marked";
 
-  export let markdown;
+  export let markdown = "";
 
-  $: htmlContent = (marked || marked.marked || marked.default)(markdown);
+  $: htmlContent = marked(markdown);
 </script>
 
 <div class="static">

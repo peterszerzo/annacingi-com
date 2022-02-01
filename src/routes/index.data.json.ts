@@ -2,11 +2,7 @@ import frontMatter from "front-matter";
 import glob from "glob";
 import { fs } from "mz";
 
-export const get = async (req, res) => {
-  res.writeHead(200, {
-    "Content-Type": "application/json",
-  });
-
+export const get = async () => {
   // Projects
 
   const projectsFiles = await new Promise((resolve, reject) => {
@@ -32,5 +28,7 @@ export const get = async (req, res) => {
       new Date(a.openedAt || "2100-01-01").getTime()
   );
 
-  res.end(JSON.stringify({ projects }));
+  return {
+    body: projects,
+  };
 };

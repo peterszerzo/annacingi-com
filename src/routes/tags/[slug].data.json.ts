@@ -1,10 +1,10 @@
 import frontMatter from "front-matter";
 import glob from "glob";
 import { fs } from "mz";
-import { fromSlug } from "../../utils.js";
+import { fromSlug } from "../../utils";
 
-export const get = async (req, res, next) => {
-  const tag = fromSlug(req.params.slug);
+export const get = async ({ params }) => {
+  const tag = fromSlug(params.slug);
 
   // Projects
 
@@ -19,7 +19,7 @@ export const get = async (req, res, next) => {
   });
 
   const projects = await Promise.all(
-    projectsFiles.map(async file => {
+    projectsFiles.map(async (file) => {
       const content = (await fs.readFile(file)).toString();
       return { ...frontMatter(content).attributes };
     })
@@ -27,28 +27,16 @@ export const get = async (req, res, next) => {
 
   const lookup = new Map();
 
-  projects.forEach(project => {
-    project.tags.forEach(tag => {
+  projects.forEach((project) => {
+    project.tags.forEach((tag) => {
       const current = lookup.get(tag);
       lookup.set(tag, [project, ...(current || [])]);
     });
   });
 
-  if (lookup.has(tag)) {
-    res.writeHead(200, {
-      "Content-Type": "application/json"
-    });
-
-    res.end(JSON.stringify(lookup.get(tag)));
-  } else {
-    res.writeHead(404, {
-      "Content-Type": "application/json"
-    });
-
-    res.end(
-      JSON.stringify({
-        message: `Not found`
-      })
-    );
-  }
+  return {
+    body: {
+      projects,
+    },
+  };
 };

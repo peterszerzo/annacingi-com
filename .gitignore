@@ -6,6 +6,7 @@ elm-stuff
 dist
 build
 *.log
+.svelte-kit
 tmp
 *.gif
 public/index.html

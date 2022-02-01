@@ -1,13 +1,19 @@
-<script context="module">
-  export function preload({ params, query }) {
-    return this.fetch("index.data.json").then((res) => res.json());
+<script context="module" lang="ts">
+  export async function load({ fetch }) {
+    const fetched = await fetch("/index.data.json");
+    const res = await fetched.json();
+    return {
+      props: {
+        projects: res,
+      },
+    };
   }
 </script>
 
-<script>
-  import Wing from "../components/Wing.svelte";
-  import Wings from "../components/Wings.svelte";
-  import WingTitle from "../components/WingTitle.svelte";
+<script lang="ts">
+  import Wing from "$lib/Wing.svelte";
+  import Wings from "$lib/Wings.svelte";
+  import WingTitle from "$lib/WingTitle.svelte";
 
   export let projects;
 

@@ -1,5 +1,6 @@
 <footer>
-  Anna Cingi 2020  /  Website by <a href="https://peterszerzo.com">@peterszerzo</a>
+  Anna Cingi 2020 / Website by <a href="https://peterszerzo.com">@peterszerzo</a
+  >
 </footer>
 
 <style>

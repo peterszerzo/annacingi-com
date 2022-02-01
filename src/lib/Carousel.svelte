@@ -1,32 +1,3 @@
-{#if images && images.length > 0}
-  <div class="carousel-container stickout">
-    {#if images[carouselPage] && images[carouselPage].credit}
-      <div class="carousel-credit">Credit: {images[carouselPage].credit}</div>
-    {/if}
-    <div class="carousel-controls">
-      {#each imageIndices as image, index}
-        <button class="carousel-button" class:selected={index === carouselPage} on:click={() => {
-          carouselPage = index;
-        }}></button>
-      {/each}
-    </div>
-    <button class="carousel-side carousel-side-left" on:click={prev}>
-      <Chevron dir="left" />
-    </button>
-    <button class="carousel-side carousel-side-right" on:click={next}>
-      <Chevron dir="right" />
-    </button>
-    <div class="carousel" id={carouselId}>
-      {#if siemaImages}
-        {#each siemaImages as image}
-          <div class="carousel-slide" style="background-image: url({image.url});">
-          </div>
-        {/each}
-      {/if}
-    </div>
-  </div>
-{/if}
-
 <script>
   import Siema from "siema";
   import Chevron from "./icons/Chevron.svelte";
@@ -49,13 +20,13 @@
 
   const next = () => {
     carouselPage = carouselPage === images.length - 1 ? 0 : carouselPage + 1;
-  }
+  };
 
   const prev = () => {
     carouselPage = carouselPage === 0 ? images.length - 1 : carouselPage - 1;
-  }
+  };
 
-  const handleKeyPress = ev => {
+  const handleKeyPress = (ev) => {
     if (ev.key === "ArrowRight") {
       next();
       return;
@@ -64,20 +35,20 @@
       prev();
       return;
     }
-  }
+  };
 
   const initialSetup = () => {
     try {
       document.addEventListener("keydown", handleKeyPress);
-    } catch(err) {}
-  }
+    } catch (err) {}
+  };
 
   const finalTeardown = () => {
     // For some reason, this code runs on the server and throws an error
     try {
       document.removeEventListener("keydown", handleKeyPress);
-    } catch(err) {}
-  }
+    } catch (err) {}
+  };
 
   const setup = () => {
     if (!siemaImages || siemaImages.length === 0) {
@@ -87,11 +58,11 @@
     siema = new Siema({
       selector: `#${carouselId}`,
       loop: true,
-      onChange: newPage => {
+      onChange: (newPage) => {
         carouselPage = siema.currentSlide;
-      }
+      },
     });
-  }
+  };
 
   afterUpdate(async () => {
     if (siemaImages !== images) {
@@ -108,7 +79,7 @@
       return;
     }
     siema && siema.destroy();
-  }
+  };
 
   onMount(() => {
     initialSetup();
@@ -120,6 +91,41 @@
     finalTeardown();
   });
 </script>
+
+{#if images && images.length > 0}
+  <div class="carousel-container stickout">
+    {#if images[carouselPage] && images[carouselPage].credit}
+      <div class="carousel-credit">Credit: {images[carouselPage].credit}</div>
+    {/if}
+    <div class="carousel-controls">
+      {#each imageIndices as image, index}
+        <button
+          class="carousel-button"
+          class:selected={index === carouselPage}
+          on:click={() => {
+            carouselPage = index;
+          }}
+        />
+      {/each}
+    </div>
+    <button class="carousel-side carousel-side-left" on:click={prev}>
+      <Chevron dir="left" />
+    </button>
+    <button class="carousel-side carousel-side-right" on:click={next}>
+      <Chevron dir="right" />
+    </button>
+    <div class="carousel" id={carouselId}>
+      {#if siemaImages}
+        {#each siemaImages as image}
+          <div
+            class="carousel-slide"
+            style="background-image: url({image.url});"
+          />
+        {/each}
+      {/if}
+    </div>
+  </div>
+{/if}
 
 <style>
   .carousel-container,
@@ -166,7 +172,7 @@
     display: block;
     padding: 0;
     border-radius: 50%;
-    background-color: #CCC;
+    background-color: #ccc;
     border: 0;
     width: 6px;
     height: 6px;
@@ -187,7 +193,7 @@
   }
 
   .selected {
-    background-color: #F7CE00;
+    background-color: #f7ce00;
   }
 
   .carousel-button:focus {
@@ -206,7 +212,7 @@
     border-radius: 2px;
     margin: auto;
     background-color: rgba(0, 0, 0, 0.8);
-    color: #FFF;
+    color: #fff;
     text-align: center;
     z-index: 1000;
   }
@@ -216,7 +222,7 @@
     top: calc(50% - 25px);
     width: 20px;
     height: 50px;
-    color: #FFF;
+    color: #fff;
     z-index: 1000;
     opacity: 0.6;
     cursor: pointer;
