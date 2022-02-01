@@ -3,7 +3,7 @@
 
   export let markdown;
 
-  $: htmlContent = marked(markdown);
+  $: htmlContent = (marked || marked.marked)(markdown);
 </script>
 
 <div class="static">
