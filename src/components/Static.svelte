@@ -1,15 +1,14 @@
-<div class="static">
-  {@html htmlContent}
-</div>
-
 <script>
   import marked from "marked";
-  import { afterUpdate } from "svelte";
 
   export let markdown;
 
-  $ : htmlContent = marked(markdown);
+  $: htmlContent = marked(markdown);
 </script>
+
+<div class="static">
+  {@html htmlContent}
+</div>
 
 <style>
   .static {
