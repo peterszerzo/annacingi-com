@@ -15,7 +15,7 @@
   import Wings from "$lib/Wings.svelte";
   import WingTitle from "$lib/WingTitle.svelte";
 
-  export let projects;
+  export let projects = [];
 
   $: theatreProjects = projects.filter(
     (project) => project.group === "Theatre"

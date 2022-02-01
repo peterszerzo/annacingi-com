@@ -37,7 +37,12 @@
     >
     <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>
     <a class="nav-link" href="/cms/images/anna-cingi-jul-2021.pdf">cv</a>
-    <a class="nav-link" href="/credits">credits</a>
+    <a
+      class="nav-link"
+      href="/credits"
+      class:active-nav-link={["/credits", "/credits/"].indexOf(path) > -1}
+      >credits</a
+    >
   </nav>
 </header>
 
