@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import Siema from "siema";
   import Chevron from "./icons/Chevron.svelte";
   import { onMount, onDestroy, afterUpdate, tick } from "svelte";
@@ -26,7 +26,7 @@
     carouselPage = carouselPage === 0 ? images.length - 1 : carouselPage - 1;
   };
 
-  const handleKeyPress = (ev) => {
+  const handleKeyPress = (ev: any) => {
     if (ev.key === "ArrowRight") {
       next();
       return;
@@ -58,7 +58,7 @@
     siema = new Siema({
       selector: `#${carouselId}`,
       loop: true,
-      onChange: (newPage) => {
+      onChange: (newPage: number) => {
         carouselPage = siema.currentSlide;
       },
     });

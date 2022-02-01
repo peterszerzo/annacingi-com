@@ -2,8 +2,8 @@
   import Falafel from "./icons/Falafel.svelte";
   import X from "./icons/X.svelte";
 
-  export let icon;
-  export let title;
+  export let icon: "X" | "Falafel";
+  export let title: string;
 
   $: useIcon = (() => {
     if (icon === "Falafel") {
