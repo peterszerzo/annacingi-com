@@ -1,5 +1,5 @@
-<script context="module">
-  export async function load({ params, fetch }) {
+<script context="module" lang="ts">
+  export async function load({ fetch }) {
     const fetched = await fetch("/credits.data.json");
     const res = await fetched.json();
     return {
@@ -10,15 +10,16 @@
   }
 </script>
 
-<script>
+<script lang="ts">
+  import type { Credit } from "$lib/types";
   import { format } from "date-fns";
   import WingTitle from "$lib/WingTitle.svelte";
 
-  const formatDate = (dateString) => {
+  const formatDate = (dateString: string) => {
     return format(new Date(dateString), "MMMM, yyyy");
   };
 
-  export let credits;
+  export let credits: Array<Credit> = [];
 </script>
 
 <WingTitle title="Credits" />

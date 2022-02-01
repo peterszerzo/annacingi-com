@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-  export async function load({ params, fetch, query }) {
+  export async function load({ fetch }) {
     const fetched = await fetch("/about.data.json");
     const res = await fetched.json();
 
@@ -12,8 +12,8 @@
 <script lang="ts">
   import Static from "$lib/Static.svelte";
 
-  export let body;
-  export let portraitUrl;
+  export let body: string;
+  export let portraitUrl: string;
 </script>
 
 <svelte:head>

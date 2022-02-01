@@ -5,7 +5,7 @@ export const get = async () => {
   try {
     const file = (await fs.readFile("static/cms/about.md")).toString();
 
-    const parsedFile = frontMatter(file);
+    const parsedFile = frontMatter<{}>(file);
 
     return {
       body: {

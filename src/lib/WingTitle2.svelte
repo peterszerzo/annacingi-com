@@ -1,12 +1,12 @@
 <script lang="ts">
   import Tag from "./Tag.svelte";
 
-  export const tagUrl = (tag) => {
+  export const tagUrl = (tag: string) => {
     return tag && tag.replace && tag.replace(/\ /g, "--");
   };
 
-  export let title;
-  export let tags;
+  export let title: string;
+  export let tags: Array<string> | undefined = undefined;
 </script>
 
 <div class="wing-title2">

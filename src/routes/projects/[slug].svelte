@@ -8,11 +8,12 @@
 </script>
 
 <script lang="ts">
+  import type { Project } from "$lib/types";
   import Carousel from "$lib/Carousel.svelte";
   import Static from "$lib/Static.svelte";
   import WingTitle2 from "$lib/WingTitle2.svelte";
 
-  export let project;
+  export let project: Project;
 </script>
 
 <svelte:head>

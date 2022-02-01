@@ -13,21 +13,17 @@
   import WingTitle2 from "$lib/WingTitle2.svelte";
   import Static from "$lib/Static.svelte";
 
-  export let status;
-  export let error;
-
-  const dev = process.env.NODE_ENV === "development";
+  export let status: number;
+  export let error: string;
 </script>
 
 <svelte:head>
   <title>{status}</title>
 </svelte:head>
 
-<WingTitle2 title={error.message} tags={[]} />
+<WingTitle2 title="Something Went Wrong" tags={[]} />
 
-{#if dev}
-  <Static markdown={error || ""} />
-{/if}
+<Static markdown={error || ""} />
 
 <style>
 </style>

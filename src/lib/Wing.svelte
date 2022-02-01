@@ -1,14 +1,15 @@
 <script lang="ts">
+  import type { Project } from "$lib/types";
   import Tag from "./Tag.svelte";
 
-  export let project;
+  export let project: Project;
 
   $: openingYear = new Date(project.openedAt).getFullYear();
   $: openingMonth = new Date(project.openedAt).getMonth() + 1;
 
-  const range = (n) => [...Array(n).keys()];
+  const range = (n: number) => [...Array(n).keys()];
 
-  const range2 = (n) => (m) =>
+  const range2 = (n: number) => (m: number) =>
     range(n)
       .map((i) => range(m).map((j) => [i, j]))
       .reduce((accumulator, current) => [...accumulator, ...current], []);

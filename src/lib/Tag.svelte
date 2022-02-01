@@ -1,13 +1,8 @@
-{#if href}
-  <a href="{href}" class="tag tag-link">{tag}</a>
-{:else}
-  <span class="tag">{tag}</span>
-{/if}
-
-<script>
-  export let tag;
-  export let href;
+<script lang="ts">
+  export let tag: string;
 </script>
+
+<span class="tag">{tag}</span>
 
 <style>
   .tag {
@@ -20,14 +15,5 @@
     border-radius: 2px;
     font-size: 12px;
     text-decoration: none;
-  }
-
-  .tag-link {
-    padding: 3px 8px;
-    font-size: 14px;
-  }
-
-  .tag-link:hover {
-    background-color: #dedede;
   }
 </style>

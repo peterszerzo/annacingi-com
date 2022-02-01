@@ -1,5 +1,5 @@
 <script context="module" lang="ts">
-  export async function load({ fetch }) {
+  export async function load({ fetch }: any) {
     const fetched = await fetch("/index.data.json");
     const res = await fetched.json();
     return {
@@ -11,11 +11,12 @@
 </script>
 
 <script lang="ts">
+  import type { Project } from "$lib/types";
   import Wing from "$lib/Wing.svelte";
   import Wings from "$lib/Wings.svelte";
   import WingTitle from "$lib/WingTitle.svelte";
 
-  export let projects = [];
+  export let projects: Array<Project> = [];
 
   $: theatreProjects = projects.filter(
     (project) => project.group === "Theatre"
@@ -35,7 +36,7 @@
 <section>
   <WingTitle title="Theatre" />
   <Wings>
-    {#each theatreProjects as project, index}
+    {#each theatreProjects as project, index (index)}
       <Wing {project} />
     {/each}
   </Wings>
@@ -44,7 +45,7 @@
 <section>
   <WingTitle title="Performance" />
   <Wings>
-    {#each performanceProjects as project, index}
+    {#each performanceProjects as project, index (index)}
       <Wing {project} />
     {/each}
   </Wings>
@@ -53,15 +54,11 @@
 <section>
   <WingTitle title="Opera" />
   <Wings>
-    {#each operaProjects as project, index}
+    {#each operaProjects as project, index (index)}
       <Wing {project} />
     {/each}
   </Wings>
 </section>
-
-<div style="display:none" aria-hidden>
-  <a href="/admin">Admin</a>
-</div>
 
 <style>
   section:not(:first-child) {
