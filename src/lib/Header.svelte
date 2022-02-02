@@ -6,7 +6,9 @@
 
   let isMobileNavOpen = false;
 
-  $: path = $page.url.pathname;
+  $: isActive = (linkPath: string) => {
+    return [linkPath, `${linkPath}/`].indexOf($page.url.pathname) > -1;
+  };
 </script>
 
 <header>
@@ -30,18 +32,15 @@
     <MobileNavOverlay on:close={() => (isMobileNavOpen = false)} />
   {/if}
   <nav class="header-nav-desktop">
-    <a
-      class="nav-link"
-      class:active-nav-link={["/about", "/about/"].indexOf(path) > -1}
-      href="/about">about</a
+    <a class="nav-link" class:active-nav-link={isActive("/about")} href="/about"
+      >about</a
     >
     <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>
     <a class="nav-link" href="/cms/images/anna-cingi-jul-2021.pdf">cv</a>
     <a
       class="nav-link"
       href="/credits"
-      class:active-nav-link={["/credits", "/credits/"].indexOf(path) > -1}
-      >credits</a
+      class:active-nav-link={isActive("/credits")}>credits</a
     >
   </nav>
 </header>

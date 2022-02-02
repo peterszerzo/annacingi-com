@@ -1,5 +1,7 @@
 <script context="module" lang="ts">
-  export async function load({ params, fetch }) {
+  import type { LoadInput } from "@sveltejs/kit/types/page";
+
+  export async function load({ params, fetch }: LoadInput) {
     const res = await fetch(`/projects/${params.slug}.data.json`);
     const data = await res.json();
 

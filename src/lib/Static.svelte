@@ -1,6 +1,8 @@
 <script lang="ts">
   import { marked } from "marked";
 
+  // There have historically been issues with the marked package exports, therefore we
+  // default to the identity function.
   const m = typeof marked === "function" ? marked : (a: string) => a;
 
   export let markdown = "";
