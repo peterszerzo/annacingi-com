@@ -2,7 +2,7 @@
   import type { LoadInput } from "@sveltejs/kit/types/page";
 
   export async function load({ params, fetch }: LoadInput) {
-    const res = await fetch(`/projects/${params.slug}.data.json`);
+    const res = await fetch(`/projects/${params.slug}.json`);
     const data = await res.json();
 
     return { props: { project: data } };
