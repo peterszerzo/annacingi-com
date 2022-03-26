@@ -16,19 +16,8 @@
   import type { Project } from "$lib/types";
   import Wing from "$lib/Wing.svelte";
   import Wings from "$lib/Wings.svelte";
-  import WingTitle from "$lib/WingTitle.svelte";
 
   export let projects: Array<Project> = [];
-
-  $: theatreProjects = projects.filter(
-    (project) => project.group === "Theatre"
-  );
-
-  $: performanceProjects = projects.filter(
-    (project) => project.group === "Performance"
-  );
-
-  $: operaProjects = projects.filter((project) => project.group === "Opera");
 </script>
 
 <svelte:head>
@@ -36,27 +25,8 @@
 </svelte:head>
 
 <section>
-  <WingTitle title="Theatre" />
   <Wings>
-    {#each theatreProjects as project, index (index)}
-      <Wing {project} />
-    {/each}
-  </Wings>
-</section>
-
-<section>
-  <WingTitle title="Performance" />
-  <Wings>
-    {#each performanceProjects as project, index (index)}
-      <Wing {project} />
-    {/each}
-  </Wings>
-</section>
-
-<section>
-  <WingTitle title="Opera" />
-  <Wings>
-    {#each operaProjects as project, index (index)}
+    {#each projects as project, index (index)}
       <Wing {project} />
     {/each}
   </Wings>

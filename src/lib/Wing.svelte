@@ -26,6 +26,7 @@
           <Tag {tag} />
         {/each}
       {/if}
+      <Tag tag={project.group} />
     </div>
     <p class="date">{openingMonth} / {openingYear}</p>
   </div>
@@ -90,7 +91,7 @@
     align-items: flex-start;
     justify-content: space-between;
     width: 140px;
-    height: 240px;
+    height: 280px;
     box-sizing: border-box;
     background-repeat: no-repeat;
     background-position: 50% 50%;
