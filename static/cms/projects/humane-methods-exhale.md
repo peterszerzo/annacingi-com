@@ -1,6 +1,6 @@
 ---
 id: humane-methods-exhale
-title: Humane Methods / ∑XHALE
+title: h m / EXHALE
 openedAt: 2022-01-30T18:00:40.211Z
 tags:
   - set designer
@@ -30,6 +30,18 @@ imgs:
   - alt: Exhale Image 8
     credit: 'credit: Stefanie Kulisch'
     url: /cms/images/exhale8_stefanie-kulisch.jpg
+  - alt: Exhale Image 9
+    credit: 'credit: Nikolaus Ostermann'
+    url: /cms/images/exhale9_nikolaus-ostermann.jpg
+  - alt: Exhale Image 10
+    credit: 'credit: Nikolaus Ostermann'
+    url: /cms/images/exhale10_nikolaus-ostermann.jpg
+  - alt: Exhale Image 11
+    credit: 'credit: Stefanie Kulisch'
+    url: /cms/images/exhale11_stefanie-kulisch.jpg
+  - alt: Exhale Image 12
+    credit: 'credit: Nikolaus Ostermann'
+    url: /cms/images/exhale12_nikolaus-ostermann.jpg
 group: Performance
 ---
 **`Set and costume designer`**
