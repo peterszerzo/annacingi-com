@@ -15,9 +15,9 @@ group: Performance
 
 Light design and technical direction by Andrea Familari, AI music system by Marco Donnarumma, AI and machine learning by Baptiste Caramiaux and Meredith Thomas, symbionts oversight by Margherita Pevere, sculptures by Ana Rajcevic, dramaturgy Advice by Anne-Kathrin Schulz.
 
-An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by Volkstheater, Vienna; CTM Festival, Berlin; Tanzhaus nrw, Düsseldorf // [more information](https://www.volkstheater.at/stueck/humane-methods-∑xhale/)
+An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by Volkstheater, Vienna; CTM Festival, Berlin; Tanzhaus nrw, Düsseldorf.
 
-First performed on February 5th, 2022 in Radialsystem, Berlin, for CTM festival.
+First performed on February 5th, 2022 in Radialsystem, Berlin, for CTM festival // [more information](https://www.ctm-festival.de/festival-2022/programme/features/humane-methods-sxhale)
 
 _ΣXHALE exposes algorithmic violence by questioning the responsibilities of both artificial intelligence and one‘s own. It is an ecosystem of catharsis, a biome whose very existence demands alternative forms of empathy and knowledge._
 
