@@ -42,6 +42,12 @@ imgs:
   - alt: Exhale Image 12
     credit: 'credit: Nikolaus Ostermann'
     url: /cms/images/exhale12_nikolaus-ostermann.jpg
+  - alt: Exhale Image 13
+    credit: 'credit: Stefanie Kulisch'
+    url: /cms/images/exhale13_stefanie-kulisch.jpg
+  - alt: Exhale Image 14
+    credit: 'credit: Marco Donnarumma'
+    url: /cms/images/exhale14_marco-donnarumma.jpg
 group: Performance
 ---
 **`Set and costume designer`**
