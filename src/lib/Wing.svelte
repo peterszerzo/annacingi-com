@@ -26,7 +26,7 @@
           <Tag {tag} />
         {/each}
       {/if}
-      <Tag tag={project.group} />
+      <Tag tag={project.group} dark />
     </div>
     <p class="date">{openingMonth} / {openingYear}</p>
   </div>

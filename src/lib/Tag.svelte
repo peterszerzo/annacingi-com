@@ -1,10 +1,11 @@
 <script lang="ts">
   export let tag: string;
+  export let dark: boolean | undefined = undefined;
 
-  $: highlighted = tag === "set designer";
+  $: highlighted = tag === "set designer" || tag === "costume designer";
 </script>
 
-<span class="tag" class:highlighted-tag={highlighted}>{tag}</span>
+<span class="tag" class:highlighted-tag={highlighted} class:dark-tag={dark}>{tag}</span>
 
 <style>
   .tag {
@@ -22,5 +23,10 @@
   .highlighted-tag {
     background-color: #e0ff0c;
     color: #232323;
+  }
+
+  .dark-tag {
+    background-color: #000;
+    color: #fff;
   }
 </style>
