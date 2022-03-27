@@ -5,6 +5,13 @@ openedAt: 2022-01-30T18:00:40.211Z
 tags:
   - set designer
   - Fronte Vacuo
+imgs:
+  - alt: Exhale Image 1
+    credit: 'credit: Stefanie Kulisch'
+    url: /cms/images/exhale1_stefanie-kulisch.jpg
+  - alt: Exhale Image 2
+    credit: 'credit: Stefanie Kulisch'
+    url: /cms/images/exhale2_stefanie-kulisch.jpg
 group: Performance
 ---
 **`Set and costume designer`**
