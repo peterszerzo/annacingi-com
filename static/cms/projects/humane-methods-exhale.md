@@ -9,46 +9,46 @@ tags:
 thumbnailImg: /cms/images/thumbnail-exhale.jpeg
 imgs:
   - alt: Exhale Image 1
-    credit: 'credit: Stefanie Kulisch'
+    credit: Stefanie Kulisch
     url: /cms/images/exhale1_stefanie-kulisch.jpg
   - alt: Exhale Image 2
-    credit: 'credit: Stefanie Kulisch'
+    credit: Stefanie Kulisch
     url: /cms/images/exhale2_stefanie-kulisch.jpg
   - alt: Exhale Image 3
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale3_nikolaus-ostermann.jpg
   - alt: Exhale Image 4
-    credit: 'credit: Stefanie Kulisch'
+    credit: Stefanie Kulisch
     url: /cms/images/exhale4_stefanie-kulisch.jpg
   - alt: Exhale Image 5
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale5_nikolaus-ostermann.jpg
   - alt: Exhale Image 6
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale6_nikolaus-ostermann.jpg
   - alt: Exhale Image 7
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale7_nikolaus-ostermann.jpg
   - alt: Exhale Image 8
-    credit: 'credit: Stefanie Kulisch'
+    credit: Stefanie Kulisch
     url: /cms/images/exhale8_stefanie-kulisch.jpg
   - alt: Exhale Image 9
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale9_nikolaus-ostermann.jpg
   - alt: Exhale Image 10
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale10_nikolaus-ostermann.jpg
   - alt: Exhale Image 11
-    credit: 'credit: Stefanie Kulisch'
+    credit: Stefanie Kulisch
     url: /cms/images/exhale11_stefanie-kulisch.jpg
   - alt: Exhale Image 12
-    credit: 'credit: Nikolaus Ostermann'
+    credit: Nikolaus Ostermann
     url: /cms/images/exhale12_nikolaus-ostermann.jpg
   - alt: Exhale Image 13
-    credit: 'credit: Stefanie Kulisch'
+    credit: Stefanie Kulisch
     url: /cms/images/exhale13_stefanie-kulisch.jpg
   - alt: Exhale Image 14
-    credit: 'credit: Marco Donnarumma'
+    credit: Marco Donnarumma
     url: /cms/images/exhale14_marco-donnarumma.jpg
 group: Performance
 ---
