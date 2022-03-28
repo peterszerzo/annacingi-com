@@ -4,7 +4,9 @@ title: h m / EXHALE
 openedAt: 2022-01-30T18:00:40.211Z
 tags:
   - set designer
+  - costume designer
   - Fronte Vacuo
+thumbnailImg: /cms/images/thumbnail-exhale.jpeg
 imgs:
   - alt: Exhale Image 1
     credit: 'credit: Stefanie Kulisch'
