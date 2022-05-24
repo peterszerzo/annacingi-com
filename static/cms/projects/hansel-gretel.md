@@ -5,7 +5,7 @@ openedAt: 2017-09-02T12:00:00.000Z
 tags:
   - set assistant
   - award-winning
-thumbnailImg: /cms/images/haensel-gretel-thumbnail.jpeg
+thumbnailImg: /cms/images/haensel-thumbnail2.jpg
 imgs:
   - alt: Hänsel und Gretel Stage 1
     credit: 'Brescia, Amisano © Teatro Alla Scala'
