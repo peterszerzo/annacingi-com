@@ -4,7 +4,7 @@ title: Urlando Furiosa
 openedAt: 2017-12-01T12:00:00.000Z
 tags:
   - costume designer
-thumbnailImg: /cms/images/urlando-furiosa-06.jpg
+thumbnailImg: /cms/images/urlando-thumbnail1.jpg
 imgs:
   - alt: Urlando Furiosa 6
     credit: Laila Pozzo
