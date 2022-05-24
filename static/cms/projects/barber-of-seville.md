@@ -4,7 +4,7 @@ title: Barber of Seville
 openedAt: 2018-11-10T12:00:00.000Z
 tags:
   - set assistant
-thumbnailImg: /cms/images/thumbnail-barb.jpg
+thumbnailImg: /cms/images/thumbnail-barb-copy.jpg
 imgs:
   - alt: Barber of Seville 1
     credit: Marco Borggreve
