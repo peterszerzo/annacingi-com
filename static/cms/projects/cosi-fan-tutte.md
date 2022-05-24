@@ -4,7 +4,7 @@ title: Così fan tutte
 openedAt: 2021-03-28T17:00:33.636Z
 tags:
   - set assistant
-thumbnailImg: /cms/images/cosi-fan-tutte-thumb.jpg
+thumbnailImg: /cms/images/cosi-fan-tutte-thumb-copy.jpg
 imgs:
   - alt: così fan tutte 01
     url: /cms/images/cosi-fan-tutte01.jpg
