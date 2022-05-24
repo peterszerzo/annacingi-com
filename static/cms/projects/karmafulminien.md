@@ -6,7 +6,7 @@ tags:
   - set designer
   - costume designer
   - Generazione Disagio
-thumbnailImg: /cms/images/karmafulminien-thumbnail.jpeg
+thumbnailImg: /cms/images/karma-thumbnail1.jpg
 imgs:
   - alt: Karmafulminien Stage 1
     url: /cms/images/karmafulminien-stage-1.jpg
