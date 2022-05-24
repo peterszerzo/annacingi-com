@@ -4,7 +4,7 @@ title: Die Ägyptische Helena
 openedAt: 2019-11-06T12:00:00.000Z
 tags:
   - set assistant
-thumbnailImg: /cms/images/helena-thumbnail6.jpg
+thumbnailImg: /cms/images/helena-thumbnail4-copy.jpg
 imgs:
   - alt: helena stage picture 1
     credit: 'credit: Brescia, Amisano © Teatro alla Scala'
