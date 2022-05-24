@@ -4,7 +4,7 @@ title: Ernani
 openedAt: 2018-09-29T12:00:00.000Z
 tags:
   - set assistant
-thumbnailImg: /cms/images/ernani-thumbnail.jpeg
+thumbnailImg: /cms/images/thumbnail-ernani.jpg
 imgs:
   - alt: Ernani stage 1
     credit: 'Brescia, Amisano © Teatro Alla Scala'
