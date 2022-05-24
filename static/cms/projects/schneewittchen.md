@@ -4,7 +4,7 @@ title: Schneewittchen
 openedAt: 2019-03-13T12:00:00.000Z
 tags:
   - shadow play
-thumbnailImg: /cms/images/thumbnail-snow-copy.jpg
+thumbnailImg: /cms/images/thumbnail-snow-copy2.jpg
 imgs:
   - alt: Schneewittchen 1
     credit: my rendering
