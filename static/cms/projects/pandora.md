@@ -6,7 +6,7 @@ tags:
   - set designer
   - award winning
   - Teatro dei Gordi
-thumbnailImg: /cms/images/pandora-thumbnail2.jpg
+thumbnailImg: /cms/images/pandora-thumbnail2-copy.jpg
 imgs:
   - alt: pandora1
     credit: Noemi Ardesi
