@@ -24,11 +24,13 @@
 
 <div class="about-container">
   <div class="image-container">
-    <div class="image-frame stickout background2"></div>
-    <div class="image-frame stickout background"></div>
-    <div class="image-frame stickout">
-      <div class="image-crop-container">
-        <img src={portraitUrl} alt="Anna Portrait" />
+    <div class="image-frames">
+      <div class="image-frame stickout background2" />
+      <div class="image-frame stickout background" />
+      <div class="image-frame stickout">
+        <div class="image-crop-container">
+          <img src={portraitUrl} alt="Anna Portrait" />
+        </div>
       </div>
     </div>
   </div>
@@ -38,7 +40,7 @@
 <style>
   .image-container {
     position: relative;
-    margin: 20px auto;
+    margin: 40px auto 100px;
   }
 
   @media screen and (min-width: 860px) {
@@ -48,18 +50,22 @@
     }
 
     .image-container {
-      margin: 40px auto;
+      margin: 60px auto 0;
     }
   }
 
-  .image-frame {
+  .image-frames {
     position: relative;
-    width: fit-content;
-    margin: 20px auto 0px;
-    transform: skewY(-14deg);
     width: 240px;
     height: 240px;
-    margin: 40px auto 50px;
+    margin: auto;
+  }
+
+  .image-frame {
+    width: 240px;
+    height: 240px;
+    position: relative;
+    transform: skewY(-14deg);
   }
 
   .image-crop-container {
@@ -94,7 +100,11 @@
     .image-frame {
       width: 300px;
       height: 300px;
-      margin: 40px auto 60px;
+    }
+
+    .image-frames {
+      width: 300px;
+      height: 300px;
     }
 
     img {

@@ -21,6 +21,8 @@
 
 <style>
   .icon-button {
+    cursor: pointer;
+    color: #343434;
     width: 38px;
     height: 38px;
     border-radius: 4px;
@@ -30,6 +32,7 @@
   }
 
   .icon-button:hover {
+    color: #000;
     background-color: #f5f5f5;
   }
 

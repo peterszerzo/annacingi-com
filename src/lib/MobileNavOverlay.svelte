@@ -22,8 +22,10 @@
 </script>
 
 <div class="mobile-nav-popup" transition:fade={{ duration: 50, delay: 50 }}>
-  <div class="mobile-nav-content">
+  <div class="mobile-nav-close">
     <IconButton title="Close navigation" icon="X" on:click={close} />
+</div>
+  <div class="mobile-nav-content">
     <a on:click={close} href="/">Home</a>
     <a on:click={close} href="/about">About</a>
     <a on:click={close} href="mailto:annamcingi@gmail.com">Contact</a>
@@ -54,6 +56,12 @@
     width: 88px;
     height: 88px;
     margin: 30px auto 0;
+  }
+
+  .mobile-nav-close {
+    position: absolute;
+    top: 13px;
+    right: 10px;
   }
 
   a {
