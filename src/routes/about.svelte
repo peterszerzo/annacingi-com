@@ -22,19 +22,37 @@
   <title>About Anna</title>
 </svelte:head>
 
-<div class="image-container stickout">
-  <div class="image-crop-container">
-    <img src={portraitUrl} alt="Anna Portrait" />
+<div class="about-container">
+  <div class="image-container">
+    <div class="image-frame stickout background2"></div>
+    <div class="image-frame stickout background"></div>
+    <div class="image-frame stickout">
+      <div class="image-crop-container">
+        <img src={portraitUrl} alt="Anna Portrait" />
+      </div>
+    </div>
   </div>
+  <Static markdown={body} />
 </div>
-<Static markdown={body} />
 
 <style>
-  :global(.content) > :global(div:nth-child(2)) {
-    margin-top: 80px;
+  .image-container {
+    position: relative;
+    margin: 20px auto;
   }
 
-  .image-container {
+  @media screen and (min-width: 860px) {
+    .about-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .image-container {
+      margin: 40px auto;
+    }
+  }
+
+  .image-frame {
     position: relative;
     width: fit-content;
     margin: 20px auto 0px;
@@ -58,8 +76,22 @@
     left: -35px;
   }
 
+  .background {
+    background-color: #e0ff0c;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+  }
+
+  .background2 {
+    background-color: #000;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+
   @media screen and (min-width: 640px) {
-    .image-container {
+    .image-frame {
       width: 300px;
       height: 300px;
       margin: 40px auto 60px;

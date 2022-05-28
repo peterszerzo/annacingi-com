@@ -10,11 +10,11 @@
 </script>
 
 <div class="wing-title2">
-  <h1 class="title stickout">{title}</h1>
+  <h1 class="title font-geom font-light stickout">{title}</h1>
   {#if tags}
     <div class="tags">
       {#each tags as tag}
-        <Tag {tag} />
+        <Tag {tag} withLink />
       {/each}
     </div>
   {/if}

@@ -18,7 +18,7 @@
 
 <style>
   .container {
-    max-width: 860px;
+    max-width: 1080px;
     overflow-x: hidden;
     margin: auto;
     padding: 10px;
@@ -75,10 +75,8 @@
 
   :global(.title) {
     margin: 0;
-    word-break: break-all;
     font-size: 30px;
     text-transform: uppercase;
-    font-family: "Quicksand", sans-serif;
   }
 
   .overlay {

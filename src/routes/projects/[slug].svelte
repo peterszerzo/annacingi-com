@@ -27,6 +27,3 @@
   <Carousel carouselId="car1" images={project.imgs} />
 {/if}
 <Static markdown={project.body} />
-
-<style>
-</style>

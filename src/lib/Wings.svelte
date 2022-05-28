@@ -5,9 +5,11 @@
 <style>
   .wings {
     text-align: center;
+    max-width: 960px;
+    margin: auto;
   }
 
-  @media (min-width: 860px) {
+  @media (min-width: 960px) {
     .wings {
       text-align: left;
     }

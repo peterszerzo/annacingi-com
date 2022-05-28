@@ -17,8 +17,8 @@
       <Logo />
     </div>
     <div>
-      <p class="main-link-text main-link-text--bold">Anna Cingi</p>
-      <p class="main-link-text">set designer</p>
+      <p class="main-link-text font-semibold">Anna Cingi</p>
+      <p class="main-link-text font-light">set designer</p>
     </div>
   </a>
   <nav class="header-nav-mobile">
@@ -31,14 +31,14 @@
   {#if isMobileNavOpen}
     <MobileNavOverlay on:close={() => (isMobileNavOpen = false)} />
   {/if}
-  <nav class="header-nav-desktop">
-    <a class="nav-link" class:active-nav-link={isActive("/about")} href="/about"
+  <nav class="header-nav-desktop font-geom">
+    <a class="nav-link font-light font-geom" class:font-semibold={isActive("/about")} href="/about"
       >about</a
     >
-    <a class="nav-link" href="mailto:annamcingi@gmail.com">contact</a>
-    <a class="nav-link" href="/cms/images/anna-cingi-jul-2021.pdf">cv</a>
+    <a class="nav-link font-light font-geom" href="mailto:annamcingi@gmail.com">contact</a>
+    <a class="nav-link font-light font-geom" href="/cms/images/anna-cingi-jul-2021.pdf">cv</a>
     <a
-      class="nav-link"
+      class="nav-link font-light font-geom"
       href="/credits"
       class:active-nav-link={isActive("/credits")}>credits</a
     >
@@ -66,7 +66,7 @@
   }
 
   .main-link-text--bold {
-    font-weight: bold;
+    font-weight: 600;
   }
 
   .main-link-logo-container {
@@ -99,18 +99,13 @@
   }
 
   .nav-link {
-    font-family: "Quicksand", sans-serif;
     font-size: 18px;
     color: inherit;
     text-decoration: none;
     margin-left: 16px;
   }
 
-  .active-nav-link {
-    font-weight: 700;
-  }
-
   .nav-link:hover {
-    border-bottom: 2px solid currentColor;
+    border-bottom: 1px solid currentColor;
   }
 </style>

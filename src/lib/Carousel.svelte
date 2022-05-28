@@ -130,20 +130,20 @@
 <style>
   .carousel-container,
   .carousel-slide {
-    height: 280px;
+    height: 320px;
   }
 
-  @media (min-width: 480px) {
+  @media (min-width: 600px) {
     .carousel-container,
     .carousel-slide {
-      height: 360px;
+      height: 480px;
     }
   }
 
   @media (min-width: 860px) {
     .carousel-container,
     .carousel-slide {
-      height: 480px;
+      height: 540px;
     }
   }
 
@@ -193,7 +193,7 @@
   }
 
   .selected {
-    background-color: #f7ce00;
+    background-color: #e0ff0c;
   }
 
   .carousel-button:focus {

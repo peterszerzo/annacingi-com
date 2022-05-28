@@ -16,7 +16,7 @@
 
 <style>
   .static {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
   }
 
@@ -25,7 +25,8 @@
   }
 
   .static :global(p) {
-    margin-bottom: 16px;
+    margin-top: 0;
+    margin-bottom: 18px;
   }
 
   .static :global(blockquote) {

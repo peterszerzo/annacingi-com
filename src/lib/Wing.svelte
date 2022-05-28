@@ -15,12 +15,16 @@
       .reduce((accumulator, current) => [...accumulator, ...current], []);
 
   let grid = range2(8)(4);
+
+  $: longestWord = Math.max(
+    ...project.title.split(" ").map((str) => str.length)
+  );
 </script>
 
-<a href="projects/{project.id}" class="wing">
+<a href="/projects/{project.id}" class="wing">
   <div class="wing-side stickout">
     <div>
-      <h3 class="title">{project.title}</h3>
+      <h3 class="title font-geom font-light" class:breakAll={longestWord > 6}>{project.title}</h3>
       {#if project.tags}
         {#each project.tags as tag}
           <Tag {tag} />
@@ -69,7 +73,7 @@
     padding-top: 18px;
     padding-bottom: 18px;
     margin-left: -1px;
-    margin-bottom: -2px;
+    margin-bottom: 3px;
   }
 
   .load-test {
@@ -90,7 +94,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
-    width: 140px;
+    width: 160px;
     height: 280px;
     box-sizing: border-box;
     background-repeat: no-repeat;
@@ -134,7 +138,7 @@
     }
   }
 
-  @media (min-width: 600px) {
+  @media (min-width: 640px) {
     .wing:nth-child(4n + 1) .wing-side:nth-child(1),
     .wing:nth-child(4n + 2) .wing-side:nth-child(1) {
       transform: skewY(-14deg);
@@ -156,7 +160,7 @@
     }
   }
 
-  @media (min-width: 860px) {
+  @media (min-width: 960px) {
     .wing:nth-child(6n + 1) .wing-side:nth-child(1),
     .wing:nth-child(6n + 2) .wing-side:nth-child(1),
     .wing:nth-child(6n + 3) .wing-side:nth-child(1) {
@@ -195,7 +199,12 @@
     color: #999;
   }
 
+  .breakAll {
+    word-break: break-all;
+  }
+
   h3 {
     margin-bottom: 6px;
+    color: #454545;
   }
 </style>

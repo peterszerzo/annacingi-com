@@ -2,7 +2,7 @@
   export let title: string;
 </script>
 
-<h2 class="wing-title title stickout">{title}</h2>
+<h2 class="wing-title title font-geom font-light stickout">{title}</h2>
 
 <style>
   .wing-title {
