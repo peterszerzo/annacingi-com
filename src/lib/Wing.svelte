@@ -73,7 +73,7 @@
     padding-top: 18px;
     padding-bottom: 18px;
     margin-left: -1px;
-    margin-bottom: 3px;
+    margin-bottom: 0px;
   }
 
   .load-test {
@@ -94,7 +94,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
-    width: 160px;
+    width: 150px;
     height: 280px;
     box-sizing: border-box;
     background-repeat: no-repeat;
@@ -138,7 +138,7 @@
     }
   }
 
-  @media (min-width: 640px) {
+  @media (min-width: 600px) {
     .wing:nth-child(4n + 1) .wing-side:nth-child(1),
     .wing:nth-child(4n + 2) .wing-side:nth-child(1) {
       transform: skewY(-14deg);
@@ -160,7 +160,7 @@
     }
   }
 
-  @media (min-width: 960px) {
+  @media (min-width: 900px) {
     .wing:nth-child(6n + 1) .wing-side:nth-child(1),
     .wing:nth-child(6n + 2) .wing-side:nth-child(1),
     .wing:nth-child(6n + 3) .wing-side:nth-child(1) {
