@@ -44,10 +44,12 @@ imgs:
     url: /cms/images/ballo-in-maschera-12.jpg
 group: Opera
 ---
-Direttore	Nicola Luisotti (4, 7, 10, 12, 14 mag.) / Giampaolo Bisanti (19, 22 mag.)
+**Conductor:** Nicola Luisotti / Giampaolo Bisanti 
 
-Regia, scene e costumi	Marco Arturo Marelli
+**Director, set and costume designer:** Marco Arturo Marelli
 
-Luci	Marco Filibeck
+**Light designer:** Marco Filibeck.
 
-Maestro del Coro	Alberto Malazzi
+First performed on May 4th, 2022 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/en/season/2021-2022/opera/ballo-in-maschera.html)
+
+Produced by Teatro alla Scala.
