@@ -44,6 +44,8 @@ imgs:
     url: /cms/images/ballo-in-maschera-12.jpg
 group: Opera
 ---
+**set assistant**
+
 **Conductor:** Nicola Luisotti / Giampaolo Bisanti 
 
 **Director, set and costume designer:** Marco Arturo Marelli
