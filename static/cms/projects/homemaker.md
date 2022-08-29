@@ -43,7 +43,7 @@ imgs:
     url: /cms/images/homemaker12.jpg
   - alt: The Homemaker 13
     url: /cms/images/homemaker13.jpg
-group: Performance
+group: Installation
 ---
 **set designer**
 
