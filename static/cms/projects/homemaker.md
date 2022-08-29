@@ -46,7 +46,7 @@ group: Installation
 ---
 **set designer**
 
-Installation fostered by and within Countdown Grabowsee 2022 - Inertia, on the grounds of Heilstätte Grabowsee. // [more information](https://countdowngrabowsee.de/)
+Installation fostered by and within Countdown Grabowsee 2022 - Inertia, on the grounds of Heilstätte Grabowsee // [more information](https://countdowngrabowsee.de/)
 
 Opening on August 19,  2022.
 
