@@ -3,7 +3,7 @@
   export let dark: boolean | undefined = undefined;
   export let withLink: boolean = false;
 
-  $: highlighted = tag === "set designer" || tag === "costume designer";
+  $: highlighted = tag === "set designer" || tag === "costume designer" || tag === "artist";
 </script>
 
 {#if withLink}
