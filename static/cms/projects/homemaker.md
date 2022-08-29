@@ -3,8 +3,7 @@ id: homemaker
 title: The Homemaker
 openedAt: 2022-08-19T15:00:45.333Z
 tags:
-  - set designer
-  - installation
+  - artist
 thumbnailImg: /cms/images/thumbnail2.jpg
 imgs:
   - alt: The Homemaker 01
