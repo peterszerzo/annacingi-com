@@ -3,7 +3,7 @@ id: hansel-gretel
 title: Hänsel und Gretel
 openedAt: 2017-09-02T12:00:00.000Z
 tags:
-  - set assistant
+  - set associate
   - award-winning
 thumbnailImg: /cms/images/haensel-thumbnail2.jpg
 imgs:
@@ -51,7 +51,7 @@ imgs:
     url: /cms/images/haensel-gretel-14.jpg
 group: Opera
 ---
-**`set assitant`**
+**`set associate`**
 
 **Conductor:** Marc Albrecht.
 
