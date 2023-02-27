@@ -3,7 +3,7 @@ id: alcina
 title: Alcina
 openedAt: 2020-02-14T18:30:56.530Z
 tags:
-  - set assistant
+  - set associate
 thumbnailImg: /cms/images/alcina-thumb2.jpg
 imgs:
   - alt: alcina 01
@@ -44,7 +44,7 @@ imgs:
     url: /cms/images/alcina12.jpg
 group: Opera
 ---
-`set assistant`
+`set associate`
 
 **Conductor:** Axel Kober
 
