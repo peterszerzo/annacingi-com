@@ -3,13 +3,24 @@
   export let dark: boolean | undefined = undefined;
   export let withLink: boolean = false;
 
-  $: highlighted = tag === "set designer" || tag === "costume designer" || tag === "artist";
+  $: highlighted =
+    tag === "set designer" ||
+    tag === "costume designer" ||
+    tag === "artist" ||
+    tag === "concept";
 </script>
 
 {#if withLink}
-  <a href={`/tags/${encodeURIComponent(tag)}`} class="tag" class:highlighted-tag={highlighted} class:dark-tag={dark}>{tag}</a>
+  <a
+    href={`/tags/${encodeURIComponent(tag)}`}
+    class="tag"
+    class:highlighted-tag={highlighted}
+    class:dark-tag={dark}>{tag}</a
+  >
 {:else}
-  <span class="tag" class:highlighted-tag={highlighted} class:dark-tag={dark}>{tag}</span>
+  <span class="tag" class:highlighted-tag={highlighted} class:dark-tag={dark}
+    >{tag}</span
+  >
 {/if}
 
 <style>
