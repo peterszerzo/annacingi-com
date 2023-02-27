@@ -1,6 +1,6 @@
 ---
 title: Alcina
-role: Set design assistant
+role: Set design associate
 description: >-
   Conducted by Alex Kober, directed by Lotte de Beer, set design by Christof
   Hetzer. Produced by Deutsche Oper Am Rhein, Düsseldorf.
