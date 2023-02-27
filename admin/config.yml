@@ -75,6 +75,10 @@ collections:
             name: "credit"
             widget: "string"
             required: false
+      - label: "Archived"
+        name: "archived"
+        widget: "boolean"
+        required: false
       - label: "Group"
         name: "group"
         widget: "select"

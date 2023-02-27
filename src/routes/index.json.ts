@@ -29,6 +29,6 @@ export const get = async () => {
   );
 
   return {
-    body: projects,
+    body: projects.filter((project) => !project.archived),
   };
 };
