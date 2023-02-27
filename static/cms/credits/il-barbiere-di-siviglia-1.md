@@ -1,6 +1,6 @@
 ---
 title: Il Barbiere di Siviglia
-role: Costume and set assistant
+role: Set associate
 description: >-
   Directed by Marco Gandini set and costume design by Qianru Zhou. Produced by
   Accademia Teatro alla Scala and Teatro Donnafugata, Ragusa Ibla.
