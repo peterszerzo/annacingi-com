@@ -40,7 +40,7 @@
     <a
       class="nav-link font-light font-geom"
       href="/credits"
-      class:active-nav-link={isActive("/credits")}>credits</a
+      class:font-semibold={isActive("/credits")}>credits</a
     >
   </nav>
 </header>
