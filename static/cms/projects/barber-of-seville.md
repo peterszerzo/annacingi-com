@@ -3,7 +3,7 @@ id: barber-of-seville
 title: Barber of Seville
 openedAt: 2018-11-10T12:00:00.000Z
 tags:
-  - set assistant
+  - set associate
 thumbnailImg: /cms/images/thumbnail-barb-copy.jpg
 imgs:
   - alt: Barber of Seville 1
@@ -44,7 +44,7 @@ imgs:
     url: /cms/images/barber-of-seville-12.jpg
 group: Opera
 ---
-**`set assistant`**
+**`set associate`**
 
 **Conductor:** Maurizio Benini
 
