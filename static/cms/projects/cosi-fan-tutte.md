@@ -3,7 +3,7 @@ id: cosi-fan-tutte
 title: Così fan tutte
 openedAt: 2021-03-28T17:00:33.636Z
 tags:
-  - set assistant
+  - set associate
 thumbnailImg: /cms/images/cosi-fan-tutte-thumb-copy.jpg
 imgs:
   - alt: così fan tutte 01
@@ -32,7 +32,7 @@ imgs:
     url: /cms/images/cosi-fan-tutte12.jpg
 group: Opera
 ---
-**`set assistant`**
+**`set associate`**
 
 **Conductor:** Zubin Metha.
 
