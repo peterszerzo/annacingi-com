@@ -7,34 +7,34 @@ tags:
 thumbnailImg: /cms/images/thumbnail2.jpg
 imgs:
   - alt: The Homemaker 01
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker1.jpg
   - alt: The Homemaker 02
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker2.jpg
   - alt: The Homemaker 03
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker3.jpg
   - alt: The Homemaker 04
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker4.jpg
   - alt: The Homemaker 05
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker5.jpg
   - alt: The Homemaker 06
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker6.jpg
   - alt: The Homemaker 07
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker7.jpg
   - alt: The Homemaker 08
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker8.jpg
   - alt: The Homemaker 09
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker9.jpg
   - alt: The Homemaker 10
-    credit: ''
+    credit: ""
     url: /cms/images/homemaker10.jpg
   - alt: The Homemaker 11
     url: /cms/images/homemaker11.jpg
@@ -48,4 +48,4 @@ Installation fostered by and within Countdown Grabowsee 2022 - Inertia, on the g
 
 Opening on August 19,  2022.
 
-A dysfunctional strategy deploying clutter, heirlooms and leftovers to answer the question: if I work hard enough, can I make myself belong?
+> A dysfunctional strategy deploying clutter, heirlooms and leftovers to answer the question: if I work hard enough, can I make myself belong?
