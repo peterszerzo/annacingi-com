@@ -1,6 +1,6 @@
 ---
 title: Falstaff
-role: set assistant
+role: set associate
 description: >-
   Directed by Sven-Eric Bechtolf, set design by Julian Crouch, lighting design
   by Alex Brok, video design by Josh Higgason. Produced by Maggio Musicale
