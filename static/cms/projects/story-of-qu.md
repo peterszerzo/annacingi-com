@@ -40,6 +40,7 @@ imgs:
   - alt: Story of Qu 13
     credit: Pino Montisci
     url: /cms/images/story-of-qu-13.jpg
+archived: true
 group: Theatre
 ---
 **`set designer`**
