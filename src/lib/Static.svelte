@@ -30,12 +30,12 @@
   }
 
   .static :global(blockquote) {
-    border-left: 3px solid #dedede;
+    border-left: 3px solid #e0ff0c;
     color: #676767;
     font-style: italic;
     padding-top: 0;
     padding-bottom: 0;
-    padding-left: 20px;
+    padding-left: 16px;
     margin-left: 0;
   }
 </style>

@@ -6,6 +6,7 @@
   $: highlighted =
     tag === "set designer" ||
     tag === "costume designer" ||
+    tag === "exhibition designer" ||
     tag === "artist" ||
     tag === "concept";
 </script>
