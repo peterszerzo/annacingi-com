@@ -1,6 +1,6 @@
 ---
 title: Un ballo in maschera
-role: set assistant
+role: set associate
 description: >-
   Director, set and costume designer: Marco Arturo Marelli. Produced by Teatro
   Alla Scala, Milan.
