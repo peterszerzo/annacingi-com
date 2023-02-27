@@ -1,6 +1,6 @@
 ---
 title: Die Ägyptische Helena
-role: Set design assistant
+role: Set associate
 description: >-
   Conducted by Franz Welser-Möst, directed by Sven-Eric Bechtolf, set design by
   Julian Crouch. Produced by Teatro Alla Scala, Milan.
