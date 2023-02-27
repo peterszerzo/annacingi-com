@@ -50,6 +50,7 @@ collections:
         name: "tags"
         widget: "list"
         field:
+          name: "tag"
           label: "Tag"
           widget: "string"
       - label: "Body"
