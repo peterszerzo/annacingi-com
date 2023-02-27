@@ -3,7 +3,7 @@ id: ernani
 title: Ernani
 openedAt: 2018-09-29T12:00:00.000Z
 tags:
-  - set assistant
+  - set associate
 thumbnailImg: /cms/images/thumbnail-ernani.jpg
 imgs:
   - alt: Ernani stage 1
@@ -53,7 +53,7 @@ imgs:
     url: /cms/images/ernani-15.jpg
 group: Opera
 ---
-**`set assistant`**
+**`set associate`**
 
 **Conductor:** Ádám Fischer
 
