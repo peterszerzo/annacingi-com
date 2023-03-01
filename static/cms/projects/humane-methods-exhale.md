@@ -1,7 +1,7 @@
 ---
 id: humane-methods-exhale
 title: h m / EXHALE
-openedAt: 2022-01-30T18:00:40.211Z
+openedAt: 2022-02-04T18:00:40.211Z
 tags:
   - set designer
   - costume designer
