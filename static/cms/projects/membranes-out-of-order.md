@@ -49,4 +49,4 @@ Opening on December 9th, 2022 in Bethanien Kunstquartier, Berlin // [more inform
 
 > The idea of the exhibition Membranes Out of Order is to show the connection between three influential actors of the Berliner growing bioart scene.
 
-Focused on the exploration and manipulation of living entities by means of biotechnology, bioart is an artistic vocabulary that has gained critical relevance in our current times marked by surging ecological disruption and, more recently, disruptive pandemic. By doing so, bioart works offer critical yet accessible entry points to complex ethical, political, and educational issues that surround biotechnological developments with critical and accessible entry points.
+> Focused on the exploration and manipulation of living entities by means of biotechnology, bioart is an artistic vocabulary that has gained critical relevance in our current times marked by surging ecological disruption and, more recently, disruptive pandemic. By doing so, bioart works offer critical yet accessible entry points to complex ethical, political, and educational issues that surround biotechnological developments with critical and accessible entry points.
