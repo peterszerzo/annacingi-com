@@ -8,42 +8,42 @@ tags:
   - concept
 thumbnailImg: /cms/images/thumbnail-dissolution.jpg
 imgs:
-  - url: /cms/images/dissolution1c_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle'
     credit: Nikolaus Ostermann
-    alt: "Dissolution: the officiant"
-  - url: /cms/images/dissolution2c_nikolaus_ostermann.jpg
-    alt: "Dissolution: the officiant and a partecipant"
+    url: /cms/images/dissolution7_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the officiant'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution3c_nikolaus_ostermann.jpg
-    alt: "Dissolution: the officiant"
+    url: /cms/images/dissolution1c_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the officiant and a partecipant'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution4c_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle's room"
+    url: /cms/images/dissolution2c_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the officiant'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution5c_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle"
+    url: /cms/images/dissolution3c_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle''s room'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution6_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle and the eyes of the partecipants"
+    url: /cms/images/dissolution4c_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution7_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle"
+    url: /cms/images/dissolution5c_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle and the eyes of the partecipants'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution8_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle and the eyes of the partecipants"
+    url: /cms/images/dissolution6_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle and the eyes of the partecipants'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution9_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle and an offer"
+    url: /cms/images/dissolution8_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle and an offer'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution10_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle and an offer"
+    url: /cms/images/dissolution9_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle and an offer'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution11_nikolaus_ostermann.jpg
-    alt: "Dissolution: the oracle and an offer"
+    url: /cms/images/dissolution10_nikolaus_ostermann.jpg
+  - alt: 'Dissolution: the oracle and an offer'
     credit: Nikolaus Ostermann
-  - url: /cms/images/dissolution12_nikolaus_ostermann.jpg
-    alt: Dissolution begins
+    url: /cms/images/dissolution11_nikolaus_ostermann.jpg
+  - alt: Dissolution begins
     credit: Nikolaus Ostermann
+    url: /cms/images/dissolution12_nikolaus_ostermann.jpg
 group: Performance
 ---
 **`Set and costume designer, concept`**
