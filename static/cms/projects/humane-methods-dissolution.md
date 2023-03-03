@@ -6,6 +6,7 @@ tags:
   - set designer
   - costume designer
   - concept
+  - Fronte Vacuo
 thumbnailImg: /cms/images/thumbnail-dissolution.jpg
 imgs:
   - alt: 'Dissolution: the oracle'
