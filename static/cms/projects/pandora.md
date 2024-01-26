@@ -46,19 +46,19 @@ imgs:
     url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
-**`set designer`**
+`SET DESIGNER`
 
-**Director:** Riccardo Pippa
+Director: **Riccardo** **Pippa**
 
-**Performers:** Claudia Caldarano, Cecilia Campani, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Matteo Vitanza
+Performers: **Claudia** **Caldarano**, **Cecilia** **Campani**, **Giovanni** **Longhin**, **Andrea** **Panigatti**, **Sandro** **Pivotti**, **Matteo** **Vitanza**
 
-**Costume design and masks:** Ilaria Ariemme
+Costume design and masks: **Ilaria** **Ariemme**
 
-**Dramaturgy:** Giulia Tollis
+Dramaturgy: **Giulia** **Tollis**
 
-**Light design:** Paolo Casati
+Light design: **Paolo** **Casati**
 
-**Sound design:** Luca De Marinis.
+Sound design: **Luca** **De** **Marinis**
 
 An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). Produced by Teatro Franco Parenti, Teatro Stabile di Torino-Teatro Nazionale, Fondazione Campania dei Festival
 
