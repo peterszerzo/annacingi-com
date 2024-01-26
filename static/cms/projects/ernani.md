@@ -53,7 +53,7 @@ imgs:
     url: /cms/images/ernani-15.jpg
 group: Opera
 ---
-**`SET ASSOCIATE`**
+`SET ASSOCIATE`
 
 Conductor: **Ádám Fischer**
 
