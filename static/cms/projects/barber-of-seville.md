@@ -44,19 +44,19 @@ imgs:
     url: /cms/images/barber-of-seville-12.jpg
 group: Opera
 ---
-**`set associate`**
+**`SET ASSOCIATE`**
 
-**Conductor:** Maurizio Benini
+Conductor: **Maurizio Benini**
 
-**Stage director:** Lotte de Beer
+Stage director: **Lotte de Beer**
 
-**Set and costume designer:** Julian Crouch
+Set and costume designer: **Julian Crouch**
 
-**Light design:** Alex Brok 
+Light design: **Alex Brok** 
 
-**Coreography:** Zack Winokur
+Coreography: **Zack Winokur**
 
-**Dramaturgy**: Peter te Nuyl.
+Dramaturgy: **Peter te Nuyl**
 
 First performed on November 10th, 2018 in Dutch National Opera and Ballet, Amsterdam // [more information](https://www.operaballet.nl/en/opera/2018-2019/show/il-barbiere-siviglia)
 
