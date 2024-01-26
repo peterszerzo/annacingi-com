@@ -32,19 +32,19 @@ imgs:
     url: /cms/images/cosi-fan-tutte12.jpg
 group: Opera
 ---
-**`set associate`**
+**`SET ASSOCIATE`**
 
-**Conductor:** Zubin Metha.
+Conductor: **Zubin Metha**
 
-**Director:** Sven-Eric Bechtolf.
+Director: **Sven-Eric Bechtolf**
 
-**Set design:** Julian Crouch.
+Set design: **Julian Crouch**
 
-**Costume design:** Kevin Pollard, 
+Costume design: **Kevin Pollard** 
 
-**Light design:** Alex Brok
+Light design: **Alex Brok**
 
-**Projection design:** Josh Higgason
+Projection design: **Josh Higgason**
 
 First performed on March 28th, 2020 in Teatro del Maggio, Florence // [more information](https://www.maggiofiorentino.com/en/events/24077/).
 
