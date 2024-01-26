@@ -9,10 +9,15 @@ tags:
 group: Opera
 ---
 **Conductor:** Alexander Joel
+
 **Directing:** Spymonkey / Toby Park, Aitor Basauri
+
 **Set and costume design:** Julian Crouch
+
 **Choreography:** Gail Skrela
+
 **Light design:** Tim van't Hof
+
 **Video design:** Joshua Higgason
 
 First performed on January 21st, 2023 in Volksoper, Vienna. // [more information](https://www.volksoper.at/produktion/orpheus-in-der-unterwelt-2023.de.html)
