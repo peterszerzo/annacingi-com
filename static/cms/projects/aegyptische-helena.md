@@ -44,17 +44,17 @@ imgs:
     url: /cms/images/helena12s.jpg
 group: Opera
 ---
-**`set associate`**
+**`SET ASSOCIATE`**
 
-**Conductor:** Franz Welser-Möst
+Conductor: **Franz Welser-Möst**
 
-**Director:** Sven-Eric Bechtolf
+Director: **Sven-Eric Bechtolf**
 
-**Set design:** Julian Crouch
+Set design: **Julian Crouch**
 
-**Costume design:** Mark Bouman 
+Costume design: **Mark Bouman** 
 
-**Light design:** Fabrice Kebour
+Light design: **Fabrice Kebour**
 
 First performed on November 6th, 2019 in Teatro alla Scala, Milan // [more information](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
 
