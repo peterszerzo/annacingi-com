@@ -52,7 +52,13 @@ group: Theatre
 
 **Performers:** Claudia Caldarano, Cecilia Campani, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Matteo Vitanza
 
-Costume design and masks by Ilaria Ariemme, dramaturgy by Giulia Tollis, light design by Paolo Casati, sound design by Luca De Marinis.
+**Costume design and masks:** Ilaria Ariemme
+
+**Dramaturgy:** Giulia Tollis
+
+**Light design:** Paolo Casati
+
+**Sound design:** Luca De Marinis.
 
 An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). Produced by Teatro Franco Parenti, Teatro Stabile di Torino-Teatro Nazionale, Fondazione Campania dei Festival
 
