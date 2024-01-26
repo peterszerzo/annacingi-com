@@ -58,7 +58,17 @@ group: Performance
 
 **Performers:** Marco Donnarumma, Margherita Pevere, Hikaru and Maco Inagawa/4rude, Willian Lopes, Stefanie Wieser.
 
-Light design and technical direction by Andrea Familari, AI music system by Marco Donnarumma, AI and machine learning by Baptiste Caramiaux and Meredith Thomas, symbionts oversight by Margherita Pevere, sculptures by Ana Rajcevic, dramaturgy Advice by Anne-Kathrin Schulz.
+**Light design and technical direction:** Andrea Familari
+
+**AI music system:** Marco Donnarumma
+
+**AI and machine learning:** Baptiste Caramiaux, Meredith Thomas
+
+**Symbionts oversight:** Margherita Pevere
+
+**Sculptures:** Ana Rajcevic
+
+**Dramaturgy Advice:** Anne-Kathrin Schulz.
 
 An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by Volkstheater, Vienna; CTM Festival, Berlin; Tanzhaus nrw, Düsseldorf.
 
