@@ -52,23 +52,23 @@ imgs:
     url: /cms/images/exhale14_marco-donnarumma.jpg
 group: Performance
 ---
-**`Set and costume designer`**
+`SET & COSTUME DESIGN`
 
-**Concept:** Marco Donnarumma, Margherita Pevere, Andrea Familari.
+Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**.
 
-**Performers:** Marco Donnarumma, Margherita Pevere, Hikaru and Maco Inagawa/4rude, Willian Lopes, Stefanie Wieser.
+Performers: **Marco Donnarumma**, **Margherita Pevere**, **Hikaru and Maco Inagawa**/**4rude**, **Willian Lopes**, **Stefanie Wieser**.
 
-**Light design and technical direction:** Andrea Familari
+Light design and technical direction: **Andrea Familari**
 
-**AI music system:** Marco Donnarumma
+AI music system: **Marco Donnarumma**
 
-**AI and machine learning:** Baptiste Caramiaux, Meredith Thomas
+AI and machine learning: **Baptiste Caramiaux**, **Meredith Thomas**
 
-**Symbionts oversight:** Margherita Pevere
+Symbionts oversight: **Margherita Pevere**
 
-**Sculptures:** Ana Rajcevic
+Sculptures: **Ana Rajcevic**
 
-**Dramaturgy Advice:** Anne-Kathrin Schulz.
+Dramaturgy Advice: **Anne-Kathrin Schulz**
 
 An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by Volkstheater, Vienna; CTM Festival, Berlin; Tanzhaus nrw, Düsseldorf.
 
