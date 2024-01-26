@@ -17,21 +17,21 @@ imgs:
     url: /cms/images/schneewittchen-3.jpg
 group: Opera
 ---
-**`shadowplay designer`**
+`SHADOWPLAY DESIGN`
 
-**Music direction:** Symeon Ioannidis.
+Music direction: **Symeon** **Ioannidis**
 
-**Stage direction:** Constanze Albert, Gail Skrela.
+Stage direction: **Constanze** **Albert**, **Gail** **Skrela**
 
-**Set designer:** Claudia Noack.
+Set designer: **Claudia** **Noack**
 
-**Costume designer:** Ingrid Leibezeder.
+Costume designer: **Ingrid** **Leibezeder**
 
-**Light design:** Simone Oestreicher
+Light design: **Simone** **Oestreicher**
 
-**Coreography:** Gail Skrela
+Coreography: **Gail** **Skrela**
 
-**Dramaturgy:** Benjamin Wäntig.
+Dramaturgy: **Benjamin** **Wäntig**
 
 First performed on March 13th, 2019 in Staatsoper Unter Der Linden, Berlin // [more information](https://www.staatsoper-berlin.de/de/veranstaltungen/schneewittchen.2763/)
 
