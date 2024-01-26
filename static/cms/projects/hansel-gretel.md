@@ -51,19 +51,19 @@ imgs:
     url: /cms/images/haensel-gretel-14.jpg
 group: Opera
 ---
-**`set associate`**
+`SET ASSOCIATE`
 
-**Conductor:** Marc Albrecht.
+Conductor: **Marc Albrecht**
 
-**Director:** Sven-Eric Bechtolf.
+Director: **Sven-Eric Bechtolf**
 
-**Set design:** Julian Crouch.
+Set design: **Julian Crouch**
 
-**Costume design:** Kevin Pollard 
+Costume design: **Kevin Pollard** 
 
-**Light design:** Marco Filibeck
+Light design: **Marco Filibeck**
 
-**Video design:** Joshua Higgason.
+Video design: **Joshua Higgason**
 
 First performed on September 2nd, 2017 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=19493&id_event=29480&id_allest_conc=&uid=7bed6bb7-d894-469b-8da4-0cc045d5793c&objecttype=base)
 
