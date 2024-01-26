@@ -52,7 +52,11 @@ group: Opera
 
 **Set and costume designer:** Julian Crouch
 
-Light design by Alex Brok, coreography by Zack Winokur, dramaturgy by Peter te Nuyl.
+**Light design:** Alex Brok 
+
+**Coreography:** Zack Winokur
+
+**Dramaturgy**: Peter te Nuyl.
 
 First performed on November 10th, 2018 in Dutch National Opera and Ballet, Amsterdam // [more information](https://www.operaballet.nl/en/opera/2018-2019/show/il-barbiere-siviglia)
 
