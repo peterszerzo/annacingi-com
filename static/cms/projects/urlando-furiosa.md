@@ -35,14 +35,20 @@ imgs:
     url: /cms/images/urlando-furiosa-09.jpg
 group: Theatre
 ---
-**`costume designer`**
+`COSTUME DESIGN`
 
-**Director:** Riccardo Pippa.
+Director: **Riccardo** **Pippa**
 
-**Performer:** Rita Pelusio.
+Performer: **Rita** **Pelusio**
 
-**Scenic sculpture:** Simone Fersino.
+Scenic sculpture: **Simone** **Fersino**
 
-An original show by Domenico Ferrari, Riccardo Piferi, Riccardo Pippa and Rita Pelusio. First played on December 12th 2017 in Teatro Verdi, Milan, Italy // [trailer](https://vimeo.com/250084156).
+Light design: **Paolo** **Casati**, 
 
-Light design by Paolo Casati, sound design by Luca De Marinis, direction assistant Andrea Bettaglio.
+Sound design: **Luca** **De** **Marinis**
+
+Direction assistant: **Andrea Bettaglio**
+
+An original show by **Domenico Ferrari**, **Riccardo Piferi**, **Riccardo Pippa** and **Rita Pelusio**. 
+
+First performed on December 12th 2017 in Teatro Verdi, Milan, Italy // [trailer](https://vimeo.com/250084156).
