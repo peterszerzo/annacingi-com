@@ -32,7 +32,7 @@ imgs:
     url: /cms/images/cosi-fan-tutte12.jpg
 group: Opera
 ---
-**`SET ASSOCIATE`**
+`SET ASSOCIATE`
 
 Conductor: **Zubin Metha**
 
