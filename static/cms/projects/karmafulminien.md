@@ -35,15 +35,15 @@ imgs:
     url: /cms/images/karmafulminien-poster.jpg
 group: Theatre
 ---
-**`set and costume designer`**
+`SET & COSTUME DESIGN`
 
-**Director:** Riccardo Pippa.
+Director: **Riccardo Pippa**
 
-**Performers:** Luca Mammoli, Enrico Pittaluga, Graziano Sirressi.
+Performers: **Luca Mammoli**, **Enrico** **Pittaluga**, **Graziano** **Sirressi**.
 
-**Costume design:** me & Daniela De Blasio
+Costume design: me & **Daniela** **De** **Blasio**
 
-**Light design:** Danilo Deiana.
+Light design: **Danilo** **Deiana**.
 
 An original show by [Generazione Disagio](https://www.facebook.com/generazionedisagio/). Produced by Fondazione Luzzati - Teatro della Tosse, Genoa.
 
