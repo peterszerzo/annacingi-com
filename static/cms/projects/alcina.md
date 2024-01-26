@@ -50,9 +50,15 @@ group: Opera
 
 **Stage director:** Lotte de Beer
 
-**Set designer:** Christof Hetzer
+**Set design:** Christof Hetzer
 
-Costume design by Jorine Van Beek, light design by Alex Brok, video design by Torge Möller,  dramaturgy by Anne Melcher.
+**Costume design:** Jorine Van Beek
+
+**Light design:** Alex Brok
+
+**Video design**: Torge Möller
+
+**Dramaturgy:** Anne Melcher.
 
 First performed on February 14th, 2020 in Deutsche Oper am Rhein, Düsseldorf. // [more information](https://operamrhein.de/en_EN/termin/alcina.16007078)
 
