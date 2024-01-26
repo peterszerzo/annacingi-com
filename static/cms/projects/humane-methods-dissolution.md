@@ -51,6 +51,8 @@ group: Performance
 
 **Concept:** Marco Donnarumma, Margherita Pevere, Andrea Familari, Anna Cingi
 
+**Directing:** Margherita Pevere
+
 **Choreography and performance:** Marco Donnarumma, Margherita Pevere
 
 **Interactive Iight design, technical direction:** Andrea Familari
