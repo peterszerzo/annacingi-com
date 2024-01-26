@@ -49,18 +49,30 @@ imgs:
     url: /cms/images/visite-13.jpg
 group: Theatre
 ---
-**`set designer`**
+`SET DESIGN`
 
-**Director:** Riccardo Pippa.
+Director: **Riccardo** **Pippa**
 
-**Performers:** Cecilia Campani, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Maria Vittoria Scarlattei, Matteo Vitanza.
+Performers: **Cecilia** **Campani**, **Giovanni** **Longhin**, **Andrea** **Panigatti**, **Sandro** **Pivotti**, **Maria** **Vittoria** **Scarlattei**, **Matteo** **Vitanza**.
 
-Costume design and masks by Ilaria Ariemme, dramaturgy by Giulia Tollis, light design by Paolo Casati, sound design by Luca De Marinis, directing assistent Daniele Cavone Felicioni.
+Costume design and masks: **Ilaria** **Ariemme** 
+
+Dramaturgy: **Giulia** **Tollis** 
+
+Light design: **Paolo** **Casati**
+
+Sound design: **Luca** **De** **Marinis**
+
+Directing assistant: **Daniele** **Cavone** **Felicioni**.
 
 An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). Produced by Teatro Franco Parenti and Teatro dei Gordi.
 
-First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more information](https://www.teatrodeigordi.it/visite/)
+First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more information](https://www.teatrodeigordi.it/it/visite/)
 
-This was my first collaboration with Teatro dei Gordi, an independent company based in Milan and operating since 2010. 
+For this design I was awarded [**Premio Tragos**](https://tragos.it/14a-edizione-tragos-2019-2/) as Up and coming Set Designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://premiohystrio.org) in 2019.
 
-For this design I was awarded [**Premio Tragos**](https://tragos.it/14a-edizione-tragos-2019-2/) as Upcoming Set Designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://premiohystrio.org) in 2019.
+
+
+_We would like to tell a simple, common story to grasp, if possible, the mythical background of a close-to-us everyday life. We were inspired, for a big part of our work, by Philemon’s Metamorphosis and Ovid’s Baucis. This myth resounds in us: conviviality as a modus vivendi; the need to have an intimate place or to sometimes have to leave it; becoming custodians of something or someone; metamorphosis as a sign of time, a look at the world, a vital necessity and scenic dynamics._
+
+_Through a bedroom the seasons of life pass: visits from friends, memories, dreams and visiting as the last, possible act of resistance. We imagine ourselves in ten, fifty, sixty years, as a child who is afraid of the sting and plays the part of the doctor, as someone who would like to be wise without having to wait for white hair; like someone who, after all, never feels ready to grow old, to die or to be alive. We are interested in looking there, in fear of the passing of time and to do so we continue our journey in the body and in the masks, to tell about communicating universes, in search of fantastic truths and credible lies._
