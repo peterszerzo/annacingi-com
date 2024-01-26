@@ -55,12 +55,18 @@ group: Performance
 
 **Interactive Iight design, technical direction:** Andrea Familari
 
-Live photography: Nikolaus Ostermann / Volkstheater Wien
+**AI Music system and spatial sound design:** Marco Donnarumma
 
-AI Music system and spatial sound design by Marco Donnarumma, AI computer vision system by Meredith Thomas, artistic production by  Eva Luzia Preindl, directing assistance by Katrina Buchberger.
+**AI computer vision system:** Meredith Thomas
+
+**Artistic production:** Eva Luzia Preindl
+
+**Directing assistance:** Katrina Buchberger.
+
+**Live photography:** Nikolaus Ostermann / Volkstheater Wien
 
 An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
 
 First performed on November 24th, 2022 in Volkstheater, Vienna // [more information](https://frontevacuo.com/works/dissolution/)
 
-> *δISSOLUTION* is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence.
+> _δISSOLUTION_ is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence.
