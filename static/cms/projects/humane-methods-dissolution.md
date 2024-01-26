@@ -47,7 +47,7 @@ imgs:
     url: /cms/images/dissolution12_nikolaus_ostermann.jpg
 group: Performance
 ---
-`SET AND COSTUME DESIGN, CONCEPT`
+`SET & COSTUME DESIGN, CONCEPT`
 
 Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
