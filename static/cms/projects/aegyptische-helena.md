@@ -44,7 +44,7 @@ imgs:
     url: /cms/images/helena12s.jpg
 group: Opera
 ---
-**`SET ASSOCIATE`**
+`SET ASSOCIATE`
 
 Conductor: **Franz Welser-Möst**
 
