@@ -44,7 +44,7 @@ imgs:
     url: /cms/images/barber-of-seville-12.jpg
 group: Opera
 ---
-**`SET ASSOCIATE`**
+`SET ASSOCIATE`
 
 Conductor: **Maurizio Benini**
 
