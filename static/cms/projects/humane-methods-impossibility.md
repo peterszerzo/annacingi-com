@@ -31,4 +31,6 @@ An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by
 
 First performed on March 24th, 2023 in Weißer Salon, Volkstheater, Vienna
 
-The second piece from Fronte Vacuo's ongoing residency at Volkstheater Wien. Three symbionts, a fungus, an industrial robot and its master are the protagonists of a deep and poetic journey between constraint, voyeurism and inexorability.
+__
+
+_The second piece from Fronte Vacuo's ongoing residency at Volkstheater Wien. Three symbionts, a fungus, an industrial robot and its master are the protagonists of a deep and poetic journey between constraint, voyeurism and inexorability._
