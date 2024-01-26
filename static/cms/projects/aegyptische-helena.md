@@ -50,9 +50,11 @@ group: Opera
 
 **Director:** Sven-Eric Bechtolf
 
-**Set designer:** Julian Crouch
+**Set design:** Julian Crouch
 
-Costume design by Mark Bouman, light design by Fabrice Kebour
+**Costume design:** Mark Bouman 
+
+**Light design:** Fabrice Kebour
 
 First performed on November 6th, 2019 in Teatro alla Scala, Milan // [more information](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
 
