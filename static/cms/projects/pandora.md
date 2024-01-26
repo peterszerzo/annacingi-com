@@ -46,7 +46,7 @@ imgs:
     url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
-`SET DESIGNER`
+`SET DESIGN`
 
 Director: **Riccardo** **Pippa**
 
