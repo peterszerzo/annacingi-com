@@ -74,6 +74,8 @@ An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by V
 
 First performed on February 5th, 2022 in Radialsystem, Berlin, for CTM festival // [more information](https://www.ctm-festival.de/festival-2022/programme/features/humane-methods-sxhale)
 
+__
+
 _ΣXHALE exposes algorithmic violence by questioning the responsibilities of both artificial intelligence and one‘s own. It is an ecosystem of catharsis, a biome whose very existence demands alternative forms of empathy and knowledge._
 
 _ΣXHALE is a rhizome of the Humane Methods project, an ongoing reflection on violence in algorithmic societies._
