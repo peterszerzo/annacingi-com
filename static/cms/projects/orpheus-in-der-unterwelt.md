@@ -8,17 +8,19 @@ tags:
   - Operetta
 group: Opera
 ---
-**Conductor:** Alexander Joel
+`SET ASSOCIATE`
 
-**Directing:** Spymonkey / Toby Park, Aitor Basauri
+Conductor: **Alexander Joel**
 
-**Set and costume design:** Julian Crouch
+Directing: **Spymonkey** / **Toby** **Park**, **Aitor** **Basauri**
 
-**Choreography:** Gail Skrela
+Set and costume design: **Julian** **Crouch**
 
-**Light design:** Tim van't Hof
+Choreography: **Gail** **Skrela**
 
-**Video design:** Joshua Higgason
+Light design: **Tim** **van't** **Hof**
+
+Video design: **Joshua** **Higgason**
 
 First performed on January 21st, 2023 in Volksoper, Vienna. // [more information](https://www.volksoper.at/produktion/orpheus-in-der-unterwelt-2023.de.html)
 
