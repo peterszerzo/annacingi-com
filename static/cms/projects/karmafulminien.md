@@ -41,7 +41,9 @@ group: Theatre
 
 **Performers:** Luca Mammoli, Enrico Pittaluga, Graziano Sirressi.
 
-Costumes designed together with Daniela De Blasio, light design by Danilo Deiana.
+**Costume design:** me & Daniela De Blasio
+
+**Light design:** Danilo Deiana.
 
 An original show by [Generazione Disagio](https://www.facebook.com/generazionedisagio/). Produced by Fondazione Luzzati - Teatro della Tosse, Genoa.
 
