@@ -4,6 +4,7 @@ title: hold for three
 openedAt: 2023-07-21T17:00:36.462Z
 tags:
   - designer
+thumbnailImg: /cms/images/hold-for-three_thumb.jpg
 group: Performance
 ---
 `OBJECT AND SET DESIGN`
