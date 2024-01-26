@@ -71,7 +71,7 @@ First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more inf
 
 For this design I was awarded [**Premio Tragos**](https://tragos.it/14a-edizione-tragos-2019-2/) as Up and coming Set Designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://premiohystrio.org) in 2019.
 
-
+__
 
 _We would like to tell a simple, common story to grasp, if possible, the mythical background of a close-to-us everyday life. We were inspired, for a big part of our work, by Philemon’s Metamorphosis and Ovid’s Baucis. This myth resounds in us: conviviality as a modus vivendi; the need to have an intimate place or to sometimes have to leave it; becoming custodians of something or someone; metamorphosis as a sign of time, a look at the world, a vital necessity and scenic dynamics._
 
