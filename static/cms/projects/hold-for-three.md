@@ -16,7 +16,7 @@ Documentation: **Kim Wichera**
 
 Sonic performance with amplified bellows
 
-First performed at Hošek Contemporary, Berlin, July 21th, 2023
+First performed at Hošek Contemporary, Berlin, July 21th, 2023 // more info
 
 _‘Hold for Three’ is a sonic performance which morphs bodies into machinehood and objects into organs. Kayla Elrod and Lottie Sebes probe the sonic capacities of various bellows, operating them as instruments, extensions and prosthetics. Sonic worlds are built from wheezing breath, creaking hinges, loosening screws, and hot air hissing. Outmoded objects of production are transformed into otherworldly organs, powered by mechanical respiration, a cycle of tension and release.  With affection, play and struggle, we maintain constant operation, we make use of the useless._
 
