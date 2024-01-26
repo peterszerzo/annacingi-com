@@ -53,15 +53,21 @@ imgs:
     url: /cms/images/ernani-15.jpg
 group: Opera
 ---
-**`set associate`**
+**`SET ASSOCIATE`**
 
-**Conductor:** Ádám Fischer
+Conductor: **Ádám Fischer**
 
-**Director:** Sven-Eric Bechtolf
+Director: **Sven-Eric Bechtolf**
 
-**Set designer:** Julian Crouch
+Set design: **Julian Crouch**
 
-Costume design by Kevin Pollard, light design by Marco Filibeck, video design by Filippo Marta, coreography by Lara Montanaro.
+Costume design: **Kevin Pollard** 
+
+Light design: **Marco Filibeck** 
+
+Video design: **Filippo Marta** 
+
+Coreography: **Lara Montanaro**
 
 First performed on September 29th, 2018 in Teatro alla Scala, Milan // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=20256&id_event=30165&id_allest_conc=&uid=bb792ccc-0349-43b0-94ed-bc4a9ed11fe3&objecttype=base)
 
