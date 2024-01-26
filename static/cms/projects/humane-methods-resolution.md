@@ -9,26 +9,28 @@ tags:
   - Fronte Vacuo
 group: Performance
 ---
-**Concept:** Marco Donnarumma, Margherita Pevere, Andrea Familari, Anna Cingi
+`SET, PUPPET & COSTUME DESIGN, CONCEPT`
 
-**Directing:** Marco Donnarumma
+Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
-**Performers:** Margherita Pevere, Marco Donnarumma, Uwe Schmieder
+Directing: **Marco Donnarumma**
 
-**Choreography:** Marco Donnarumma, Margherita Pevere
+Performers: **Margherita Pevere**, **Marco Donnarumma**, **Uwe Schmieder**
 
-**Interactive Iight and video design, technical direction:** Andrea Familari
+Choreography: **Marco Donnarumma**, **Margherita Pevere**
 
-**AI Music system and spatial sound design:** Marco Donnarumma
+Interactive Iight and video design, technical direction: **Andrea Familari**
 
-**Symbionts oversight:** Margherita Pevere
+AI Music system and spatial sound design: **Marco Donnarumma**
 
-**Video/3D-Character-Design:** Marvin Kanas
+Symbionts oversight: **Margherita Pevere**
 
-**Artistic production:** Eva Luzia Preindl
+Video/3D-Character-Design: **Marvin Kanas**
 
-**Directing assistance:** Katrina Buchberger
+Artistic production: **Eva Luzia Preindl**
+
+Directing assistance: **Katrina Buchberger**
 
 An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
 
-First performed on May 19th, 2023 in Weißer Salon, Volkstheater, Vienna
+First performed on May 19th, 2023 in Dunkelkammer, Volkstheater, Vienna
