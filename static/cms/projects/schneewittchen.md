@@ -27,8 +27,12 @@ group: Opera
 
 **Costume designer:** Ingrid Leibezeder.
 
-Light design by Simone Oestreicher, coreography by Gail Skrela, dramaturgy by Benjamin Wäntig.
+**Light design:** Simone Oestreicher
 
-Opening on March 13th, 2019 in Staatsoper Unter Der Linden, Berlin // [more information](https://www.staatsoper-berlin.de/de/veranstaltungen/schneewittchen.2763/)
+**Coreography:** Gail Skrela
+
+**Dramaturgy:** Benjamin Wäntig.
+
+First performed on March 13th, 2019 in Staatsoper Unter Der Linden, Berlin // [more information](https://www.staatsoper-berlin.de/de/veranstaltungen/schneewittchen.2763/)
 
 Produced by Staatsoper Unter Der Linden.
