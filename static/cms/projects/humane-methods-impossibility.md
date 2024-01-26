@@ -8,6 +8,42 @@ tags:
   - concept
   - Fronte Vacuo
 thumbnailImg: /cms/images/impossibility_thumbnail.jpg
+imgs:
+  - alt: 'impossibility / three symbionts (Pevere, Donnarumma, Schmieder)'
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_1.jpg
+  - alt: impossibility / the kernel (Familari)
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_2.jpg
+  - alt: impossibility / symbiont (Donnarumma)
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_3.jpg
+  - alt: impossibility / symbiont (Schmieder)
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_4.jpg
+  - alt: impossibility / symbiont rising (Donnarumma)
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_5.jpg
+  - alt: impossibility / the kernel (Familari)
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_6.jpg
+  - alt: impossibility / the robot arm on the mushroom
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_7.jpg
+  - alt: 'impossibility / the kernel: distortion (Familari)'
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_8.jpg
+  - alt: 'impossibility / three symbionts (Pevere, Donnarumma, Schmieder)'
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_9.jpg
+  - alt: 'impossibility / three symbionts joining (Pevere, Donnarumma, Schmieder)'
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_10.jpg
+  - alt: impossibility_ violin (Georgiew)
+    credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_11.jpg
+  - credit: Nikolaus Ostermann
+    url: /cms/images/impossibility_12.jpg
 group: Performance
 ---
 Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
