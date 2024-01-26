@@ -27,8 +27,6 @@ group: Performance
 
 **Directing assistance:** Katrina Buchberger
 
-**Live photography:** Nikolaus Ostermann / Volkstheater Wien
-
 An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
 
 First performed on March 24th, 2023 in Weißer Salon, Volkstheater, Vienna
