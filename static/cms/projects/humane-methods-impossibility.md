@@ -42,7 +42,8 @@ imgs:
   - alt: impossibility_ violin (Georgiew)
     credit: Nikolaus Ostermann
     url: /cms/images/impossibility_11.jpg
-  - credit: Nikolaus Ostermann
+  - alt: impossibility_ the kernel (Familari)
+    credit: Nikolaus Ostermann
     url: /cms/images/impossibility_12.jpg
 group: Performance
 ---
