@@ -7,7 +7,7 @@ tags:
   - costume designer
   - concept
   - Fronte Vacuo
-thumbnailImg: /cms/images/thumbnail-resolution.jpg
+thumbnailImg: /cms/images/thumbnail-resolution2.jpg
 imgs:
   - alt: Resolution / awakening (Pevere)
     credit: Marcel Urlaub
