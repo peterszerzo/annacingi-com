@@ -39,15 +39,15 @@ imgs:
     url: /cms/images/membranes12.jpg
 group: Installation
 ---
-**Exhibition designer**
+`EXHIBITION DESIGNER`
 
-**Artists & Curators:** Margherita Pevere, Theresa Schubert, Karolina Żyniewicz
+Artists & Curators: **Margherita** **Pevere**, **Theresa** **Schubert**, **Karolina** **Żyniewicz**
 
-**Project Management:** Tobias Oettel
+Project Management: **Tobias** **Oettel**
 
-**Assistance:** Weronika Markowska
+Assistance: **Weronika** **Markowska**
 
-**Accessibility program:** Karolina Żyniewicz, Liza Vasilieva.
+Accessibility program: **Karolina** **Żyniewicz**, **Liza** **Vasilieva**
 
 Opening on December 9th, 2022 in Bethanien Kunstquartier, Berlin // [more information](https://membranesoutoforder.de/)
 
