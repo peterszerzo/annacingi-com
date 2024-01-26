@@ -7,6 +7,7 @@ tags:
   - costume designer
   - concept
   - Fronte Vacuo
+thumbnailImg: /cms/images/thumbnail-resolution.jpg
 group: Performance
 ---
 `SET, PUPPET & COSTUME DESIGN, CONCEPT`
