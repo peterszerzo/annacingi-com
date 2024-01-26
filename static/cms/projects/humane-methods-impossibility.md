@@ -7,13 +7,16 @@ tags:
   - costume designer
   - concept
   - Fronte Vacuo
+thumbnailImg: /cms/images/impossibility_thumbnail.jpg
 group: Performance
 ---
 Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
 Directing: **Andrea Familari**
 
-Performers: **Andrea Familari**, **Margherita Pevere**, **Marco Donnarumma**, **Uwe Schmieder**
+Performers: **Andrea Familari**, **Margherita Pevere**, **Marco Donnarumma**, **Uwe Schmieder**, **Antonia-Alexa Georgiew**
+
+Violinist:  **Antonia-Alexa Georgiew**
 
 Choreography: **Marco Donnarumma**, **Margherita Pevere**
 
@@ -31,6 +34,6 @@ An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by
 
 First performed on March 24th, 2023 in Weißer Salon, Volkstheater, Vienna
 
-__
+
 
 _The second piece from Fronte Vacuo's ongoing residency at Volkstheater Wien. Three symbionts, a fungus, an industrial robot and its master are the protagonists of a deep and poetic journey between constraint, voyeurism and inexorability._
