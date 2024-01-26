@@ -10,7 +10,7 @@ tags:
 thumbnailImg: /cms/images/thumbnail-resolution.jpg
 group: Performance
 ---
-`SET, PUPPET & COSTUME DESIGN, CONCEPT`
+`SET & COSTUME DESIGN, CONCEPT`
 
 Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
