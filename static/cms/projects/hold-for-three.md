@@ -5,6 +5,30 @@ openedAt: 2023-07-21T17:00:36.462Z
 tags:
   - designer
 thumbnailImg: /cms/images/hold-for-three_thumb.jpg
+imgs:
+  - alt: 'hold for three (Sebes, Elrod)'
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_1.jpg
+  - alt: 'hold for three (Sebes, Elrod)'
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_2.jpg
+  - alt: 'hold for three (Sebes, Elrod)'
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_3.jpg
+  - alt: 'hold for three (Sebes, Elrod)'
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_4.jpg
+  - alt: 'hold for three (Sebes, Elrod)'
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_5.jpg
+  - alt: 'hold for three (Sebes, Elrod)'
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_6.jpg
+  - alt: hold for three (Sebes)
+    credit: Kim Wichera
+    url: /cms/images/hold-for-three_7.jpg
+  - alt: hold for three (graphic)
+    url: /cms/images/hold-for-three_8.jpg
 group: Performance
 ---
 `OBJECT AND SET DESIGN`
