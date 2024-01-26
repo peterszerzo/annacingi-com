@@ -71,4 +71,6 @@ An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced b
 
 First performed on November 24th, 2022 in Sitzungzimmer, Volkstheater, Vienna // [more information](https://frontevacuo.com/works/dissolution/)
 
-> _δISSOLUTION_ is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence.
+> __
+>
+> _δISSOLUTION is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence._
