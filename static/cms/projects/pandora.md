@@ -66,7 +66,7 @@ First performed September 17th, 2020 at [Biennale di Venezia](https://www.labien
 
 Teatro dei Gordi was awarded [Premio Hystrio Iceberg](https://www.premiohystrio.org/le-motivazioni-del-2019) in 2019 and [Premio ANCT](http://www.criticiditeatro.it/i-premi-anct-toccano-verona-allo-scenografo-antonio-panzuto-e-al-regista-riccardo-pippa/) in 2020.
 
-
+__
 
 _A bathroom at the end of a corridor or under a town square. It can be the bathroom of an airport, a club or a gas station. A variegated and transitory humanity passes through it. It is a place of passing, of waiting, a meeting place for strangers, an improvised dressing room where you can conjure, hide, let off steam. It is a den for demons, an antechamber, a threshold before a farewell or a baptism of fire. It is not a truer place than the outside, it is just another aspect of being alive; if outside one has to adhere to social norms, to a practice, to play, something is given up inside; it is an amoral space of suspension, even of great violence and nudity, a common place of the inner self where to expand the spectrum of daily action beyond limits and censorship._
 
