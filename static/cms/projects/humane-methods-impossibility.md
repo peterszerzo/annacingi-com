@@ -47,6 +47,8 @@ imgs:
     url: /cms/images/impossibility_12.jpg
 group: Performance
 ---
+`SET & COSTUME DESIGNER, CONCEPT`
+
 Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
 Directing: **Andrea Familari**
@@ -70,7 +72,5 @@ Directing assistance: **Katrina Buchberger**
 An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
 
 First performed on March 24th, 2023 in Weißer Salon, Volkstheater, Vienna
-
-
 
 _The second piece from Fronte Vacuo's ongoing residency at Volkstheater Wien. Three symbionts, a fungus, an industrial robot and its master are the protagonists of a deep and poetic journey between constraint, voyeurism and inexorability._
