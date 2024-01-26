@@ -44,21 +44,21 @@ imgs:
     url: /cms/images/alcina12.jpg
 group: Opera
 ---
-`set associate`
+`SET ASSOCIATE`
 
-**Conductor:** Axel Kober
+Conductor: **Axel Kober**
 
-**Stage director:** Lotte de Beer
+Stage director: **Lotte de Beer**
 
-**Set design:** Christof Hetzer
+Set design: **Christof Hetzer**
 
-**Costume design:** Jorine Van Beek
+Costume design: **Jorine Van Beek**
 
-**Light design:** Alex Brok
+Light design: **Alex Brok**
 
-**Video design**: Torge Möller
+Video design: **Torge Möller**
 
-**Dramaturgy:** Anne Melcher.
+Dramaturgy: **Anne Melcher**
 
 First performed on February 14th, 2020 in Deutsche Oper am Rhein, Düsseldorf. // [more information](https://operamrhein.de/en_EN/termin/alcina.16007078)
 
