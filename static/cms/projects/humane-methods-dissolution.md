@@ -69,6 +69,6 @@ group: Performance
 
 An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
 
-First performed on November 24th, 2022 in Volkstheater, Vienna // [more information](https://frontevacuo.com/works/dissolution/)
+First performed on November 24th, 2022 in Sitzungzimmer, Volkstheater, Vienna // [more information](https://frontevacuo.com/works/dissolution/)
 
 > _δISSOLUTION_ is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence.
