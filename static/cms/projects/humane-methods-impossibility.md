@@ -9,23 +9,23 @@ tags:
   - Fronte Vacuo
 group: Performance
 ---
-**Concept:** Marco Donnarumma, Margherita Pevere, Andrea Familari, Anna Cingi
+Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
-**Directing:** Andrea Familari
+Directing: **Andrea Familari**
 
-**Performers:** Andrea Familari, Margherita Pevere, Marco Donnarumma, Uwe Schmieder
+Performers: **Andrea Familari**, **Margherita Pevere**, **Marco Donnarumma**, **Uwe Schmieder**
 
-**Choreography:** Marco Donnarumma, Margherita Pevere
+Choreography: **Marco Donnarumma**, **Margherita Pevere**
 
-**Interactive Iight and video design, technical direction:** Andrea Familari
+Interactive Iight and video design, technical direction: **Andrea Familari**
 
-**AI Music system and spatial sound design:** Marco Donnarumma
+AI Music system and spatial sound design: **Marco Donnarumma**
 
-**Symbionts oversight:** Margherita Pevere
+Symbionts oversight: **Margherita Pevere**
 
-**Artistic production:** Eva Luzia Preindl
+Artistic production: **Eva Luzia Preindl**
 
-**Directing assistance:** Katrina Buchberger
+Directing assistance: **Katrina Buchberger**
 
 An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
 
