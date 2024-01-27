@@ -7,6 +7,7 @@
     tag === "set designer" ||
     tag === "costume designer" ||
     tag === "exhibition designer" ||
+    tag === "designer" ||
     tag === "artist" ||
     tag === "concept";
 </script>
