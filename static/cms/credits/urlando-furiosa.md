@@ -1,6 +1,6 @@
 ---
 title: Urlando Furiosa
-role: Costume designer
+role: costume designer
 description: >-
   Original show by and featuring Rita Pelusio, directed by Riccardo Pippa.
   Produced by Pem Habitat, Milan.
