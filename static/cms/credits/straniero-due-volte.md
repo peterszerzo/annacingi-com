@@ -1,6 +1,6 @@
 ---
 title: Straniero Due Volte
-role: Set advisor
+role: set advisor
 description: >-
   Original show written and directed by Renata Colluccini. Produced by Teatro
   del Buratto, Milan.
