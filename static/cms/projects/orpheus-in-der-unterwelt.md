@@ -5,7 +5,6 @@ openedAt: 2023-01-21T18:00:46.030Z
 tags:
   - set associate
   - Spymonkey
-  - Operetta
 thumbnailImg: /cms/images/orpheus_thumbnail.jpg
 imgs:
   - alt: orpheus_1 / public opinion
