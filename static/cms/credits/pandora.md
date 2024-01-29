@@ -1,6 +1,6 @@
 ---
 title: Pandora
-role: Set designer
+role: set designer
 description: >-
   Original show by and featuring Teatro dei Gordi, directed by Riccardo Pippa.
   Produced by Teatro Franco Parenti, Milan, Teatro Stabile di Torino, Turin,
