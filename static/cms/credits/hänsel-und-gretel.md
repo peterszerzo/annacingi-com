@@ -1,6 +1,6 @@
 ---
 title: Hänsel und Gretel
-role: Set design associate
+role: set associate
 description: >-
   Conducted by Marc Albrecht, directed by Sven-Eric Bechtolf, set design by
   Julian Crouch. Produced by Teatro Alla Scala, Milan.
