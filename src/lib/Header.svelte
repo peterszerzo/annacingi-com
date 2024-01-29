@@ -32,11 +32,17 @@
     <MobileNavOverlay on:close={() => (isMobileNavOpen = false)} />
   {/if}
   <nav class="header-nav-desktop font-geom">
-    <a class="nav-link font-light font-geom" class:font-semibold={isActive("/about")} href="/about"
-      >about</a
+    <a
+      class="nav-link font-light font-geom"
+      class:font-semibold={isActive("/about")}
+      href="/about">about</a
     >
-    <a class="nav-link font-light font-geom" href="mailto:annamcingi@gmail.com">contact</a>
-    <a class="nav-link font-light font-geom" href="/cms/images/anna-cingi-jul-2021.pdf">cv</a>
+    <a class="nav-link font-light font-geom" href="mailto:annamcingi@gmail.com"
+      >contact</a
+    >
+    <a class="nav-link font-light font-geom" href="/cms/images/eng-jan-2024.pdf"
+      >cv</a
+    >
     <a
       class="nav-link font-light font-geom"
       href="/credits"
