@@ -1,5 +1,5 @@
 ---
-cvItalian: /cms/images/anna-cingi-jul-2021.pdf
-cvEnglish: /cms/images/anna-cingi-jul-2021.pdf
+cvItalian: /cms/images/eng-jan-2024.pdf
+cvEnglish: /cms/images/eng-jan-2024.pdf
 ---
 
