@@ -1,6 +1,6 @@
 ---
 title: Sonnambula
-role: set assistant
+role: set design assistant
 description: >-
   Directed by Bárbara Lluch, set design by Christof Hetzer. Produced by Teatro
   Real, Madrid.
