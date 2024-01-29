@@ -1,6 +1,6 @@
 ---
 title: South mountain
-role: Set design support
+role: set design support
 description: >-
   Original film written and directed by Hilary Brougher, production design by
   Storm Garner.
