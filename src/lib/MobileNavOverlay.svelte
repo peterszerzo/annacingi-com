@@ -24,12 +24,12 @@
 <div class="mobile-nav-popup" transition:fade={{ duration: 50, delay: 50 }}>
   <div class="mobile-nav-close">
     <IconButton title="Close navigation" icon="X" on:click={close} />
-</div>
+  </div>
   <div class="mobile-nav-content">
     <a on:click={close} href="/">Home</a>
     <a on:click={close} href="/about">About</a>
     <a on:click={close} href="mailto:annamcingi@gmail.com">Contact</a>
-    <a on:click={close} href="/cms/images/anna-cingi-jul-2021.pdf">CV</a>
+    <a on:click={close} href="/cms/images/eng-jan-2024.pdf">CV</a>
     <div class="logo-container"><Logo /></div>
   </div>
 </div>
