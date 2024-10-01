@@ -13,14 +13,12 @@ export const get = async ({ params }) => {
 
     const parsedFile = frontMatter(file);
 
-    if (parsedFile.attributes.archived) {
-      throw new Error("Archived");
-    }
-
     return {
       body: {
         ...parsedFile.attributes,
-        body: parsedFile.body,
+        body: parsedFile.attributes.archived
+          ? "This page has been archived."
+          : parsedFile.body,
       },
     };
   } catch (err) {
