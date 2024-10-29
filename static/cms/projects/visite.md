@@ -4,8 +4,9 @@ title: Visite
 openedAt: 2018-11-20T12:00:00.000Z
 tags:
   - set designer
-  - award-winning
   - Teatro dei Gordi
+  - Premio Tragos
+  - Premio Hystrio Iceberg
 thumbnailImg: /cms/images/thumbnail-visite-copy4.jpg
 imgs:
   - alt: Visite 1
@@ -69,7 +70,7 @@ An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). 
 
 First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more information](https://www.teatrodeigordi.it/it/visite/)
 
-For this design I was awarded [**Premio Tragos**](https://tragos.it/14a-edizione-tragos-2019-2/) as Up and coming Set Designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://premiohystrio.org) in 2019.
+For this design I was awarded [**Premio Tragos**](https://tragos.it/14a-edizione-tragos-2019-2/) / up and coming set designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://premiohystrio.org) in 2019.
 
 __
 
