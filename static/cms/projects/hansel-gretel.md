@@ -4,7 +4,7 @@ title: Hänsel und Gretel
 openedAt: 2017-09-02T12:00:00.000Z
 tags:
   - set associate
-  - award-winning
+  - Premio Abbiati
 thumbnailImg: /cms/images/haensel-thumbnail2.jpg
 imgs:
   - alt: Hänsel und Gretel Stage 1
