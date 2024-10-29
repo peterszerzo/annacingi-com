@@ -5,6 +5,7 @@ openedAt: 2023-01-21T18:00:46.030Z
 tags:
   - set associate
   - Spymonkey
+  - Österreichischer Musiktheaterpreis
 thumbnailImg: /cms/images/orpheus_thumbnail.jpg
 imgs:
   - alt: orpheus_1 / public opinion
@@ -62,3 +63,5 @@ Video design: **Joshua** **Higgason**
 First performed on January 21st, 2023 in Volksoper, Vienna. // [more information](https://www.volksoper.at/produktion/orpheus-in-der-unterwelt-2023.de.html)
 
 Produced by Volksoper Wien.
+
+Orpheus in der Unterwelt was awarded Beste Ausstattung/Österreichischer Musiktheaterpreis 2024.
