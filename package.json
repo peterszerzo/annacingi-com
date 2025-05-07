@@ -17,7 +17,7 @@
     "ramda": "^0.26.1",
     "siema": "^1.5.1",
     "snarkdown": "^1.2.2",
-    "svelte": "^3.46.3"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^1.0.0-next.26",
