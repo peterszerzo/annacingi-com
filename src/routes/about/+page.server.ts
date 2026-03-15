@@ -1,21 +1,18 @@
 import { fs } from "mz";
 import frontMatter from "front-matter";
+import { error } from "@sveltejs/kit";
 
-export const get = async () => {
+export const load = async () => {
   try {
     const file = (await fs.readFile("static/cms/about.md")).toString();
 
     const parsedFile = frontMatter<{}>(file);
 
     return {
-      body: {
-        ...parsedFile.attributes,
-        body: parsedFile.body,
-      },
+      ...parsedFile.attributes,
+      body: parsedFile.body,
     };
   } catch (err) {
-    return {
-      status: 404,
-    };
+    throw error(404, "Not found");
   }
 };

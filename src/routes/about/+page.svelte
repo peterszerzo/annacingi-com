@@ -1,21 +1,8 @@
-<script context="module" lang="ts">
-  import type { LoadInput } from "@sveltejs/kit/types/page";
-
-  export async function load({ fetch }: LoadInput) {
-    const fetched = await fetch("/about.json");
-    const res = await fetched.json();
-
-    return {
-      props: res,
-    };
-  }
-</script>
-
 <script lang="ts">
   import Static from "$lib/Static.svelte";
 
-  export let body: string;
-  export let portraitUrl: string;
+  export let data: { body: string; portraitUrl: string };
+  $: ({ body, portraitUrl } = data);
 </script>
 
 <svelte:head>

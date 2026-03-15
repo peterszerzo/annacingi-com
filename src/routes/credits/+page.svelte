@@ -1,17 +1,3 @@
-<script context="module" lang="ts">
-  import type { LoadInput } from "@sveltejs/kit/types/page";
-
-  export async function load({ fetch }: LoadInput) {
-    const fetched = await fetch("/credits.json");
-    const res = await fetched.json();
-    return {
-      props: {
-        credits: res,
-      },
-    };
-  }
-</script>
-
 <script lang="ts">
   import type { Credit } from "$lib/types";
   import { format } from "date-fns";
@@ -21,7 +7,8 @@
     return format(new Date(dateString), "MMMM, yyyy");
   };
 
-  export let credits: Array<Credit> = [];
+  export let data: { credits: Array<Credit> };
+  $: ({ credits } = data);
 </script>
 
 <WingTitle title="Credits" />

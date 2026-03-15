@@ -4,30 +4,32 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "svelte-kit dev",
-    "export": "svelte-kit build",
-    "check": "svelte-check"
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "dependencies": {
-    "date-fns": "^2.20.0",
-    "front-matter": "^3.1.0",
-    "glob": "^7.1.6",
-    "marked": "^4.0.12",
+    "date-fns": "^4.1.0",
+    "front-matter": "^4.0.2",
+    "glob": "^11.0.0",
+    "marked": "^15.0.4",
     "mz": "^2.7.0",
-    "ramda": "^0.26.1",
+    "ramda": "^0.30.1",
     "siema": "^1.5.1",
-    "snarkdown": "^1.2.2",
-    "svelte": "^3.46.3"
+    "snarkdown": "^2.0.0"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^1.0.0-next.26",
-    "@sveltejs/kit": "^1.0.0-next.252",
-    "@types/marked": "^4.0.2",
-    "@types/mz": "^2.7.4",
-    "@types/ramda": "^0.27.64",
+    "@sveltejs/adapter-cloudflare": "^4.7.2",
+    "@sveltejs/kit": "^2.14.0",
+    "@sveltejs/vite-plugin-svelte": "^5.0.2",
+    "@types/marked": "^6.0.0",
+    "@types/mz": "^2.7.8",
+    "@types/ramda": "^0.30.2",
     "@types/siema": "^1.4.8",
-    "svelte-check": "^2.4.1",
-    "svelte-preprocess": "^4.10.2",
-    "typescript": "^4.5.5"
+    "svelte": "^5.16.0",
+    "svelte-check": "^4.1.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
   }
 }

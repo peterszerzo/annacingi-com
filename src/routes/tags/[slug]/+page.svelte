@@ -1,27 +1,13 @@
-<script context="module" lang="ts">
-  import type { LoadInput } from "@sveltejs/kit/types/page";
-
-  export async function load({ params, fetch }: LoadInput) {
-    const fetched = await fetch(`/tags/${params.slug}.json`);
-    const res = await fetched.json();
-    return {
-      props: {
-        slug: params.slug,
-        projects: res,
-      },
-    };
-  }
-</script>
-
 <script lang="ts">
   import type { Project } from "$lib/types";
   import Wing from "$lib/Wing.svelte";
   import Wings from "$lib/Wings.svelte";
   import WingTitle2 from "$lib/WingTitle2.svelte";
+  import { page } from "$app/stores";
 
-  export let slug: string;
-  export let projects: Array<Project> = [];
-
+  export let data: { projects: Array<Project> };
+  $: ({ projects } = data);
+  $: slug = $page.params.slug;
   $: tagTitle = `Tag: ${decodeURIComponent(slug)}`;
 </script>
 

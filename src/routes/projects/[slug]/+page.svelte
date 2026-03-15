@@ -1,21 +1,11 @@
-<script context="module" lang="ts">
-  import type { LoadInput } from "@sveltejs/kit/types/page";
-
-  export async function load({ params, fetch }: LoadInput) {
-    const res = await fetch(`/projects/${params.slug}.json`);
-    const data = await res.json();
-
-    return { props: { project: data } };
-  }
-</script>
-
 <script lang="ts">
   import type { Project } from "$lib/types";
   import Carousel from "$lib/Carousel.svelte";
   import Static from "$lib/Static.svelte";
   import WingTitle2 from "$lib/WingTitle2.svelte";
 
-  export let project: Project;
+  export let data: Project;
+  $: project = data;
 </script>
 
 <svelte:head>
