@@ -1,5 +1,5 @@
 <footer>
-  Anna Cingi 2024 / Website by <a href="https://peterszerzo.com">@peterszerzo</a
+  Anna Cingi 2021-2026 / Website by <a href="http://peterszerzo.com">@peterszerzo</a
   >
 </footer>
 
