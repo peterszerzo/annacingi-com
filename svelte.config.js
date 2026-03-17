@@ -1,13 +1,17 @@
-import preprocess from "svelte-preprocess";
-import adapterStatic from "@sveltejs/adapter-static";
+import adapter from "@sveltejs/adapter-cloudflare";
+import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-  preprocess: preprocess(),
+  preprocess: vitePreprocess(),
 
   kit: {
-    adapter: adapterStatic(),
-    target: "#svelte",
+    adapter: adapter({
+      routes: {
+        include: ["/*"],
+        exclude: ["<all>"],
+      },
+    }),
   },
 };
 
