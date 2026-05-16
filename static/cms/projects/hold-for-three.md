@@ -1,6 +1,6 @@
 ---
 id: hold-for-three
-title: hold for three
+title: Hold for three
 openedAt: 2023-07-21T17:00:36.462Z
 tags:
   - designer
