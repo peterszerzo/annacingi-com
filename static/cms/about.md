@@ -1,5 +1,5 @@
 ---
-portraitUrl: /cms/images/img_9545.jpg
+portraitUrl: /cms/images/img_9548_frame.jpg
 ---
 I am a designer with roots in Reggio Emilia, Italy, working in theatre, opera, performance and installations since 2014.
 
