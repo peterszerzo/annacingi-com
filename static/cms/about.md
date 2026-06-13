@@ -1,5 +1,5 @@
 ---
-portraitUrl: /cms/images/collage-pro5.jpg
+portraitUrl: /cms/images/img_9548.jpg
 ---
 I am a designer with roots in Reggio Emilia, Italy, working in theatre, opera, performance and installations since 2014.
 
