@@ -3,13 +3,7 @@
   export let dark: boolean | undefined = undefined;
   export let withLink: boolean = false;
 
-  $: highlighted =
-    tag === "set designer" ||
-    tag === "costume designer" ||
-    tag === "exhibition designer" ||
-    tag === "designer" ||
-    tag === "artist" ||
-    tag === "concept";
+  $: highlighted = false;
 </script>
 
 {#if withLink}
@@ -27,20 +21,18 @@
 
 <style>
   .tag {
-    padding: 2px 6px;
+    padding: 0px 4px;
     display: inline-block;
-    background-color: #efefef;
-    color: #545454;
+    background-color: var(--color-accent);
+    color: #232323;
     word-break: none;
     width: fit-content;
-    border-radius: 2px;
-    font-size: 12px;
+    border-radius: 4px;
+    font-size: 14px;
     text-decoration: none;
   }
 
   .highlighted-tag {
-    background-color: #e0ff0c;
-    color: #232323;
   }
 
   .dark-tag {

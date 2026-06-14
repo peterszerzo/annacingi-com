@@ -33,18 +33,18 @@
   {/if}
   <nav class="header-nav-desktop font-geom">
     <a
-      class="nav-link font-light font-geom"
+      class="nav-link font-light"
       class:font-semibold={isActive("/about")}
       href="/about">about</a
     >
-    <a class="nav-link font-light font-geom" href="mailto:annamcingi@gmail.com"
+    <a class="nav-link font-light" href="mailto:annamcingi@gmail.com"
       >contact</a
     >
-    <a class="nav-link font-light font-geom" href="/cms/images/eng-jan-2024.pdf"
+    <a class="nav-link font-light" href="/cms/images/eng-jan-2024.pdf"
       >cv</a
     >
     <a
-      class="nav-link font-light font-geom"
+      class="nav-link font-light"
       href="/credits"
       class:font-semibold={isActive("/credits")}>credits</a
     >

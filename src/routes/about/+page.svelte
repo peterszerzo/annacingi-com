@@ -70,7 +70,7 @@
   }
 
   .background {
-    background-color: #e0ff0c;
+    background-color: var(--color-accent);
     position: absolute;
     top: 15px;
     left: 15px;

@@ -12,7 +12,7 @@
 
 <script lang="ts">
   import { onMount } from "svelte";
-  import WingTitle2 from "$lib/WingTitle2.svelte";
+  import WingTitle from "$lib/WingTitle.svelte";
   import Static from "$lib/Static.svelte";
 
   export let status: number;
@@ -31,7 +31,7 @@
 </svelte:head>
 
 {#if !isPdf}
-  <WingTitle2 title="Something Went Wrong" tags={[]} />
+  <WingTitle title="Something Went Wrong" />
 
   <Static markdown={error || ""} />
 {/if}

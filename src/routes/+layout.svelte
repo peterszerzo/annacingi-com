@@ -1,15 +1,13 @@
 <script lang="ts">
-  import { navigating } from "$app/stores";
+  import { navigating } from "$app/state";
   import Header from "$lib/Header.svelte";
   import Footer from "$lib/Footer.svelte";
 </script>
 
-<div class="container">
-  <div class="overlay" class:overlayActive={$navigating} />
-
+<div class="container space-y-lg" class:container--active={!navigating.complete}>
   <Header />
 
-  <main class="content">
+  <main class="content space-y-lg">
     <slot />
   </main>
 
@@ -22,6 +20,12 @@
     overflow-x: hidden;
     margin: auto;
     padding: 10px;
+    opacity: 0.4;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .container--active {
+    opacity: 1;
   }
 
   @media (min-width: 860px) {
@@ -31,68 +35,67 @@
   }
 
   .content {
-    padding: 40px 0;
-    min-height: calc(100vh - 140px);
+    min-height: calc(100vh - 230px);
   }
 
-  @media (min-width: 860px) {
-    .content {
-      padding: 80px 0;
+  :global {
+    h1,
+    h2,
+    h3,
+    p {
+      margin: 0;
     }
-  }
 
-  :global(.stickout) {
-    position: relative;
-  }
+    .stickout {
+      position: relative;
+    }
 
-  :global(.stickout:before) {
-    content: " ";
-    position: absolute;
-    z-index: 9;
-    pointer-events: none;
-    top: -10px;
-    bottom: -10px;
-    left: 0;
-    right: 0;
-    border-left: 1px solid;
-    border-right: 1px solid;
-    border-color: #cecece;
-  }
+    .stickout::before, .stickout::after {
+      border-color: #cecece;
+      transition: border-color 0.2s ease-in-out;
+    }
 
-  :global(.stickout:after) {
-    content: " ";
-    position: absolute;
-    z-index: 9;
-    pointer-events: none;
-    left: -10px;
-    right: -10px;
-    top: 0;
-    bottom: 0;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
-    border-color: #cecece;
-  }
+    .stickout::before {
+      content: " ";
+      position: absolute;
+      z-index: 9;
+      pointer-events: none;
+      top: -10px;
+      bottom: -10px;
+      left: 0;
+      right: 0;
+      border-left: 1px solid;
+      border-right: 1px solid;
+      border-color: #cecece;
+    }
 
-  :global(.title) {
-    margin: 0;
-    font-size: 30px;
-    text-transform: uppercase;
-  }
+    .stickout::after {
+      content: " ";
+      position: absolute;
+      z-index: 9;
+      pointer-events: none;
+      left: -10px;
+      right: -10px;
+      top: 0;
+      bottom: 0;
+      border-top: 1px solid;
+      border-bottom: 1px solid;
+      border-color: #cecece;
+    }
 
-  .overlay {
-    position: fixed;
-    z-index: 100000;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    pointer-events: none;
-    opacity: 0;
-    transition: opacity 0.2s ease-in-out;
-    background-color: rgba(255, 255, 255, 0.4);
-  }
+    .title {
+      margin: 0;
+      font-size: 54px;
+      line-height: 1;
+      text-transform: uppercase;
+    }
 
-  .overlayActive {
-    opacity: 1;
+    .space-y-md > * + * {
+      margin-top: 20px;
+    }
+
+    .space-y-lg > * + * {
+      margin-top: 60px;
+    }
   }
 </style>

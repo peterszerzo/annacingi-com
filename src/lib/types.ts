@@ -1,7 +1,7 @@
 export interface Project {
   id: string;
   title: string;
-  openedAt?: string;
+  openedAt: string;
   tags: Array<string>;
   body: string;
   thumbnailImg?: string;

@@ -12,6 +12,7 @@
 </script>
 
 <WingTitle title="Credits" />
+
 {#if credits}
   <div class="credits">
     {#each credits as credit}

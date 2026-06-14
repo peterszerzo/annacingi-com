@@ -102,16 +102,17 @@
         <button
           class="carousel-button"
           class:selected={index === carouselPage}
+          title={`View image ${index + 1}`}
           on:click={() => {
             carouselPage = index;
           }}
-        />
+        ></button>
       {/each}
     </div>
-    <button class="carousel-side carousel-side-left" on:click={prev}>
+    <button title="Previous image" class="carousel-side carousel-side-left" on:click={prev}>
       <Chevron dir="left" />
     </button>
-    <button class="carousel-side carousel-side-right" on:click={next}>
+    <button title="Next image" class="carousel-side carousel-side-right" on:click={next}>
       <Chevron dir="right" />
     </button>
     <div class="carousel" id={carouselId}>
@@ -120,7 +121,7 @@
           <div
             class="carousel-slide"
             style="background-image: url({image.url});"
-          />
+          ></div>
         {/each}
       {/if}
     </div>
@@ -150,7 +151,6 @@
   .carousel-container {
     background-color: #000;
     position: relative;
-    margin: 20px 0;
   }
 
   .carousel-slide {
@@ -189,11 +189,11 @@
   }
 
   .carousel-button:hover {
-    filter: brightness(80%);
+    background-color: var(--color-accent);
   }
 
   .selected {
-    background-color: #e0ff0c;
+    background-color: var(--color-accent);
   }
 
   .carousel-button:focus {

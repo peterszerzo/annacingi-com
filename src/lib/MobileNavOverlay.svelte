@@ -65,9 +65,7 @@
   }
 
   a {
-    font-size: 24px;
     margin-top: 10px;
-    font-family: "Quicksand", sans-serif;
     text-decoration: none;
     color: inherit;
     display: block;
