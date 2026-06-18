@@ -4,7 +4,7 @@ title: Ernani
 openedAt: 2018-09-29T12:00:00.000Z
 tags:
   - Julian Crouch
-  - Sven-Eric Bechtolf
+  - Sven Bechtolf
 thumbnailImg: /cms/images/thumbnail-ernani.jpg
 imgs:
   - alt: Ernani stage 1
