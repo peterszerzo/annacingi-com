@@ -13,9 +13,7 @@ Audiovisual director: **Birk Schmithüsen**
 
 Creative Coding: **Birk Schmithüsen, Meredith Thomas**
 
-> Stage Design: 
->
-> **Anna Cingi**
+> Stage Design: **Anna Cingi**
 
 Webdesign: **Eleanor Vincent**
 
