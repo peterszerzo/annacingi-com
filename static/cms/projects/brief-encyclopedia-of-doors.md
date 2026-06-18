@@ -23,7 +23,7 @@ sound design: **Luca De Marinis**
 
 intern and dramaturg assistant: **Lorenza Sgrò**
 
-An original show by I Gordi. Produced by ArtistiAssociati-Centro di produzione teatrale, IlRossetti-Teatro Stabile del Friuli Venezia Giulia in the context of GO!2025 Nova Gorica and Gorizia European capital of culture 2025. With the support of IntercettAzioni-Centro di Residenza Artistica della Lombardia
+An original show by I Gordi. Produced by ArtistiAssociati-Centro di produzione teatrale, IlRossetti-Teatro Stabile del Friuli Venezia Giulia in the context of GO!2025 Nova Gorica and Gorizia European Capital of Culture 2025. With the support of IntercettAzioni-Centro di Residenza Artistica della Lombardia
 
 > Gordi's latest work, A Brief Encyclopedia of Doors (_Breve Enciclopedia delle Porte_), transforms a waiting room into a melting pot of comedy and bewilderment.
 >
