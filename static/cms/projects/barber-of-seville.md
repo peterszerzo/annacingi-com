@@ -3,7 +3,8 @@ id: barber-of-seville
 title: Barber of Seville
 openedAt: 2018-11-10T12:00:00.000Z
 tags:
-  - set associate
+  - Julian Crouch
+  - Lotte De Beer
 thumbnailImg: /cms/images/thumbnail-barb-copy.jpg
 imgs:
   - alt: Barber of Seville 1
