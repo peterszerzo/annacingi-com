@@ -4,7 +4,7 @@ title: Hänsel und Gretel
 openedAt: 2017-09-02T12:00:00.000Z
 tags:
   - Julian Crouch
-  - Sven-Eric Bechtolf
+  - Sven Bechtolf
 thumbnailImg: /cms/images/haensel-thumbnail2.jpg
 imgs:
   - alt: Hänsel und Gretel Stage 1
