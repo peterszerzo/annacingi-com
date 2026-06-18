@@ -1,5 +1,5 @@
 ---
-id: hansel-gretel
+id: haensel-gretel
 title: Hänsel und Gretel
 openedAt: 2017-09-02T12:00:00.000Z
 tags:
