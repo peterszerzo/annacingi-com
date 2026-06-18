@@ -3,9 +3,6 @@ id: humane-methods-resolution
 title: h m / resolution
 openedAt: 2023-05-19T17:00:09.066Z
 tags:
-  - set designer
-  - costume designer
-  - concept
   - Fronte Vacuo
 thumbnailImg: /cms/images/thumbnail-resolution2.jpg
 imgs:
