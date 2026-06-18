@@ -3,7 +3,8 @@ id: ernani
 title: Ernani
 openedAt: 2018-09-29T12:00:00.000Z
 tags:
-  - set associate
+  - Julian Crouch
+  - Sven-Eric Bechtolf
 thumbnailImg: /cms/images/thumbnail-ernani.jpg
 imgs:
   - alt: Ernani stage 1
