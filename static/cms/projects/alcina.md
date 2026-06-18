@@ -3,7 +3,8 @@ id: alcina
 title: Alcina
 openedAt: 2020-02-14T18:30:56.530Z
 tags:
-  - set associate
+  - Christof Hetzer
+  - Lotte De Beer
 thumbnailImg: /cms/images/alcina-thumb2.jpg
 imgs:
   - alt: alcina 01
