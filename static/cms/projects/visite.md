@@ -3,7 +3,7 @@ id: visite
 title: Visite
 openedAt: 2018-11-20T12:00:00.000Z
 tags:
-  - Teatro dei Gordi
+  - I Gordi
   - Riccardo Pippa
 thumbnailImg: /cms/images/thumbnail-visite-copy4.jpg
 imgs:
