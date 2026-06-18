@@ -27,7 +27,9 @@
       <h3 class="title font-geom" class:breakAll={longestWord > 12}>{project.title}</h3>
       {#if project.tags.length > 0}
         {#each project.tags as tag}
-          <Tag {tag} />
+          <div>
+            <Tag {tag} />
+          </div>
         {/each}
       {/if}
     </div>

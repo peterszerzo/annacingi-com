@@ -5,18 +5,19 @@
 
 <style>
   footer {
-    color: #232323;
-    padding: 10px 0;
-    border-top: 1px solid #cecece;
+    background-color: #000;
+    color: white;
+    padding: 20px;
     text-align: center;
   }
 
   a {
     color: inherit;
-    transition: background-color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   }
 
   a:hover {
     background-color: var(--color-accent);
+    color: var(--color-primary-900);
   }
 </style>

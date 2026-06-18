@@ -59,7 +59,8 @@
     font-weight: 400;
     background-color: #f5f5f5;
     border-radius: 4px;
-    padding: 3px 8px;
+    padding: 2px 4px;
+    line-height: 1;
   }
 
   .credits {

@@ -34,6 +34,7 @@
   }
 
   .static :global(blockquote) {
+    border-radius: 12px;
     background-color: var(--color-accent);
     padding: 8px 12px;
     margin-left: 0;

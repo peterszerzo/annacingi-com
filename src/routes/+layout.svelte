@@ -16,10 +16,6 @@
 
 <style>
   .container {
-    max-width: 1080px;
-    overflow-x: hidden;
-    margin: auto;
-    padding: 10px;
     opacity: 0.4;
     transition: opacity 0.3s ease-in-out;
   }
@@ -28,14 +24,18 @@
     opacity: 1;
   }
 
-  @media (min-width: 860px) {
-    .container {
-      padding: 20px 10px;
-    }
+  .content {
+    min-height: calc(100vh - 270px);
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
   }
 
-  .content {
-    min-height: calc(100vh - 230px);
+  @media (min-width: 840px) {
+    .content {
+      padding: 20px;
+    }
   }
 
   :global {
@@ -50,10 +50,6 @@
       position: relative;
     }
 
-    .stickout::before, .stickout::after {
-      border-color: #cecece;
-      transition: border-color 0.2s ease-in-out;
-    }
 
     .stickout::before {
       content: " ";
@@ -66,7 +62,6 @@
       right: 0;
       border-left: 1px solid;
       border-right: 1px solid;
-      border-color: #cecece;
     }
 
     .stickout::after {
@@ -80,7 +75,11 @@
       bottom: 0;
       border-top: 1px solid;
       border-bottom: 1px solid;
-      border-color: #cecece;
+    }
+
+    .stickout::before, .stickout::after {
+      border-color: var(--color-border);
+      transition: border-color 0.2s ease-in-out;
     }
 
     .title {
@@ -95,7 +94,13 @@
     }
 
     .space-y-lg > * + * {
-      margin-top: 60px;
+      margin-top: 40px;
+    }
+
+    @media (min-width: 840px) {
+      .space-y-lg > * + * {
+        margin-top: 60px;
+      }
     }
   }
 </style>

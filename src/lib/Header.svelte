@@ -17,8 +17,8 @@
       <Logo />
     </div>
     <div>
-      <p class="main-link-text font-semibold">Anna Cingi</p>
-      <p class="main-link-text font-light">set designer</p>
+      <p class="main-link-title">Anna Cingi</p>
+      <p class="main-link-subtitle">theatre designer</p>
     </div>
   </a>
   <nav class="header-nav-mobile">
@@ -56,37 +56,54 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    max-width: 1080px;
+    margin: auto;
+    padding: 10px;
   }
 
-  .main-link {
+  @media (min-width: 840px) {
+    header {
+      padding: 20px;
+    }
+  }
+
+  .main-link-title {
+    font-family: "NewTitle", sans-serif;
+    font-weight: 200;
+    font-size: 44px;
+    line-height: 1;
     text-decoration: none;
+    letter-spacing: 1.5px;
     color: inherit;
     display: flex;
   }
 
-  .main-link-text {
-    font-family: "Quicksand", sans-serif;
-    font-size: 18px;
+  .main-link-subtitle {
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    color: inherit;
     line-height: 1.2;
     margin: 0;
   }
 
-  .main-link-text--bold {
-    font-weight: 600;
-  }
-
   .main-link-logo-container {
-    width: 40px;
-    height: 40px;
-    margin-right: 6px;
-    border-radius: 4px;
+    width: 54px;
+    height: 54px;
+    border-radius: 6px;
     background-color: #000;
     color: #fff;
   }
 
+  .main-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
   .main-link :global(svg) {
-    width: 40px;
-    height: 40px;
+    width: 100%;
+    height: 100%;
   }
 
   .header-nav-desktop {
