@@ -44,17 +44,27 @@ imgs:
     url: /cms/images/dissolution12_nikolaus_ostermann.jpg
 group: Performance
 ---
-* Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
-* Directing: **Margherita Pevere**
-* Choreography and performance: **Marco Donnarumma**, **Margherita Pevere**
-* Interactive Iight design, technical direction: **Andrea Familari**
-* AI Music system and spatial sound design: **Marco Donnarumma**
-* AI computer vision system: **Meredith Thomas**
-* Artistic production: **Eva Luzia Preindl**
-* Directing assistance: **Katrina Buchberger**
-* Live photography: **Nikolaus Ostermann** / Volkstheater Wien
-* An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
-* First performed on November 24th, 2022 in Sitzungzimmer, Volkstheater, Vienna // [more information](https://frontevacuo.com/works/dissolution/)
+Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
+
+Directing: **Margherita Pevere**
+
+Choreography and performance: **Marco Donnarumma**, **Margherita Pevere**
+
+Interactive Iight design, technical direction: **Andrea Familari**
+
+AI Music system and spatial sound design: **Marco Donnarumma**
+
+AI computer vision system: **Meredith Thomas**
+
+Artistic production: **Eva Luzia Preindl**
+
+Directing assistance: **Katrina Buchberger**
+
+Live photography: **Nikolaus Ostermann** / Volkstheater Wien
+
+An original performance by [Fronte Vacuo](https://frontevacuo.com/). Produced by Volkstheater, Vienna, as part of 6XXX6/six movements for six spaces.
+
+First performed on November 24th, 2022 in Sitzungzimmer, Volkstheater, Vienna // [more information](https://frontevacuo.com/works/dissolution/)
 
 
 
