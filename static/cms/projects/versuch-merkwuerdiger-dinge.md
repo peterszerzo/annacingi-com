@@ -4,7 +4,7 @@ title: Versuch über die nachhaltige Ordnung merkwürdiger Dinge
 openedAt: 2026-06-04T16:00:10.356Z
 tags:
   - ArtesMobiles
-archived: false
+archived: true
 group: Theatre
 ---
 Director & Text: **Nina Maria Stemberger**
