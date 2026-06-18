@@ -3,9 +3,8 @@ id: orpheus-in-der-unterwelt
 title: Orpheus in der Unterwelt
 openedAt: 2023-01-21T18:00:46.030Z
 tags:
-  - set associate
+  - Julian Crouch
   - Spymonkey
-  - Österreichischer Musiktheaterpreis
 thumbnailImg: /cms/images/orpheus_thumbnail.jpg
 imgs:
   - alt: orpheus_1 / public opinion
