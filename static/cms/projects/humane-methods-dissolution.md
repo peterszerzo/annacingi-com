@@ -3,9 +3,6 @@ id: humane-methods-dissolution
 title: h m / DISSOLUTION
 openedAt: 2022-11-24T17:30:30.622Z
 tags:
-  - set designer
-  - costume designer
-  - concept
   - Fronte Vacuo
 thumbnailImg: /cms/images/thumbnail-dissolution.jpg
 imgs:
