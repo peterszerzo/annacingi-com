@@ -7,17 +7,39 @@ tags:
   - Riccardo Pippa
 thumbnailImg: /cms/images/bedp_thumb2.jpg
 imgs:
-  - url: /cms/images/1.jpg
-  - url: /cms/images/2.jpg
-  - url: /cms/images/3.jpg
-  - url: /cms/images/4.jpg
-  - url: /cms/images/5.jpg
-  - url: /cms/images/6.jpg
-  - url: /cms/images/7.jpg
-  - url: /cms/images/8.jpg
-  - url: /cms/images/9.jpg
-  - url: /cms/images/10.jpg
-  - url: /cms/images/11.jpg
+  - alt: brief encyclopedia of doors 1
+    credit: Luca Chinaglia
+    url: /cms/images/1.jpg
+  - alt: brief encyclopedia of doors 2
+    credit: Luca Chinaglia
+    url: /cms/images/2.jpg
+  - alt: brief encyclopedia of doors 3
+    credit: Luca Chinaglia
+    url: /cms/images/3.jpg
+  - alt: brief encyclopedia of doors 4
+    credit: Luca Chinaglia
+    url: /cms/images/4.jpg
+  - alt: brief encyclopedia of doors 5
+    credit: Luca Chinaglia
+    url: /cms/images/5.jpg
+  - alt: brief encyclopedia of doors 6
+    credit: Luca Chinaglia
+    url: /cms/images/6.jpg
+  - alt: brief encyclopedia of doors 7
+    credit: Luca Chinaglia
+    url: /cms/images/7.jpg
+  - alt: brief encyclopedia of doors 8
+    credit: Luca Chinaglia
+    url: /cms/images/8.jpg
+  - alt: brief encyclopedia of doors 9
+    credit: Luca Chinaglia
+    url: /cms/images/9.jpg
+  - alt: brief encyclopedia of doors 10
+    credit: Luca Chinaglia
+    url: /cms/images/10.jpg
+  - alt: brief encyclopedia of doors 11
+    credit: Luca Chinaglia
+    url: /cms/images/11.jpg
 group: Theatre
 ---
 Concept and directing: **Riccardo Pippa**
