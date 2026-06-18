@@ -3,10 +3,8 @@ id: pandora
 title: Pandora
 openedAt: 2020-07-08T15:00:00.000Z
 tags:
-  - set designer
   - Teatro dei Gordi
-  - Premio Hystrio Iceberg
-  - Premio ANCT
+  - Riccardo Pippa
 thumbnailImg: /cms/images/pandora-thumbnail2-copy.jpg
 imgs:
   - alt: pandora1
