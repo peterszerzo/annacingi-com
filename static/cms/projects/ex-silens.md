@@ -3,7 +3,7 @@ id: ex-silens
 title: Ex Silens
 openedAt: 2023-09-22T16:30:59.164Z
 tags:
-  - designer
+  - Marco Donnarumma
 archived: true
 group: Performance
 ---
