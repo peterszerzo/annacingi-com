@@ -3,9 +3,8 @@ id: karmafulminien
 title: Karmafulminien
 openedAt: 2015-11-03T12:00:00.000Z
 tags:
-  - set designer
-  - costume designer
   - Generazione Disagio
+  - Riccardo Pippa
 thumbnailImg: /cms/images/karma-thumbnail1.jpg
 imgs:
   - alt: Karmafulminien Stage 1
