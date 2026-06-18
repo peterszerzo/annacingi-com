@@ -3,7 +3,8 @@ id: hold-for-three
 title: hold for three
 openedAt: 2023-07-21T17:00:36.462Z
 tags:
-  - designer
+  - Lottie Sebes
+  - Kayla Elrod
 thumbnailImg: /cms/images/thumbnail-hold-for-three.jpg
 imgs:
   - alt: 'hold for three (Sebes, Elrod)'
