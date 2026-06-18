@@ -2,9 +2,7 @@
 id: story-of-qu
 title: Story of Qu
 openedAt: 2014-09-01T12:00:00.000Z
-tags:
-  - set designer
-  - collective work
+tags: []
 thumbnailImg: /cms/images/story-of-qu-thumbnail.jpeg
 imgs:
   - alt: Story of Qu 1
