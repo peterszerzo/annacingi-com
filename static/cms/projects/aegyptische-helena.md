@@ -4,6 +4,7 @@ title: Die Ägyptische Helena
 openedAt: 2019-11-06T12:00:00.000Z
 tags:
   - Julian Crouch
+  - Sven-Eric Bechtolf
 thumbnailImg: /cms/images/helena-thumbnail4-copy.jpg
 imgs:
   - alt: helena stage picture 1
