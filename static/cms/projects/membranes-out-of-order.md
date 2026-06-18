@@ -2,8 +2,7 @@
 id: membranes-out-of-order
 title: membranes out of order
 openedAt: 2022-12-09T17:00:08.684Z
-tags:
-  - exhibition designer
+tags: []
 thumbnailImg: /cms/images/thumbnail-membranes.jpg
 imgs:
   - alt: Membrane room
