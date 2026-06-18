@@ -3,7 +3,7 @@ id: ballo-in-maschera
 title: Un Ballo in Maschera
 openedAt: 2022-05-04T18:00:41.571Z
 tags:
-  - Marco Arturo Marelli
+  - Marco Marelli
 thumbnailImg: /cms/images/thumbnail-ballo.jpg
 imgs:
   - alt: Ballo in Maschera 01
