@@ -3,10 +3,8 @@ id: visite
 title: Visite
 openedAt: 2018-11-20T12:00:00.000Z
 tags:
-  - set designer
   - Teatro dei Gordi
-  - Premio Tragos
-  - Premio Hystrio Iceberg
+  - Riccardo Pippa
 thumbnailImg: /cms/images/thumbnail-visite-copy4.jpg
 imgs:
   - alt: Visite 1
