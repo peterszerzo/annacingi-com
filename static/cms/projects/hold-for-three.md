@@ -8,37 +8,37 @@ tags:
 thumbnailImg: /cms/images/hold-for-three_thumb2.jpg
 imgs:
   - alt: 'hold for three (Elrod, Sebes)'
-    credit: 'Orangerie Charlottenburg © Elisabetta Porcinai '
+    credit: 'Elisabetta Porcinai @Orangerie Charlottenburg '
     url: /cms/images/photo_2026-06-19-02.54.28.jpeg
   - alt: 'hold for three (Elrod, Sebes)'
-    credit: Orangerie Charlottenburg © Elisabetta Porcinai
+    credit: 'Elisabetta Porcinai @Orangerie Charlottenburg '
     url: /cms/images/photo_2026-06-19-02.54.22.jpeg
   - alt: hold for three (Sebes)
-    credit: Orangerie Charlottenburg © Elisabetta Porcinai
+    credit: 'Elisabetta Porcinai @Orangerie Charlottenburg '
     url: /cms/images/photo_2026-06-19-02.54.32.jpeg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_1.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_2.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_3.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_4.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_5.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_6.jpg
   - alt: hold for three (Sebes)
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_7.jpg
   - alt: hold for three (graphic)
-    credit: Hosek Contemporary © Kim Wichera
+    credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_8.jpg
 group: Performance
 ---
@@ -46,11 +46,7 @@ Initial concept & performance, object design assistance: **Lottie Sebes**
 
 Concept development & Performance, Object design assistance: **Kayla Elrod**
 
-> Object and set design:
->
->  
->
-> **Anna Cingi**
+> Object and set design: **Anna Cingi**
 
 Sound design: **Aleksander Artur Filipiak**
 
@@ -58,7 +54,7 @@ Dramaturgic collaboration & Acting coach: **ONIX**
 
 Graphic design: **Davide Luciani**
 
-Documentation: **Kim Wichera**
+Documentation: **Kim Wichera, Elisabetta Porcinai**
 
 Sonic performance with amplified bellows
 
@@ -66,8 +62,4 @@ First performed at Hošek Contemporary, Berlin, July 21th, 2023 // [more info](h
 
 Produced with the support of the initiative neue musik berlin e.V.
 
-
-
 > ‘Hold for Three’ is a sonic performance which morphs bodies into machinehood and objects into organs. Kayla Elrod and Lottie Sebes probe the sonic capacities of various bellows, operating them as instruments, extensions and prosthetics. Sonic worlds are built from wheezing breath, creaking hinges, loosening screws, and hot air hissing. Outmoded objects of production are transformed into otherworldly organs, powered by mechanical respiration, a cycle of tension and release.  With affection, play and struggle, we maintain constant operation, we make use of the useless.
->
->
