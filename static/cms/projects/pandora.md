@@ -45,9 +45,9 @@ imgs:
     url: /cms/images/noemi-ardesi-80_2.jpg
 group: Theatre
 ---
-Director: **Riccardo** **Pippa**
+Concept and direction: **Riccardo** **Pippa**
 
-Performers: **Claudia** **Caldarano**, **Cecilia** **Campani**, **Giovanni** **Longhin**, **Andrea** **Panigatti**, **Sandro** **Pivotti**, **Matteo** **Vitanza**
+By and with: **Claudia** **Caldarano**, **Cecilia** **Campani**, **Giovanni** **Longhin**, **Andrea** **Panigatti**, **Sandro** **Pivotti**, **Matteo** **Vitanza**
 
 Costume design and masks: **Ilaria** **Ariemme**
 
