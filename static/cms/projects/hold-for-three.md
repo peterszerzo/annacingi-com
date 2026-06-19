@@ -8,10 +8,7 @@ tags:
 thumbnailImg: /cms/images/hold-for-three_thumb2.jpg
 imgs:
   - alt: 'hold for three (Elrod, Sebes)'
-    credit: >-
-      Orangerie Charlottenburg © Elisabetta Porcinai IMAGE ALT TEXT (OPTIONAL)
-      CAPTION (OPTIONAL)   /cms/images/hold-for-three_7.jpg  
-      /cms/images/hold-for-three_8.jpg
+    credit: 'Orangerie Charlottenburg © Elisabetta Porcinai '
     url: /cms/images/photo_2026-06-19-02.54.28.jpeg
   - alt: 'hold for three (Elrod, Sebes)'
     credit: Orangerie Charlottenburg © Elisabetta Porcinai
