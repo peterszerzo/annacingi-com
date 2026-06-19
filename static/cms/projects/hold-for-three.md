@@ -5,38 +5,55 @@ openedAt: 2023-07-21T17:00:36.462Z
 tags:
   - Lottie Sebes
   - Kayla Elrod
-thumbnailImg: /cms/images/thumbnail-hold-for-three.jpg
+thumbnailImg: /cms/images/hold-for-three_thumb2.jpg
 imgs:
+  - alt: 'hold for three (Elrod, Sebes)'
+    credit: >-
+      Orangerie Charlottenburg © Elisabetta Porcinai IMAGE ALT TEXT (OPTIONAL)
+      CAPTION (OPTIONAL)   /cms/images/hold-for-three_7.jpg  
+      /cms/images/hold-for-three_8.jpg
+    url: /cms/images/photo_2026-06-19-02.54.28.jpeg
+  - alt: 'hold for three (Elrod, Sebes)'
+    credit: Orangerie Charlottenburg © Elisabetta Porcinai
+    url: /cms/images/photo_2026-06-19-02.54.22.jpeg
+  - alt: hold for three (Sebes)
+    credit: Orangerie Charlottenburg © Elisabetta Porcinai
+    url: /cms/images/photo_2026-06-19-02.54.32.jpeg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_1.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_2.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_3.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_4.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_5.jpg
   - alt: 'hold for three (Sebes, Elrod)'
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_6.jpg
   - alt: hold for three (Sebes)
-    credit: Kim Wichera
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_7.jpg
   - alt: hold for three (graphic)
+    credit: Hosek Contemporary © Kim Wichera
     url: /cms/images/hold-for-three_8.jpg
 group: Performance
 ---
-`OBJECT AND SET DESIGN`
-
 Initial concept & performance, object design assistance: **Lottie Sebes**
 
 Concept development & Performance, Object design assistance: **Kayla Elrod**
+
+> Object and set design:
+>
+>  
+>
+> **Anna Cingi**
 
 Sound design: **Aleksander Artur Filipiak**
 
@@ -52,8 +69,11 @@ First performed at Hošek Contemporary, Berlin, July 21th, 2023 // [more info](h
 
 Produced with the support of the initiative neue musik berlin e.V.
 
-__
 
-_‘Hold for Three’ is a sonic performance which morphs bodies into machinehood and objects into organs. Kayla Elrod and Lottie Sebes probe the sonic capacities of various bellows, operating them as instruments, extensions and prosthetics. Sonic worlds are built from wheezing breath, creaking hinges, loosening screws, and hot air hissing. Outmoded objects of production are transformed into otherworldly organs, powered by mechanical respiration, a cycle of tension and release.  With affection, play and struggle, we maintain constant operation, we make use of the useless._
 
-_What slips from a hosed mouth on the floor of an old ship?_
+> ‘Hold for Three’ is a sonic performance which morphs bodies into machinehood and objects into organs. Kayla Elrod and Lottie Sebes probe the sonic capacities of various bellows, operating them as instruments, extensions and prosthetics. Sonic worlds are built from wheezing breath, creaking hinges, loosening screws, and hot air hissing. Outmoded objects of production are transformed into otherworldly organs, powered by mechanical respiration, a cycle of tension and release.  With affection, play and struggle, we maintain constant operation, we make use of the useless.
+>
+> \
+>
+>
+> What slips from a hosed mouth on the floor of an old ship?
