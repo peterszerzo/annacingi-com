@@ -48,15 +48,21 @@ imgs:
     url: /cms/images/visite-13.jpg
 group: Theatre
 ---
-`SET DESIGN`
+Concept and direction: **Riccardo** **Pippa**
 
-Director: **Riccardo** **Pippa**
-
-Performers: **Cecilia** **Campani**, **Giovanni** **Longhin**, **Andrea** **Panigatti**, **Sandro** **Pivotti**, **Maria** **Vittoria** **Scarlattei**, **Matteo** **Vitanza**.
+By and with: **Cecilia** **Campani**, **Giovanni** **Longhin**, **Andrea** **Panigatti**, **Sandro** **Pivotti**, **Maria** **Vittoria** **Scarlattei**, **Matteo** **Vitanza**.
 
 Costume design and masks: **Ilaria** **Ariemme** 
 
 Dramaturgy: **Giulia** **Tollis** 
+
+> Set design: 
+>
+> **Anna**
+>
+>  
+>
+> **Cingi**
 
 Light design: **Paolo** **Casati**
 
@@ -68,8 +74,8 @@ An original show by [Teatro dei Gordi](https://www.teatrodeigordi.it/en/home/). 
 
 First performed November 20th, 2018 in Teatro Franco Parenti, Milan // [more information](https://www.teatrodeigordi.it/it/visite/)
 
-For this design I was awarded [**Premio Tragos**](https://www.progettoscena.it/tragos-xiv-edizione-2/) / up and coming set designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://www.hystrio.it/premio_hystrio/edizione-2019/) in 2019.
-
 > _We would like to tell a simple, common story to grasp, if possible, the mythical background of a close-to-us everyday life. We were inspired, for a big part of our work, by Philemon’s Metamorphosis and Ovid’s Baucis. This myth resounds in us: conviviality as a modus vivendi; the need to have an intimate place or to sometimes have to leave it; becoming custodians of something or someone; metamorphosis as a sign of time, a look at the world, a vital necessity and scenic dynamics._
 >
 > _Through a bedroom the seasons of life pass: visits from friends, memories, dreams and visiting as the last, possible act of resistance. We imagine ourselves in ten, fifty, sixty years, as a child who is afraid of the sting and plays the part of the doctor, as someone who would like to be wise without having to wait for white hair; like someone who, after all, never feels ready to grow old, to die or to be alive. We are interested in looking there, in fear of the passing of time and to do so we continue our journey in the body and in the masks, to tell about communicating universes, in search of fantastic truths and credible lies._
+
+For this set Anna was awarded [**Premio Tragos**](https://www.progettoscena.it/tragos-xiv-edizione-2/) / up and coming set designer in 2019; Teatro dei Gordi was awarded [**Premio Hystrio Iceberg**](https://www.hystrio.it/premio_hystrio/edizione-2019/) in 2019.
