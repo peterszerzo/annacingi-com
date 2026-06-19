@@ -19,7 +19,7 @@
   export let error: string;
   export let pathname: string;
 
-  $: isPdf = pathname.includes(".pdf");
+  $: isPdf = (pathname ?? "").includes(".pdf");
 
   onMount(() => {
     isPdf && window.location.reload();

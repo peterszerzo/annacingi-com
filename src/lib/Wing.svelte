@@ -25,7 +25,7 @@
   <div class="wing-side stickout">
     <div>
       <h3 class="title font-geom font-light" class:breakAll={longestWord > 6}>{project.title}</h3>
-      {#if project.tags}
+      {#if project.tags.length > 0}
         {#each project.tags as tag}
           <Tag {tag} />
         {/each}
