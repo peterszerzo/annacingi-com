@@ -44,22 +44,23 @@ group: Theatre
 ---
 Concept and directing: **Riccardo Pippa**
 
-by and with: **Cecilia Campani, Claudia Caldarano, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Matteo Vitanza**
+By and with: **Cecilia Campani, Claudia Caldarano, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Matteo Vitanza**
 
-dramaturg: **Giulia Tollis**
+Dramaturg: **Giulia Tollis**
 
-> set design: **Anna Cingi**
+> Set design: **Anna Cingi**
 
-costume design: **Beatrice Farina**
+Costume design: **Beatrice Farina**
 
-light design: **Alice Colla**
+Light design: **Alice Colla**
 
-sound design: **Luca De Marinis**
+Sound design: **Luca De Marinis**
 
-intern and dramaturg assistant: **Lorenza Sgrò**
+Intern and dramaturg assistant: **Lorenza Sgrò**
 
-An original show by I Gordi. Produced by ArtistiAssociati-Centro di produzione teatrale, IlRossetti-Teatro Stabile del Friuli Venezia Giulia in the context of GO!2025 Nova Gorica and Gorizia European Capital of Culture 2025. With the support of IntercettAzioni-Centro di Residenza Artistica della Lombardia
+An original show by [I Gordi](https://www.teatrodeigordi.it/en/). Produced by ArtistiAssociati-Centro di produzione teatrale, IlRossetti-Teatro Stabile del Friuli Venezia Giulia in the context of GO!2025 Nova Gorica and Gorizia European Capital of Culture 2025. With the support of IntercettAzioni-Centro di Residenza Artistica della Lombardia.
 
+First performed on 21st September 2025 in [Kulturnidom](https://www.artistiassociatigorizia.it/portfolio/breve-enciclopedia-delle-porte-25-26/), Gorizia, for Go!2025 // [more information](https://www.teatrodeigordi.it/en/brief-encyclopedia-of-doors/)
 
 > Gordi's latest work, A Brief Encyclopedia of Doors (_Breve Enciclopedia delle Porte_), transforms a waiting room into a melting pot of comedy and bewilderment.
 >
