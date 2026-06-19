@@ -6,12 +6,12 @@
   };
 
   export let title: string;
-  export let tags: Array<string> | undefined = undefined;
+  export let tags: Array<string>;
 </script>
 
-<div class="wing-title2">
+<div class="wing-title">
   <h1 class="title font-geom stickout">{title}</h1>
-  {#if tags}
+  {#if tags.length > 0}
     <div class="tags">
       {#each tags as tag}
         <Tag {tag} withLink />
@@ -21,7 +21,7 @@
 </div>
 
 <style>
-  .wing-title2 {
+  .wing-title {
     color: var(--color-primary-900);
     background-color: #fff;
     width: -moz-fit-content;

@@ -61,6 +61,11 @@
     padding: 10px;
   }
 
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
   @media (min-width: 840px) {
     header {
       padding: 20px;
@@ -72,7 +77,6 @@
     font-weight: 200;
     font-size: 44px;
     line-height: 1;
-    text-decoration: none;
     letter-spacing: 1.5px;
     color: inherit;
     display: flex;
@@ -81,7 +85,6 @@
   .main-link-subtitle {
     font-size: 14px;
     font-weight: 600;
-    text-decoration: none;
     color: inherit;
     line-height: 1.2;
     margin: 0;

@@ -11,27 +11,15 @@
 </script>
 
 <script lang="ts">
-  import { onMount } from "svelte";
+  import { page } from "$app/state";
   import WingTitle from "$lib/WingTitle.svelte";
   import Static from "$lib/Static.svelte";
-
-  export let status: number;
-  export let error: string;
-  export let pathname: string;
-
-  $: isPdf = (pathname ?? "").includes(".pdf");
-
-  onMount(() => {
-    isPdf && window.location.reload();
-  });
 </script>
 
 <svelte:head>
-  <title>{status}</title>
+  <title>Something went wrong</title>
 </svelte:head>
 
-{#if !isPdf}
-  <WingTitle title="Something Went Wrong" />
+<WingTitle title="Something went wrong" tags={[]} />
 
-  <Static markdown={error || ""} />
-{/if}
+<Static markdown={page.error.message} />

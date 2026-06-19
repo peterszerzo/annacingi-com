@@ -19,5 +19,6 @@
   a:hover {
     background-color: var(--color-accent);
     color: var(--color-primary-900);
+    border-radius: 4px;
   }
 </style>

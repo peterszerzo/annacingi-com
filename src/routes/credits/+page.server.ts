@@ -9,13 +9,13 @@ export const load = async () => {
     creditsFiles.map(async (file) => {
       const content = (await fs.readFile(file)).toString();
       return { ...frontMatter(content).attributes };
-    })
+    }),
   );
 
   credits.sort(
     (a: any, b: any) =>
       new Date(b.openedAt || "2100-01-01").getTime() -
-      new Date(a.openedAt || "2100-01-01").getTime()
+      new Date(a.openedAt || "2100-01-01").getTime(),
   );
 
   return {

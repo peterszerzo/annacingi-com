@@ -13,6 +13,6 @@ export const load = async () => {
       body: parsedFile.body,
     };
   } catch (err) {
-    throw error(404, "Not found");
+    throw error(404, "Something went wrong");
   }
 };

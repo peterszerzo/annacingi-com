@@ -15,7 +15,7 @@
   <title>{tagTitle}</title>
 </svelte:head>
 
-<WingTitle title={tagTitle} />
+<WingTitle title={tagTitle} tags={[]} />
 
 <section>
   <Wings>

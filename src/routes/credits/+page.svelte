@@ -11,7 +11,7 @@
   $: ({ credits } = data);
 </script>
 
-<WingTitle title="Credits" />
+<WingTitle title="Credits" tags={[]} />
 
 {#if credits}
   <div class="credits">

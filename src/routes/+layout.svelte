@@ -42,7 +42,8 @@
     h1,
     h2,
     h3,
-    p {
+    p,
+    blockquote {
       margin: 0;
     }
 
