@@ -16,7 +16,7 @@ Directing: **Riccardo Pippa**
 
 Light design: **Alice Colla**
 
-Costumes: Ilaria Ariemme
+Costumes: **Ilaria Ariemme**
 
 Sound design: **Luca De Marinis**
 
