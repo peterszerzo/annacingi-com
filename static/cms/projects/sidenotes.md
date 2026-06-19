@@ -7,7 +7,7 @@ tags:
   - Riccardo Pippa
 group: Theatre
 ---
-Performers: **Claudia Caldarano, Cecilia Campani, Daniele Cavone Felicioni, Antonio Gargiulo, Zoe Guerrera, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Maria Vittoria Scarlattei, Matteo Vitanza**
+With: **Claudia Caldarano, Cecilia Campani, Daniele Cavone Felicioni, Antonio Gargiulo, Zoe Guerrera, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Maria Vittoria Scarlattei, Matteo Vitanza**
 
 Directing: **Riccardo Pippa**
 
@@ -24,7 +24,6 @@ An original show by [I Gordi](https://www.teatrodeigordi.it/en/). Produced by Te
 Set built in the workshop of Teatro Franco Parenti. Costumes made at the costume shop of Teatro Franco Parenti directed by Simona Dondoni.
 
 First performed on June 27th, 2024 at [Teatro Franco Parenti, Milan](https://teatrofrancoparenti.it/archivio/decennio-2020-2029/2023-2024/note-a-margine-2023-2024/) // [more information](https://www.teatrodeigordi.it/en/sidenotes/)
-
 
 > Thus, the funeral ceremony becomes one final tragic comedy of life!
 >
