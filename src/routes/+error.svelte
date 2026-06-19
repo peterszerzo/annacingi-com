@@ -1,15 +1,3 @@
-<script context="module" lang="ts">
-  export function load({ url, error, status }) {
-    return {
-      props: {
-        pathname: url.pathname,
-        status,
-        error: error.message,
-      },
-    };
-  }
-</script>
-
 <script lang="ts">
   import { page } from "$app/state";
   import WingTitle from "$lib/WingTitle.svelte";
@@ -20,6 +8,6 @@
   <title>Something went wrong</title>
 </svelte:head>
 
-<WingTitle title="Something went wrong" tags={[]} />
+<WingTitle title="Could not design your page" tags={[]} />
 
-<Static markdown={page.error.message} />
+<Static markdown={page.error?.message ?? "Something went wrong"} />

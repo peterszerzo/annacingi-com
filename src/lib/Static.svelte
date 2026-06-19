@@ -1,13 +1,13 @@
 <script lang="ts">
   import { marked } from "marked";
 
-  // There have historically been issues with the marked package exports, therefore we
-  // default to the identity function.
-  const m = typeof marked === "function" ? marked : (a: string) => a;
+  interface Props {
+    markdown: string;
+  }
 
-  export let markdown = "";
-
-  $: htmlContent = m(markdown);
+  let { markdown }: Props = $props();
+  
+  let htmlContent = $derived(marked(markdown));
 </script>
 
 <div class="static">

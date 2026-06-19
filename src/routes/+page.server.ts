@@ -1,4 +1,5 @@
 import frontMatter from "front-matter";
+import type { Project } from "$lib/types";
 import { glob } from "glob";
 import { fs } from "mz";
 
@@ -9,7 +10,7 @@ export const load = async () => {
     await Promise.all(
       projectsFiles.map(async (file) => {
         const content = (await fs.readFile(file)).toString();
-        return { ...frontMatter(content).attributes };
+        return { ...frontMatter(content).attributes } as Project;
       }),
     )
   ).map((project) => ({ ...project, tags: project.tags ?? [] }));

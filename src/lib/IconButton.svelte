@@ -1,22 +1,27 @@
 <script lang="ts">
   import Falafel from "./icons/Falafel.svelte";
   import X from "./icons/X.svelte";
+  
+  interface Props {
+    onclick: () => void;
+    icon: "X" | "Falafel";
+    title: string;
+  }
 
-  export let icon: "X" | "Falafel";
-  export let title: string;
+  let { onclick, icon, title }: Props = $props();
 
-  $: useIcon = (() => {
+  let IconComponent = $derived.by(() => {
     if (icon === "Falafel") {
       return Falafel;
     }
     if (icon === "X") {
       return X;
     }
-  })();
+  });
 </script>
 
-<button {title} class="icon-button" on:click>
-  <svelte:component this={useIcon} />
+<button {title} class="icon-button" {onclick}>
+  <IconComponent />
 </button>
 
 <style>

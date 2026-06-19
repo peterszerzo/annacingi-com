@@ -1,10 +1,15 @@
 <script lang="ts">
-  export let tag: string;
-  export let withLink: boolean = false;
+  interface Props {
+    tag: string;
+    withLink?: boolean;
+    large?: boolean;
+  }
+
+  let { tag, withLink = false, large = false }: Props = $props();
 </script>
 
 {#if withLink}
-  <a href={`/tags/${encodeURIComponent(tag)}`} class="tag">{tag}</a>
+  <a href={`/tags/${encodeURIComponent(tag)}`} class="tag" class:tag--large={large}>{tag}</a>
 {:else}
   <span class="tag">{tag}</span>
 {/if}
@@ -20,5 +25,9 @@
     font-size: 14px;
     line-height: 1;
     text-decoration: none;
+  }
+
+  .tag--large {
+    font-size: 16px;
   }
 </style>

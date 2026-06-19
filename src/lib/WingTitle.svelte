@@ -5,8 +5,12 @@
     return tag && tag.replace && tag.replace(/\ /g, "--");
   };
 
-  export let title: string;
-  export let tags: Array<string>;
+  interface Props {
+    title: string;
+    tags: string[];
+  }
+
+  let { title, tags }: Props = $props();
 </script>
 
 <div class="wing-title">
@@ -14,7 +18,7 @@
   {#if tags.length > 0}
     <div class="tags">
       {#each tags as tag}
-        <Tag {tag} withLink />
+        <Tag {tag} withLink large />
       {/each}
     </div>
   {/if}

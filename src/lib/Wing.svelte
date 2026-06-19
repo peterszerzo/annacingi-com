@@ -2,10 +2,14 @@
   import type { Project } from "$lib/types";
   import Tag from "./Tag.svelte";
 
-  export let project: Project;
+  interface Props {
+    project: Project;
+  }
+  
+  let { project }: Props = $props();
 
-  $: openingYear = new Date(project.openedAt).getFullYear();
-  $: openingMonth = new Date(project.openedAt).getMonth() + 1;
+  let openingYear = $derived(new Date(project.openedAt).getFullYear());
+  let openingMonth = $derived(new Date(project.openedAt).getMonth() + 1);
 
   const range = (n: number) => [...Array(n).keys()];
 
@@ -16,9 +20,9 @@
 
   let grid = range2(8)(4);
 
-  $: longestWord = Math.max(
+  let longestWord = $derived(Math.max(
     ...project.title.split(" ").map((str) => str.length)
-  );
+  ));
 </script>
 
 <a href="/projects/{project.id}" class="wing">
@@ -95,7 +99,7 @@
   }
 
   .wing-side {
-    padding: 10px;
+    padding: 8px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -213,6 +217,7 @@
     margin-bottom: 6px;
     display: -webkit-box;
     -webkit-line-clamp: 3;
+    line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }

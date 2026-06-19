@@ -4,8 +4,11 @@
   import Static from "$lib/Static.svelte";
   import WingTitle from "$lib/WingTitle.svelte";
 
-  export let data: Project;
-  $: project = data;
+  interface Props {
+    data: Project;
+  }
+
+  let { data: project }: Props = $props();
 </script>
 
 <svelte:head>

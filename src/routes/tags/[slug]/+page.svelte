@@ -3,30 +3,26 @@
   import Wing from "$lib/Wing.svelte";
   import Wings from "$lib/Wings.svelte";
   import WingTitle from "$lib/WingTitle.svelte";
-  import { page } from "$app/stores";
+  import { page } from "$app/state";
 
-  export let data: { projects: Array<Project> };
-  $: ({ projects } = data);
-  $: slug = $page.params.slug;
-  $: tagTitle = `Tag: ${decodeURIComponent(slug)}`;
+  interface Props {
+    data: { projects: Array<Project> }
+  }
+
+  let { data }: Props = $props();
+
+  let tagTitle = $derived(decodeURIComponent(page.params.slug));
 </script>
 
 <svelte:head>
   <title>{tagTitle}</title>
 </svelte:head>
 
-<WingTitle title={tagTitle} tags={[]} />
+<WingTitle title={`Tag: ${tagTitle}`} tags={[]} />
 
-<section>
-  <Wings>
-    {#each projects as project, index (index)}
-      <Wing {project} />
-    {/each}
-  </Wings>
-</section>
+<Wings>
+  {#each data.projects as project, index (index)}
+    <Wing {project} />
+  {/each}
+</Wings>
 
-<style>
-  section:not(:first-child) {
-    margin-top: 120px;
-  }
-</style>

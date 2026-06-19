@@ -1,8 +1,11 @@
 <script lang="ts">
   import Static from "$lib/Static.svelte";
 
-  export let data: { body: string; portraitUrl: string };
-  $: ({ body, portraitUrl } = data);
+  interface Props {
+    data: { body: string; portraitUrl: string }
+  }
+
+  let { data }: Props = $props();
 </script>
 
 <svelte:head>
@@ -12,16 +15,16 @@
 <div class="about-container">
   <div class="image-container">
     <div class="image-frames">
-      <div class="image-frame stickout background2" />
-      <div class="image-frame stickout background" />
+      <div class="image-frame stickout background2"></div>
+      <div class="image-frame stickout background"></div>
       <div class="image-frame stickout">
         <div class="image-crop-container">
-          <img src={portraitUrl} alt="Anna Portrait" />
+          <img src={data.portraitUrl} alt="Anna Portrait" />
         </div>
       </div>
     </div>
   </div>
-  <Static markdown={body} />
+  <Static markdown={data.body} />
 </div>
 
 <style>

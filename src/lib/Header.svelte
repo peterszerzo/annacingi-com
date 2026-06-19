@@ -1,14 +1,14 @@
 <script lang="ts">
-  import { page } from "$app/stores";
+  import { page } from "$app/state";
   import Logo from "./Logo.svelte";
   import MobileNavOverlay from "./MobileNavOverlay.svelte";
   import IconButton from "./IconButton.svelte";
 
-  let isMobileNavOpen = false;
+  let isMobileNavOpen = $state(false);
 
-  $: isActive = (linkPath: string) => {
-    return [linkPath, `${linkPath}/`].indexOf($page.url.pathname) > -1;
-  };
+  let isActive = $derived((linkPath: string) => {
+    return [linkPath, `${linkPath}/`].indexOf(page.url.pathname) > -1;
+  });
 </script>
 
 <header>
@@ -25,11 +25,11 @@
     <IconButton
       title="Open navigation"
       icon="Falafel"
-      on:click={() => (isMobileNavOpen = !isMobileNavOpen)}
+      onclick={() => (isMobileNavOpen = !isMobileNavOpen)}
     />
   </nav>
   {#if isMobileNavOpen}
-    <MobileNavOverlay on:close={() => (isMobileNavOpen = false)} />
+    <MobileNavOverlay close={() => { isMobileNavOpen = false }} />
   {/if}
   <nav class="header-nav-desktop font-geom">
     <a
