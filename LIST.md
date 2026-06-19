@@ -1,0 +1,3 @@
+- figure out title hyphenation/breaks.
+- tags on individual project pages should be bigger than the rest.
+- finish top left link.
