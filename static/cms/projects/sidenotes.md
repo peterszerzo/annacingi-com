@@ -5,7 +5,7 @@ openedAt: 2024-06-27T18:00:20.164Z
 tags:
   - I Gordi
   - Riccardo Pippa
-thumbnailImg: /cms/images/nam_thumb4.jpg
+thumbnailImg: /cms/images/nam_thumb4-copy.jpg
 group: Theatre
 ---
 With: **Claudia Caldarano, Cecilia Campani, Daniele Cavone Felicioni, Antonio Gargiulo, Zoe Guerrera, Giovanni Longhin, Andrea Panigatti, Sandro Pivotti, Maria Vittoria Scarlattei, Matteo Vitanza**
