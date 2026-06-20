@@ -1,5 +1,6 @@
 import { redirect } from "@sveltejs/kit";
+import type { PageServerLoad } from "./$types";
 
-export const load = async () => {
+export const load: PageServerLoad = async () => {
   throw redirect(302, "https://annacingi-com.netlify.app");
 };

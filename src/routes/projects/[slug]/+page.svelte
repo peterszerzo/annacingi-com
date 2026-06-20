@@ -16,7 +16,7 @@
 </svelte:head>
 
 {#if project.imgs}
-  <Carousel carouselId="car1" images={project.imgs} />
+  <Carousel images={project.imgs} />
 {/if}
 
 <WingTitle title={project.title} tags={project.tags} />
