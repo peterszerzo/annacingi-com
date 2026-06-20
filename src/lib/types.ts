@@ -4,6 +4,7 @@ export interface Project {
   openedAt: string;
   tags: Array<string>;
   body: string;
+  archived?: boolean;
   thumbnailImg?: string;
   imgs: Array<{ url: string; alt: string; credit: string }>;
   group: "Theatre" | "Opera" | "Performance";
