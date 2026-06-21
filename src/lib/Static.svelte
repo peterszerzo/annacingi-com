@@ -7,7 +7,7 @@
 
   let { markdown }: Props = $props();
   
-  let htmlContent = $derived(marked(markdown));
+  let htmlContent = $derived(marked.parse(markdown) as string);
 </script>
 
 <div class="static">
