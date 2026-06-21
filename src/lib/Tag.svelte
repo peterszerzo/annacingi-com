@@ -25,9 +25,15 @@
     font-size: 14px;
     line-height: 1;
     text-decoration: none;
+    border: 1px solid transparent;
+    transition: border-color 0.2s ease-in-out;
   }
 
   .tag--large {
     font-size: 16px;
+  }
+
+  a:hover {
+    border: 1px solid var(--color-primary-900);
   }
 </style>

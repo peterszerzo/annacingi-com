@@ -24,10 +24,11 @@
     <IconButton title="Close navigation" icon="X" onclick={close} />
   </div>
   <div class="mobile-nav-content">
-    <a onclick={close} href="/">Home</a>
-    <a onclick={close} href="/about">About</a>
-    <a onclick={close} href="mailto:annamcingi@gmail.com">Contact</a>
-    <a onclick={close} href="/cms/images/eng-jan-2024.pdf">CV</a>
+    <a onclick={close} href="/">home</a>
+    <a onclick={close} href="/about">about</a>
+    <a onclick={close} href="mailto:annamcingi@gmail.com">contact</a>
+    <a onclick={close} href="/cms/images/eng-jan-2024.pdf">cv</a>
+    <a onclick={close} href="/credits">credits</a>
     <div class="logo-container"><Logo /></div>
   </div>
 </div>

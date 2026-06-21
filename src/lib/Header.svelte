@@ -34,7 +34,7 @@
   <nav class="header-nav-desktop font-geom">
     <a
       class="nav-link font-light"
-      class:font-semibold={isActive("/about")}
+      class:nav-link--active={isActive("/about")}
       href="/about">about</a
     >
     <a class="nav-link font-light" href="mailto:annamcingi@gmail.com"
@@ -46,7 +46,7 @@
     <a
       class="nav-link font-light"
       href="/credits"
-      class:font-semibold={isActive("/credits")}>credits</a
+      class:nav-link--active={isActive("/credits")}>credits</a
     >
   </nav>
 </header>
@@ -126,12 +126,19 @@
 
   .nav-link {
     font-size: 18px;
+    padding: 0px 6px;
     color: inherit;
     text-decoration: none;
-    margin-left: 16px;
+    margin-left: 12px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease-in-out;
+  }
+
+  .nav-link--active {
+    background-color: var(--color-accent);
   }
 
   .nav-link:hover {
-    border-bottom: 1px solid currentColor;
+    background-color: var(--color-accent);
   }
 </style>
