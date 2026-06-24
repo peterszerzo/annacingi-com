@@ -47,4 +47,6 @@ Installation fostered by and within Countdown Grabowsee 2022 - Inertia, on the g
 
 Opening on August 19,  2022.
 
+![](/cms/images/blank.jpg)
+
 > A dysfunctional strategy deploying clutter, heirlooms and leftovers to answer the question: if I work hard enough, can I make myself belong?
