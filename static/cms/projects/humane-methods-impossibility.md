@@ -44,9 +44,7 @@ imgs:
     url: /cms/images/impossibility_12.jpg
 group: Performance
 ---
-`SET & COSTUME DESIGNER, CONCEPT`
-
-Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
+> Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
 Directing: **Andrea Familari**
 
@@ -59,6 +57,8 @@ Choreography: **Marco Donnarumma**, **Margherita Pevere**
 Interactive Iight and video design, technical direction: **Andrea Familari**
 
 AI Music system and spatial sound design: **Marco Donnarumma**
+
+> Stage and costume design: **Anna Cingi**
 
 Symbionts oversight: **Margherita Pevere**
 
