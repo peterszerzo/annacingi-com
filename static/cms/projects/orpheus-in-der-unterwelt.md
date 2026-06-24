@@ -45,13 +45,17 @@ imgs:
     url: /cms/images/orpheus_volksoper_12.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Alexander Joel**
 
 Directing: **Spymonkey** / **Toby** **Park**, **Aitor** **Basauri**
 
 Set and costume design: **Julian** **Crouch**
+
+> Set associate:
+>
+>  
+>
+> **Anna Cingi**
 
 Choreography: **Gail** **Skrela**
 
