@@ -44,11 +44,13 @@ imgs:
     url: /cms/images/ballo-in-maschera-12.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Nicola Luisotti** / **Giampaolo Bisanti** 
 
 Director, set and costume designer: **Marco Arturo Marelli**
+
+> Set associate: 
+>
+> **Anna Cingi**
 
 Light designer: **Marco Filibeck**
 
