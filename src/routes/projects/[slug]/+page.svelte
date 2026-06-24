@@ -2,18 +2,23 @@
   import type { Project } from "$lib/types";
   import Carousel from "$lib/Carousel.svelte";
   import Static from "$lib/Static.svelte";
-  import WingTitle2 from "$lib/WingTitle2.svelte";
+  import WingTitle from "$lib/WingTitle.svelte";
 
-  export let data: Project;
-  $: project = data;
+  interface Props {
+    data: Project;
+  }
+
+  let { data: project }: Props = $props();
 </script>
 
 <svelte:head>
   <title>{project.title}</title>
 </svelte:head>
 
-<WingTitle2 title={project.title} tags={project.tags} />
 {#if project.imgs}
-  <Carousel carouselId="car1" images={project.imgs} />
+  <Carousel images={project.imgs} />
 {/if}
+
+<WingTitle title={project.title} tags={project.tags} />
+
 <Static markdown={project.body} />

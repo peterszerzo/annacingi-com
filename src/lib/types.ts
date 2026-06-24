@@ -1,9 +1,10 @@
 export interface Project {
   id: string;
   title: string;
-  openedAt?: string;
+  openedAt: string;
   tags: Array<string>;
   body: string;
+  archived?: boolean;
   thumbnailImg?: string;
   imgs: Array<{ url: string; alt: string; credit: string }>;
   group: "Theatre" | "Opera" | "Performance";

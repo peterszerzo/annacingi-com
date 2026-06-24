@@ -1,18 +1,22 @@
 import frontMatter from "front-matter";
+import type { Project } from "$lib/types";
 import { glob } from "glob";
 import { fs } from "mz";
+import type { PageServerLoad } from "./$types";
 
-export const load = async () => {
+export const load: PageServerLoad = async () => {
   const projectsFiles = await glob("static/cms/projects/*.md");
 
   const projects = (
     await Promise.all(
       projectsFiles.map(async (file) => {
         const content = (await fs.readFile(file)).toString();
-        return { ...frontMatter(content).attributes };
+        return { ...frontMatter<Project>(content).attributes };
       }),
     )
-  ).map((project) => ({ ...project, tags: project.tags ?? [] }));
+  )
+    .map((project) => ({ ...project, tags: project.tags ?? [] }))
+    .filter((project) => !project.archived);
 
   projects.sort(
     (a: any, b: any) =>
@@ -21,6 +25,6 @@ export const load = async () => {
   );
 
   return {
-    projects: projects.filter((project: any) => !project.archived),
+    projects,
   };
 };

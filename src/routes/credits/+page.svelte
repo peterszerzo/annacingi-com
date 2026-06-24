@@ -7,27 +7,31 @@
     return format(new Date(dateString), "MMMM, yyyy");
   };
 
-  export let data: { credits: Array<Credit> };
-  $: ({ credits } = data);
+  interface Props {
+    data: {
+      credits: Array<Credit>;
+    }
+  }
+
+  let { data }: Props = $props();
 </script>
 
-<WingTitle title="Credits" />
-{#if credits}
-  <div class="credits">
-    {#each credits as credit}
-      <div class="credit">
-        <div class="credit-content">
-          <p><strong>{credit.title}</strong></p>
-          <p><span>{credit.role}</span></p>
-          <p>{credit.description}</p>
-        </div>
-        {#if credit.openedAt}
-          <p class="credit-right">{formatDate(credit.openedAt)}</p>
-        {/if}
+<WingTitle title="Credits" tags={[]} />
+
+<div class="credits">
+  {#each data.credits as credit}
+    <div class="credit">
+      <div class="credit-content">
+        <p><strong>{credit.title}</strong></p>
+        <p><span>{credit.role}</span></p>
+        <p>{credit.description}</p>
       </div>
-    {/each}
-  </div>
-{/if}
+      {#if credit.openedAt}
+        <p class="credit-right">{formatDate(credit.openedAt)}</p>
+      {/if}
+    </div>
+  {/each}
+</div>
 
 <style>
   .credit-content > * {
@@ -58,7 +62,8 @@
     font-weight: 400;
     background-color: #f5f5f5;
     border-radius: 4px;
-    padding: 3px 8px;
+    padding: 2px 4px;
+    line-height: 1;
   }
 
   .credits {

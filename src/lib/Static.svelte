@@ -1,13 +1,13 @@
 <script lang="ts">
   import { marked } from "marked";
 
-  // There have historically been issues with the marked package exports, therefore we
-  // default to the identity function.
-  const m = typeof marked === "function" ? marked : (a: string) => a;
+  interface Props {
+    markdown: string;
+  }
 
-  export let markdown = "";
-
-  $: htmlContent = m(markdown);
+  let { markdown }: Props = $props();
+  
+  let htmlContent = $derived(marked.parse(markdown) as string);
 </script>
 
 <div class="static">
@@ -20,22 +20,28 @@
     line-height: 1.5;
   }
 
-  .static :global(a) {
-    color: inherit;
+  .static > :global(*) + :global(*) {
+    margin-top: 20px;
   }
 
-  .static :global(p) {
-    margin-top: 0;
-    margin-bottom: 18px;
+  .static :global(a) {
+    color: inherit;
+    transition: background-color 0.2s ease-in-out;
+    border-radius: 4px;
+  }
+
+  .static :global(a:hover) {
+    background-color: var(--color-accent);
   }
 
   .static :global(blockquote) {
-    border-left: 3px solid #e0ff0c;
-    color: #676767;
-    font-style: italic;
-    padding-top: 0;
-    padding-bottom: 0;
-    padding-left: 16px;
+    border-radius: 12px;
+    background-color: var(--color-accent);
+    padding: 8px 12px;
     margin-left: 0;
+  }
+
+  .static :global(blockquote) > :global(*) + :global(*) {
+    margin-top: 20px;
   }
 </style>

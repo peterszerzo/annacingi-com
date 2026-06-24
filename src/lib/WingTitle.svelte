@@ -1,19 +1,53 @@
 <script lang="ts">
-  export let title: string;
+  import Tag from "./Tag.svelte";
+
+  export const tagUrl = (tag: string) => {
+    return tag && tag.replace && tag.replace(/\ /g, "--");
+  };
+
+  interface Props {
+    title: string;
+    tags: string[];
+  }
+
+  let { title, tags }: Props = $props();
 </script>
 
-<h2 class="wing-title title font-geom font-light stickout">{title}</h2>
+<div class="wing-title">
+  <h1 class="title font-geom stickout">{title}</h1>
+  {#if tags.length > 0}
+    <div class="tags">
+      {#each tags as tag}
+        <Tag {tag} withLink large />
+      {/each}
+    </div>
+  {/if}
+</div>
 
 <style>
   .wing-title {
+    color: var(--color-primary-900);
+    background-color: #fff;
     width: -moz-fit-content;
     width: fit-content;
-    color: #fff;
-    background-color: #000;
-    width: 280px;
-    padding: 4px 10px;
-    transform: skewY(-14deg);
     text-align: center;
-    margin: 20px auto 70px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    width: -moz-fit-content;
+    width: fit-content;
+    margin: auto !important;
+    padding: 4px 10px;
+  }
+
+  .tags {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .tags > :global(*) {
+    margin: 4px;
   }
 </style>

@@ -1,50 +1,39 @@
 <script lang="ts">
-  export let tag: string;
-  export let dark: boolean | undefined = undefined;
-  export let withLink: boolean = false;
+  interface Props {
+    tag: string;
+    withLink?: boolean;
+    large?: boolean;
+  }
 
-  $: highlighted =
-    tag === "set designer" ||
-    tag === "costume designer" ||
-    tag === "exhibition designer" ||
-    tag === "designer" ||
-    tag === "artist" ||
-    tag === "concept";
+  let { tag, withLink = false, large = false }: Props = $props();
 </script>
 
 {#if withLink}
-  <a
-    href={`/tags/${encodeURIComponent(tag)}`}
-    class="tag"
-    class:highlighted-tag={highlighted}
-    class:dark-tag={dark}>{tag}</a
-  >
+  <a href={`/tags/${encodeURIComponent(tag)}`} class="tag" class:tag--large={large}>{tag}</a>
 {:else}
-  <span class="tag" class:highlighted-tag={highlighted} class:dark-tag={dark}
-    >{tag}</span
-  >
+  <span class="tag">{tag}</span>
 {/if}
 
 <style>
   .tag {
-    padding: 2px 6px;
+    padding: 2px 4px;
     display: inline-block;
-    background-color: #efefef;
-    color: #545454;
-    word-break: none;
-    width: fit-content;
-    border-radius: 2px;
-    font-size: 12px;
-    text-decoration: none;
-  }
-
-  .highlighted-tag {
-    background-color: #e0ff0c;
+    background-color: var(--color-accent);
     color: #232323;
+    word-break: none;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1;
+    text-decoration: none;
+    border: 1px solid transparent;
+    transition: border-color 0.2s ease-in-out;
   }
 
-  .dark-tag {
-    background-color: #000;
-    color: #fff;
+  .tag--large {
+    font-size: 16px;
+  }
+
+  a:hover {
+    border: 1px solid var(--color-primary-900);
   }
 </style>

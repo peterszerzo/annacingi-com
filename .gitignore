@@ -7,6 +7,6 @@ build
 .svelte-kit
 tmp
 *.gif
-public/index.html
 .cache
 .claude
+.wrangler

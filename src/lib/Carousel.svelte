@@ -1,22 +1,14 @@
 <script lang="ts">
-  import Siema from "siema";
   import Chevron from "./icons/Chevron.svelte";
-  import { onMount, onDestroy, afterUpdate, tick } from "svelte";
 
-  export let carouselId;
+  interface Image {
+    url: string;
+    credit?: string;
+  }
 
-  export let images;
+  let { images }: { images: Image[] } = $props();
 
-  $: imageIndices = images.map((_image, index) => index);
-
-  let siema;
-
-  // A copy of images, but modified in a sequence that takes into account the safe unmount of the Siema carousel
-  let siemaImages = images;
-
-  let carouselPage = 0;
-
-  $: siema && siema.goTo(carouselPage);
+  let carouselPage = $state(0);
 
   const next = () => {
     carouselPage = carouselPage === images.length - 1 ? 0 : carouselPage + 1;
@@ -26,103 +18,82 @@
     carouselPage = carouselPage === 0 ? images.length - 1 : carouselPage - 1;
   };
 
-  const handleKeyPress = (ev: any) => {
-    if (ev.key === "ArrowRight") {
-      next();
-      return;
-    }
-    if (ev.key === "ArrowLeft") {
-      prev();
-      return;
-    }
+  const handleKeyDown = (ev: KeyboardEvent) => {
+    if (ev.key === "ArrowRight") next();
+    else if (ev.key === "ArrowLeft") prev();
   };
 
-  const initialSetup = () => {
-    try {
-      document.addEventListener("keydown", handleKeyPress);
-    } catch (err) {}
+  let dragOffset = $state(0);
+  let isDragging = $state(false);
+  let dragStartX: number | null = null;
+
+  const startDrag = (startX: number) => {
+    dragStartX = startX;
+    isDragging = true;
   };
 
-  const finalTeardown = () => {
-    // For some reason, this code runs on the server and throws an error
-    try {
-      document.removeEventListener("keydown", handleKeyPress);
-    } catch (err) {}
+  const moveDrag = (currentX: number) => {
+    if (dragStartX === null) return;
+    dragOffset = currentX - dragStartX;
   };
 
-  const setup = () => {
-    if (!siemaImages || siemaImages.length === 0) {
-      return;
-    }
-    siemaImages = images;
-    siema = new Siema({
-      selector: `#${carouselId}`,
-      loop: true,
-      onChange: (newPage: number) => {
-        carouselPage = siema.currentSlide;
-      },
-    });
+  const endDrag = (currentX: number) => {
+    if (dragStartX === null) return;
+    const dx = currentX - dragStartX;
+    dragStartX = null;
+    isDragging = false;
+    dragOffset = 0;
+    if (Math.abs(dx) > 40) dx < 0 ? next() : prev();
   };
 
-  afterUpdate(async () => {
-    if (siemaImages !== images) {
-      teardown();
-      await tick();
-      siemaImages = images;
-      await tick();
-      setup();
-    }
-  });
-
-  const teardown = () => {
-    if (images.length === 0) {
-      return;
-    }
-    siema && siema.destroy();
+  const cancelDrag = () => {
+    dragStartX = null;
+    isDragging = false;
+    dragOffset = 0;
   };
 
-  onMount(() => {
-    initialSetup();
-    setup();
-  });
+  const handleMouseMove = (ev: MouseEvent) => moveDrag(ev.clientX);
+  const handleMouseUp = (ev: MouseEvent) => endDrag(ev.clientX);
+  const handleMouseDown = (ev: MouseEvent) => startDrag(ev.clientX);
 
-  onDestroy(() => {
-    teardown();
-    finalTeardown();
-  });
+  const handleTouchStart = (ev: TouchEvent) => startDrag(ev.touches[0].clientX);
+  const handleTouchMove = (ev: TouchEvent) => moveDrag(ev.touches[0].clientX);
+  const handleTouchEnd = (ev: TouchEvent) => endDrag(ev.changedTouches[0].clientX);
 </script>
+
+<svelte:document onkeydown={handleKeyDown} onmousemove={handleMouseMove} onmouseup={handleMouseUp} />
 
 {#if images && images.length > 0}
   <div class="carousel-container stickout">
-    {#if images[carouselPage] && images[carouselPage].credit}
+    {#if images[carouselPage]?.credit}
       <div class="carousel-credit">Credit: {images[carouselPage].credit}</div>
     {/if}
     <div class="carousel-controls">
-      {#each imageIndices as image, index}
+      {#each images as _, index}
         <button
           class="carousel-button"
           class:selected={index === carouselPage}
-          on:click={() => {
-            carouselPage = index;
-          }}
-        />
+          title={`View image ${index + 1}`}
+          onclick={() => { carouselPage = index; }}
+        ></button>
       {/each}
     </div>
-    <button class="carousel-side carousel-side-left" on:click={prev}>
+    <button title="Previous image" class="carousel-side carousel-side-left" onclick={prev}>
       <Chevron dir="left" />
     </button>
-    <button class="carousel-side carousel-side-right" on:click={next}>
+    <button title="Next image" class="carousel-side carousel-side-right" onclick={next}>
       <Chevron dir="right" />
     </button>
-    <div class="carousel" id={carouselId}>
-      {#if siemaImages}
-        {#each siemaImages as image}
+    <!-- svelte-ignore a11y_no_static_element_interactions -->
+    <div class="carousel" class:dragging={isDragging} ontouchstart={handleTouchStart} ontouchmove={handleTouchMove} ontouchend={handleTouchEnd} ontouchcancel={cancelDrag} onmousedown={handleMouseDown}>
+      <div class="carousel-track" style="transform: translateX(calc({-carouselPage * 100}% + {dragOffset}px)); transition: {isDragging ? 'none' : 'transform 0.3s ease'}">
+        {#each images as image}
           <div
             class="carousel-slide"
             style="background-image: url({image.url});"
-          />
+          ></div>
         {/each}
-      {/if}
+      </div>
     </div>
   </div>
 {/if}
@@ -150,10 +121,26 @@
   .carousel-container {
     background-color: #000;
     position: relative;
-    margin: 20px 0;
+  }
+
+  .carousel {
+    overflow: hidden;
+    height: 100%;
+    cursor: grab;
+  }
+
+  .carousel.dragging {
+    cursor: grabbing;
+    user-select: none;
+  }
+
+  .carousel-track {
+    display: flex;
+    height: 100%;
   }
 
   .carousel-slide {
+    flex: 0 0 100%;
     background-size: contain;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -189,11 +176,11 @@
   }
 
   .carousel-button:hover {
-    filter: brightness(80%);
+    background-color: var(--color-accent);
   }
 
   .selected {
-    background-color: #e0ff0c;
+    background-color: var(--color-accent);
   }
 
   .carousel-button:focus {

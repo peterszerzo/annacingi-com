@@ -1,14 +1,14 @@
 <script lang="ts">
-  import { page } from "$app/stores";
+  import { page } from "$app/state";
   import Logo from "./Logo.svelte";
   import MobileNavOverlay from "./MobileNavOverlay.svelte";
   import IconButton from "./IconButton.svelte";
 
-  let isMobileNavOpen = false;
+  let isMobileNavOpen = $state(false);
 
-  $: isActive = (linkPath: string) => {
-    return [linkPath, `${linkPath}/`].indexOf($page.url.pathname) > -1;
-  };
+  let isActive = $derived((linkPath: string) => {
+    return [linkPath, `${linkPath}/`].indexOf(page.url.pathname) > -1;
+  });
 </script>
 
 <header>
@@ -17,36 +17,36 @@
       <Logo />
     </div>
     <div>
-      <p class="main-link-text font-semibold">Anna Cingi</p>
-      <p class="main-link-text font-light">set designer</p>
+      <p class="main-link-title">Anna Cingi</p>
+      <p class="main-link-subtitle">theatre designer</p>
     </div>
   </a>
   <nav class="header-nav-mobile">
     <IconButton
       title="Open navigation"
       icon="Falafel"
-      on:click={() => (isMobileNavOpen = !isMobileNavOpen)}
+      onclick={() => (isMobileNavOpen = !isMobileNavOpen)}
     />
   </nav>
   {#if isMobileNavOpen}
-    <MobileNavOverlay on:close={() => (isMobileNavOpen = false)} />
+    <MobileNavOverlay close={() => { isMobileNavOpen = false }} />
   {/if}
   <nav class="header-nav-desktop font-geom">
     <a
-      class="nav-link font-light font-geom"
-      class:font-semibold={isActive("/about")}
+      class="nav-link font-light"
+      class:nav-link--active={isActive("/about")}
       href="/about">about</a
     >
-    <a class="nav-link font-light font-geom" href="mailto:annamcingi@gmail.com"
+    <a class="nav-link font-light" href="mailto:annamcingi@gmail.com"
       >contact</a
     >
-    <a class="nav-link font-light font-geom" href="/cms/images/eng-jan-2024.pdf"
+    <a class="nav-link font-light" href="/cms/images/eng-jan-2024.pdf"
       >cv</a
     >
     <a
-      class="nav-link font-light font-geom"
+      class="nav-link font-light"
       href="/credits"
-      class:font-semibold={isActive("/credits")}>credits</a
+      class:nav-link--active={isActive("/credits")}>credits</a
     >
   </nav>
 </header>
@@ -56,37 +56,57 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    max-width: 1080px;
+    margin: auto;
+    padding: 10px;
   }
 
-  .main-link {
+  a {
     text-decoration: none;
+    color: inherit;
+  }
+  
+  @media (min-width: 840px) {
+    header {
+      padding: 20px;
+    }
+  }
+
+  .main-link-title {
+    font-family: "NewTitle", sans-serif;
+    font-weight: 200;
+    font-size: 44px;
+    line-height: 1;
+    letter-spacing: 1.5px;
     color: inherit;
     display: flex;
   }
 
-  .main-link-text {
-    font-family: "Quicksand", sans-serif;
-    font-size: 18px;
+  .main-link-subtitle {
+    font-size: 14px;
+    font-weight: 600;
+    color: inherit;
     line-height: 1.2;
     margin: 0;
   }
 
-  .main-link-text--bold {
-    font-weight: 600;
-  }
-
   .main-link-logo-container {
-    width: 40px;
-    height: 40px;
-    margin-right: 6px;
-    border-radius: 4px;
+    width: 54px;
+    height: 54px;
+    border-radius: 6px;
     background-color: #000;
     color: #fff;
   }
 
+  .main-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
   .main-link :global(svg) {
-    width: 40px;
-    height: 40px;
+    width: 100%;
+    height: 100%;
   }
 
   .header-nav-desktop {
@@ -106,12 +126,19 @@
 
   .nav-link {
     font-size: 18px;
+    padding: 0px 6px;
     color: inherit;
     text-decoration: none;
-    margin-left: 16px;
+    margin-left: 12px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease-in-out;
+  }
+
+  .nav-link--active {
+    background-color: var(--color-accent);
   }
 
   .nav-link:hover {
-    border-bottom: 1px solid currentColor;
+    background-color: var(--color-accent);
   }
 </style>

@@ -6,7 +6,8 @@
   .wings {
     text-align: center;
     max-width: 900px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   @media (min-width: 900px) {
