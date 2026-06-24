@@ -54,13 +54,13 @@ imgs:
     url: /cms/images/ernani-15.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Ádám Fischer**
 
 Director: **Sven-Eric Bechtolf**
 
 Set design: **Julian Crouch**
+
+> Set associate: **Anna Cingi**
 
 Costume design: **Kevin Pollard** 
 
