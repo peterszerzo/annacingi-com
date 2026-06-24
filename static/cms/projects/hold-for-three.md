@@ -38,7 +38,7 @@ imgs:
     credit: Kim Wichera @Hosek Contemporary
     url: /cms/images/hold-for-three_7.jpg
   - alt: hold for three (graphic)
-    credit: Kim Wichera @Hosek Contemporary
+    credit: Davide Luciani
     url: /cms/images/hold-for-three_8.jpg
 group: Performance
 ---
