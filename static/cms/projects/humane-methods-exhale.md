@@ -58,9 +58,7 @@ Light design and technical direction: **Andrea Familari**
 
 AI music system: **Marco Donnarumma**
 
-> Stage and costume design: 
->
-> **Anna Cingi**
+> Stage and costume design: **Anna Cingi**
 
 AI and machine learning: **Baptiste Caramiaux**, **Meredith Thomas**
 
