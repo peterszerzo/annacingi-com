@@ -47,21 +47,7 @@ imgs:
     url: /cms/images/resolution13.jpg
 group: Performance
 ---
-> Concept: 
->
-> **Marco Donnarumma**
->
-> , 
->
-> **Margherita Pevere**
->
-> , 
->
-> **Andrea Familari**
->
-> , 
->
-> **Anna Cingi**
+> Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
 
 Directing: **Marco Donnarumma**
 
@@ -73,11 +59,7 @@ Interactive Iight and video design, technical direction: **Andrea Familari**
 
 AI Music system and spatial sound design: **Marco Donnarumma**
 
-> Stage and costume design:
->
->  
->
-> **Anna Cingi**
+> Stage and costume design: **Anna Cingi**
 
 Symbionts oversight: **Margherita Pevere**
 
