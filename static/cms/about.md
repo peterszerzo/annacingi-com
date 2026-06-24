@@ -9,6 +9,8 @@ In 2019 she was awarded the Premio Tragos as up-and-coming set designer for Visi
 
 She currently lives between Milan and Berlin and works all around Europe and beyond.
 
+![](/cms/images/blank.jpg)
+
 > _‘Do you understand \[...] the profound meaning of that weakness, that passion for gaudy tissue-paper, papier-mâché, coloured lacquer, straw, and sawdust? It is \[...] our love for matter as such, for its downiness and porousness, its unique, mystical consistency.’_
 >
 > _Bruno Schulz, The Cinnamon Shops and Other Stories_
