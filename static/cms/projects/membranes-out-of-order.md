@@ -38,9 +38,11 @@ imgs:
     url: /cms/images/membranes12.jpg
 group: Installation
 ---
-`EXHIBITION DESIGNER`
-
 Artists & Curators: **Margherita** **Pevere**, **Theresa** **Schubert**, **Karolina** **Żyniewicz**
+
+> Exhibition designer: 
+>
+> **Anna Cingi**
 
 Project Management: **Tobias** **Oettel**
 
