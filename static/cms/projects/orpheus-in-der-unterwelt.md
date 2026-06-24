@@ -51,11 +51,7 @@ Directing: **Spymonkey** / **Toby** **Park**, **Aitor** **Basauri**
 
 Set and costume design: **Julian** **Crouch**
 
-> Set associate:
->
->  
->
-> **Anna Cingi**
+> Set associate: **Anna Cingi**
 
 Choreography: **Gail** **Skrela**
 
