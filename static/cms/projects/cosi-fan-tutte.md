@@ -45,13 +45,17 @@ imgs:
     url: /cms/images/cosi-fan-tutte12.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Zubin Metha**
 
 Director: **Sven-Eric Bechtolf**
 
 Set design: **Julian Crouch**
+
+> Set associate:
+>
+>  
+>
+> **Anna Cingi**
 
 Costume design: **Kevin Pollard** 
 
