@@ -45,13 +45,13 @@ imgs:
     url: /cms/images/helena12s.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Franz Welser-Möst**
 
 Director: **Sven-Eric Bechtolf**
 
 Set design: **Julian Crouch**
+
+> Set associate: **Anna Cingi**
 
 Costume design: **Mark Bouman** 
 
