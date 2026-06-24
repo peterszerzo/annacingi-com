@@ -45,13 +45,15 @@ imgs:
     url: /cms/images/alcina12.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Axel Kober**
 
 Stage director: **Lotte de Beer**
 
 Set design: **Christof Hetzer**
+
+> Set associate: 
+>
+> **Anna Cingi**
 
 Costume design: **Jorine Van Beek**
 
