@@ -40,9 +40,7 @@ group: Installation
 ---
 Artists & Curators: **Margherita** **Pevere**, **Theresa** **Schubert**, **Karolina** **Żyniewicz**
 
-> Exhibition designer: 
->
-> **Anna Cingi**
+> Exhibition designer: **Anna Cingi**
 
 Project Management: **Tobias** **Oettel**
 
