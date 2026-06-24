@@ -59,6 +59,8 @@ Director: **Sven-Eric Bechtolf**
 
 Set design: **Julian Crouch**
 
+> Set associate: **Anna Cingi**
+
 Costume design: **Kevin Pollard** 
 
 Light design: **Marco Filibeck**
