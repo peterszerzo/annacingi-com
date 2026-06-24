@@ -16,8 +16,6 @@ imgs:
     url: /cms/images/schneewittchen-3.jpg
 group: Opera
 ---
-`SHADOWPLAY DESIGN`
-
 Music direction: **Symeon** **Ioannidis**
 
 Stage direction: **Constanze** **Albert**, **Gail** **Skrela**
@@ -27,6 +25,8 @@ Set designer: **Claudia** **Noack**
 Costume designer: **Ingrid** **Leibezeder**
 
 Light design: **Simone** **Oestreicher**
+
+> Shadowplay: **Anna Cingi**
 
 Coreography: **Gail** **Skrela**
 
