@@ -34,13 +34,13 @@ imgs:
     url: /cms/images/karmafulminien-poster.jpg
 group: Theatre
 ---
-`SET & COSTUME DESIGN`
-
 Director: **Riccardo Pippa**
 
 Performers: **Luca Mammoli**, **Enrico** **Pittaluga**, **Graziano** **Sirressi**.
 
-Costume design: me & **Daniela** **De** **Blasio**
+> Set design: **Anna Cingi**
+>
+> Costume design: **Anna Cingi**, **Daniela De Blasio**
 
 Light design: **Danilo** **Deiana**.
 
