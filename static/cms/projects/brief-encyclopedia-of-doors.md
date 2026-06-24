@@ -82,6 +82,4 @@ First performed on 21st September 2025 in [Kulturnidom](https://www.artistiassoc
 >
 > A Brief Encyclopedia of Doors tells the story of the real—or imaginary—doors that shape our lives. It is a tragicomic catalogue of waiting, a roleplay, a dictionary of limits, an invitation to recognize ourselves as human in our fragilities rather than in our certainties.
 
-![](/cms/images/blank.jpg)
-
 I Gordi were awarded [Premio Hystrio Iceberg](https://www.hystrio.it/premio_hystrio/edizione-2019/) in 2019 and [Premio ANCT](https://www.criticiditeatro.it/2020/12/05/premio-della-critica-2020-teatro-dei-gordi/) in 2020.
