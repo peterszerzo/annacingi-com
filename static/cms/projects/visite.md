@@ -56,13 +56,7 @@ Costume design and masks: **Ilaria** **Ariemme**
 
 Dramaturgy: **Giulia** **Tollis** 
 
-> Set design: 
->
-> **Anna**
->
->  
->
-> **Cingi**
+> Set design: **Anna Cingi**
 
 Light design: **Paolo** **Casati**
 
