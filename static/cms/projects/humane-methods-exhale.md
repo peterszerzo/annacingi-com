@@ -50,8 +50,6 @@ imgs:
     url: /cms/images/exhale14_marco-donnarumma.jpg
 group: Performance
 ---
-`SET & COSTUME DESIGN`
-
 Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**.
 
 Performers: **Marco Donnarumma**, **Margherita Pevere**, **Hikaru and Maco Inagawa**/**4rude**, **Willian Lopes**, **Stefanie Wieser**.
@@ -59,6 +57,10 @@ Performers: **Marco Donnarumma**, **Margherita Pevere**, **Hikaru and Maco Inaga
 Light design and technical direction: **Andrea Familari**
 
 AI music system: **Marco Donnarumma**
+
+> Stage and costume design: 
+>
+> **Anna Cingi**
 
 AI and machine learning: **Baptiste Caramiaux**, **Meredith Thomas**
 
@@ -72,8 +74,8 @@ An original performance by [Fronte Vacuo](http://frontevacuo.com). Produced by V
 
 First performed on February 5th, 2022 in Radialsystem, Berlin, for CTM festival // [more information](https://www.ctm-festival.de/festival-2022/programme/features/humane-methods-sxhale)
 
-__
+![](/cms/images/blank.jpg)
 
-_ΣXHALE exposes algorithmic violence by questioning the responsibilities of both artificial intelligence and one‘s own. It is an ecosystem of catharsis, a biome whose very existence demands alternative forms of empathy and knowledge._
-
-_ΣXHALE is a rhizome of the Humane Methods project, an ongoing reflection on violence in algorithmic societies._
+> ΣXHALE exposes algorithmic violence by questioning the responsibilities of both artificial intelligence and one‘s own. It is an ecosystem of catharsis, a biome whose very existence demands alternative forms of empathy and knowledge.
+>
+> ΣXHALE is a rhizome of the Humane Methods project, an ongoing reflection on violence in algorithmic societies.
