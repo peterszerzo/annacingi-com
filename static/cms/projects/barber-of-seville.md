@@ -45,13 +45,13 @@ imgs:
     url: /cms/images/barber-of-seville-12.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Maurizio Benini**
 
 Stage director: **Lotte de Beer**
 
 Set and costume designer: **Julian Crouch**
+
+> Set associate: **Anna Cingi**
 
 Light design: **Alex Brok** 
 
