@@ -44,7 +44,21 @@ imgs:
     url: /cms/images/dissolution12_nikolaus_ostermann.jpg
 group: Performance
 ---
-Concept: **Marco Donnarumma**, **Margherita Pevere**, **Andrea Familari**, **Anna Cingi**
+> Concept: 
+>
+> **Marco Donnarumma**
+>
+> , 
+>
+> **Margherita Pevere**
+>
+> , 
+>
+> **Andrea Familari**
+>
+> , 
+>
+> **Anna Cingi**
 
 Directing: **Margherita Pevere**
 
@@ -53,6 +67,10 @@ Choreography and performance: **Marco Donnarumma**, **Margherita Pevere**
 Interactive Iight design, technical direction: **Andrea Familari**
 
 AI Music system and spatial sound design: **Marco Donnarumma**
+
+> Stage and costume design: 
+>
+> **Anna Cingi**
 
 AI computer vision system: **Meredith Thomas**
 
@@ -68,4 +86,4 @@ First performed on November 24th, 2022 in Sitzungzimmer, Volkstheater, Vienna //
 
 ![](/cms/images/blank.jpg)
 
-> _δISSOLUTION is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence._
+> δISSOLUTION is a high-tech dream within an analog nightmare. Through intense sensorial stimulation and radical haptic intimacy, the piece probes the relation of abjection, memory and care in times of climate catastrophe. Like a matryoshka, movement and space combine to open worlds inside worlds, where one’s own experience shifts between isolation and interdependence.
