@@ -4,6 +4,41 @@ title: Versuch über die nachhaltige Ordnung merkwürdiger Dinge
 openedAt: 2026-06-04T16:00:10.356Z
 tags:
   - ArtesMobiles
+thumbnailImg: /cms/images/versuch-thumbnail2.jpg
+imgs:
+  - alt: Versuch (main stage)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-20.jpg
+  - alt: Versuch (suitcase room)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-6.jpg
+  - alt: Versuch (suitcase room)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-7.jpg
+  - alt: Versuch (suitcase room)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-8.jpg
+  - alt: Versuch (walkways)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-11.jpg
+  - alt: Versuch (Costume room)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-12.jpg
+  - alt: Versuch (Finale)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-14.jpg
+  - alt: Versuch (Finale)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-13.jpg
+  - alt: Versuch (Finale)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-15.jpg
+  - alt: Versuch (Finale)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-18.jpg
+  - alt: Versuch (Finale)
+    credit: Robert Schittko
+    url: /cms/images/robert_schittko_copyright-17.jpg
 archived: false
 group: Theatre
 ---
