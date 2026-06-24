@@ -35,13 +35,13 @@ imgs:
     url: /cms/images/urlando-furiosa-09.jpg
 group: Theatre
 ---
-`COSTUME DESIGN`
-
 Director: **Riccardo** **Pippa**
 
 Performer: **Rita** **Pelusio**
 
 Scenic sculpture: **Simone** **Fersino**
+
+> Costume design: **Anna Cingi**
 
 Light design: **Paolo** **Casati**, 
 
