@@ -5,7 +5,7 @@ openedAt: 2025-09-21T18:00:04.522Z
 tags:
   - I Gordi
   - Riccardo Pippa
-thumbnailImg: /cms/images/nam_thumb1-copy.jpg
+thumbnailImg: /cms/images/bedp_thumb2.jpg
 imgs:
   - alt: brief encyclopedia of doors 1
     credit: Luca Chinaglia
