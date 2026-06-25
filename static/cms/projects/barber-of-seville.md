@@ -59,7 +59,7 @@ Coreography: **Zack Winokur**
 
 Dramaturgy: **Peter te Nuyl**
 
-Performers: **René Barbera, Nino Machaidze, Davide Luciano, Misha Kiria, Marko Mimica, Julietta Aleksanyan, Tomeu Bibiloni, Martin Mkhize**
+Cast: **René Barbera, Nino Machaidze, Davide Luciano, Misha Kiria, Marko Mimica, Julietta Aleksanyan, Tomeu Bibiloni, Martin Mkhize**
 
 Produced by Dutch National Opera and Ballet.
 
