@@ -8,16 +8,18 @@ tags:
 archived: true
 group: Opera
 ---
-Conductor: Nicola Luisotti / Giampaolo Bisanti
+Conductor: **Mārtiņš Ozoliņš**
 
-Director, set and costume designer: Marco Arturo Marelli
+Director: **Sven-Eric Bechtolf**
 
-Set associate:
+Set and costume designer: **Julian Crouch**
 
-Anna Cingi
+> Set associate: **Anna Cingi**
 
-Light designer: Marco Filibeck
+Light designer: **Māris Sējāns**
 
-First performed on May 4th, 2022 in Teatro alla Scala, Milan. // more information
+Performers: **Inga Šļubovska-Kancēviča/Katrīna Paula Felsberga/Annija Kristiāna Ādamsone/Lubov Karetnikova, Matteo Ivan Rašić/Mārtiņš Šmaukstelis/Levy Sekgapane/Mihails Čuļpajevs/Dainis Kalnačs, Misha Kiria/Rihards Mačanovskis, Rinalds Kandalincevs/Rihards Millers/Daniils Pogoriless, Katrīna Paula Felsberga/Laura Kancāne**
 
-Produced by Teatro alla Scala.
+Produced by [Latvian National Opera and Ballet](https://www.opera.lv/en/).
+
+First performed on May 23rd, 2024 in Latvian National Opera and Ballet, Riga // [more information](https://www.opera.lv/en/production/lelisir-damore/)
