@@ -5,7 +5,13 @@ openedAt: 2025-11-01T19:00:22.322Z
 tags:
   - ArtesMobiles
 thumbnailImg: /cms/images/liebding-thumbnail2.jpg
-imgs: []
+imgs:
+  - alt: 'liebding: booth'
+    credit: Anna Cingi
+    url: /cms/images/liebding_booth1_small.jpg
+  - alt: 'liebding: booth'
+    credit: Birk Schmithüsen
+    url: /cms/images/liebding_booth2_small.jpg
 archived: false
 group: Installation
 ---
