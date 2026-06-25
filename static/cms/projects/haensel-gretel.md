@@ -51,8 +51,6 @@ imgs:
     url: /cms/images/haensel-gretel-14.jpg
 group: Opera
 ---
-`SET ASSOCIATE`
-
 Conductor: **Marc Albrecht**
 
 Director: **Sven-Eric Bechtolf**
@@ -67,8 +65,10 @@ Light design: **Marco Filibeck**
 
 Video design: **Joshua Higgason**
 
-First performed on September 2nd, 2017 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=19493&id_event=29480&id_allest_conc=&uid=7bed6bb7-d894-469b-8da4-0cc045d5793c&objecttype=base)
+Performers: **Anna-Doris Capitelli, Dorothea Spilger, Mareike Jankowski, Chiara Isotton, Paolo Ingrasciotta, Enkeleda Kamani / Sara Rossini, Francesca Manzo / Céline Mellon**
 
 Produced by Teatro alla Scala.
 
-in 2018 Hänsel and Gretel was awarded [**Premio Abbiati**](http://www.classicvoice.com/rivista/mondo-classico/premio-abbiati-2018/) for Best Sets, Costumes, Lights and Video.
+First performed on September 2nd, 2017 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=19493&id_event=29480&id_allest_conc=&uid=7bed6bb7-d894-469b-8da4-0cc045d5793c&objecttype=base)
+
+In 2018 Hänsel and Gretel was awarded [**Premio Abbiati**](http://www.classicvoice.com/rivista/mondo-classico/premio-abbiati-2018/) for Best Sets, Costumes, Lights and Video.
