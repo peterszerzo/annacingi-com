@@ -16,6 +16,8 @@ imgs:
     url: /cms/images/liebding-2.jpg
   - alt: 'screenshot: user profile'
     url: /cms/images/liebding-3.jpg
+  - alt: 'screenshot: object profile'
+    url: /cms/images/liebding-1.jpg
 archived: false
 group: Installation
 ---
