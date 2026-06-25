@@ -70,6 +70,8 @@ Video design: **Filippo Marta**
 
 Coreography: **Lara Montanaro**
 
-First performed on September 29th, 2018 in Teatro alla Scala, Milan // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=20256&id_event=30165&id_allest_conc=&uid=bb792ccc-0349-43b0-94ed-bc4a9ed11fe3&objecttype=base)
+Performers: **Francesco Meli, Ailyn Pérez, Luca Salsi, Ildar Abdrazakov, Daria Cherniy, Matteo Desole, Alessandro Spina**
 
 Produced by Teatro alla Scala.
+
+First performed on September 29th, 2018 in Teatro alla Scala, Milan // [more information](https://www.teatroallascala.org/archivio/interpreti.aspx?lang=it-IT&id_allest=20256&id_event=30165&id_allest_conc=&uid=bb792ccc-0349-43b0-94ed-bc4a9ed11fe3&objecttype=base)
