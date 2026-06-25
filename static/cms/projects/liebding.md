@@ -4,7 +4,7 @@ title: Liebding
 openedAt: 2025-11-01T19:00:22.322Z
 tags:
   - ArtesMobiles
-thumbnailImg: /cms/images/liebding-thumbnail3.jpg
+thumbnailImg: /cms/images/liebding-thumbnail4-copy.jpg
 imgs:
   - alt: 'liebding: booth'
     credit: Anna Cingi
