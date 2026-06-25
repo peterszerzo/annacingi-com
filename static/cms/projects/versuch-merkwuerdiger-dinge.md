@@ -60,7 +60,7 @@ Interns: **Svenja Beilke, Martha Kapfhammer, Sophie Kuhl, Naïg Le Bec, Yevhenii
 
 Performers: **Anna Huberta Präg, Levent Kelleli, Isidora Soledad Gazmuri Donoso, Santiago Mariño, Micaela Odriozola Maglie**
 
-A production by [ArtesMobiles](https://www.artesmobiles.art) in co-production with Stadttheater Gießen, created as part of the project _Versuch über die nachhaltige Ordnung merkwürdiger Dinge_ (Attempt at the Sustainable Order of Curious Things) within the [Fonds Zero](https://www.kulturstiftung-des-bundes.de/de/projekte/detail/zero_klimaneutrale_kunst_und_kulturprojekte.html) program of the Kulturstiftung des Bundes.
+A production by [ArtesMobiles](https://www.artesmobiles.art) in co-production with Stadttheater Gießen, created as part of the project [_Versuch über die nachhaltige Ordnung merkwürdiger Dinge_](https://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/) (Essay on the Sustainable Order of Strange Things) within the [Fonds Zero](https://www.kulturstiftung-des-bundes.de/de/projekte/detail/zero_klimaneutrale_kunst_und_kulturprojekte.html) program of the Kulturstiftung des Bundes.
 
 First performed in [Stadtheater Gießen](https://stadttheater-giessen.de) on June 4th, 2026 // [more info](https://www.artesmobiles.art/produktionen/versuch)
 
