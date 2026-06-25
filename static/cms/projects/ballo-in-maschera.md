@@ -52,7 +52,7 @@ Director, set and costume designer: **Marco Arturo Marelli**
 
 Light designer: **Marco Filibeck**
 
-Performers: **Francesco Meli, Luca Salsi/ Ludovic Tézier, Sondra Radvanovsky, Yulia Matochkina/Okka von der Damerau, Federica Guida**
+Cast: **Francesco Meli, Luca Salsi / Ludovic Tézier, Sondra Radvanovsky, Yulia Matochkina / Okka von der Damerau, Federica Guida**
 
 Produced by Teatro alla Scala.
 
