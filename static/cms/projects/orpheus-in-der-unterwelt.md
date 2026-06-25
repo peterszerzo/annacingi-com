@@ -59,8 +59,10 @@ Light design: **Tim** **van't** **Hof**
 
 Video design: **Joshua** **Higgason**
 
-First performed on January 21st, 2023 in Volksoper, Vienna. // [more information](https://www.volksoper.at/produktion/orpheus-in-der-unterwelt-2023.de.html)
+Cast: **Karl-Michael Ebner, Hedwig Ritter, Ruth Brauer-Kvam / Eva Mayer, Timothy Fallon, Marco Di Sapia, Ursula Pfitzner, Jakob Semotan, Hannah Fheodoroff, Aaron Pendleton, Camila Aguilera Yáñez, Jaye Simmons, Susanne Gschwendtner, Caroline Richards, Sebastian Matt, Marcel Mohab, Georg Wacks, Liam Solbjerg, Kevin Perry, Jakob Semotan, Caroline Richards, Susanne Gschwendtner, Michal Chovanec, Ondřej Klíč, Sara Šoukal**
 
 Produced by Volksoper Wien.
+
+First performed on January 21st, 2023 in Volksoper, Vienna. // [more information](https://www.volksoper.at/produktion/orpheus-in-der-unterwelt-2023.de.html)
 
 Orpheus in der Unterwelt was awarded Beste Ausstattung/Österreichischer Musiktheaterpreis 2024.
