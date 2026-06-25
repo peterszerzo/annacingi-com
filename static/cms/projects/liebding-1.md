@@ -4,6 +4,8 @@ title: Liebding
 openedAt: 2025-11-01T19:00:22.322Z
 tags:
   - ArtesMobiles
+thumbnailImg: /cms/images/liebding-thumbnail1.jpg
+imgs: []
 archived: true
 group: Installation
 ---
