@@ -1,6 +1,6 @@
 ---
 id: humane-methods-dissolution
-title: h. m. / DISSOLUTION
+title: DISSOLUTION / humane methods
 openedAt: 2022-11-24T17:30:30.622Z
 tags:
   - Fronte Vacuo
