@@ -32,6 +32,8 @@ Coreography: **Gail** **Skrela**
 
 Dramaturgy: **Benjamin** **Wäntig**
 
+Cast: **Regina Koncz / Álfheiður Erla Guðmundsdóttir, Rebecka Wallroth / Constanze Jader, Rory Green / Zachary Wilson**
+
 First performed on March 13th, 2019 in Staatsoper Unter Der Linden, Berlin // [more information](https://www.staatsoper-berlin.de/de/veranstaltungen/schneewittchen.2763/)
 
 Produced by Staatsoper Unter Der Linden.
