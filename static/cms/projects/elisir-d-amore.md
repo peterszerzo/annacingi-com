@@ -9,7 +9,7 @@ thumbnailImg: /cms/images/elisir-thumbnail2.jpg
 imgs:
   - credit: Agnese Zeltiņa
     url: /cms/images/elisir1.jpg
-archived: true
+archived: false
 group: Opera
 ---
 Conductor: **Mārtiņš Ozoliņš**
