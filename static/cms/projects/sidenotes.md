@@ -5,7 +5,7 @@ openedAt: 2024-06-27T18:00:20.164Z
 tags:
   - I Gordi
   - Riccardo Pippa
-thumbnailImg: /cms/images/nam_thumb2.jpg
+thumbnailImg: /cms/images/nam_thumb1-copy.jpg
 imgs:
   - alt: sidenotes (stage)
     credit: Luca Del Pia
