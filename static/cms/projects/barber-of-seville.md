@@ -59,6 +59,8 @@ Coreography: **Zack Winokur**
 
 Dramaturgy: **Peter te Nuyl**
 
-First performed on November 10th, 2018 in Dutch National Opera and Ballet, Amsterdam // [more information](https://www.operaballet.nl/en/opera/2018-2019/show/il-barbiere-siviglia)
+Performers: **René Barbera, Nino Machaidze, Davide Luciano, Misha Kiria, Marko Mimica, Julietta Aleksanyan, Tomeu Bibiloni, Martin Mkhize**
 
 Produced by Dutch National Opera and Ballet.
+
+First performed on November 10th, 2018 in Dutch National Opera and Ballet, Amsterdam // [more information](https://www.operaballet.nl/en/opera/2018-2019/show/il-barbiere-siviglia)
