@@ -12,6 +12,8 @@ imgs:
   - alt: 'liebding: booth'
     credit: Birk Schmithüsen
     url: /cms/images/liebding_booth2_small.jpg
+  - alt: 'screenshot: starting page'
+    url: /cms/images/liebding-2.jpg
 archived: false
 group: Installation
 ---
