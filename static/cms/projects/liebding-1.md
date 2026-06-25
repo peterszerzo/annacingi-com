@@ -14,6 +14,8 @@ imgs:
     url: /cms/images/liebding_booth2_small.jpg
   - alt: 'screenshot: starting page'
     url: /cms/images/liebding-2.jpg
+  - alt: 'screenshot: user profile'
+    url: /cms/images/liebding-3.jpg
 archived: false
 group: Installation
 ---
