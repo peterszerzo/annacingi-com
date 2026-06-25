@@ -18,7 +18,7 @@ Set and costume designer: **Julian Crouch**
 
 Light designer: **Māris Sējāns**
 
-Performers: **Inga Šļubovska-Kancēviča/Katrīna Paula Felsberga/Annija Kristiāna Ādamsone/Lubov Karetnikova, Matteo Ivan Rašić/Mārtiņš Šmaukstelis/Levy Sekgapane/Mihails Čuļpajevs/Dainis Kalnačs, Misha Kiria/Rihards Mačanovskis, Rinalds Kandalincevs/Rihards Millers/Daniils Pogoriless, Katrīna Paula Felsberga/Laura Kancāne**
+Cast: **Inga Šļubovska-Kancēviča / Katrīna Paula Felsberga / Annija Kristiāna Ādamsone / Lubov Karetnikova, Matteo Ivan Rašić / Mārtiņš Šmaukstelis / Levy Sekgapane / Mihails Čuļpajevs / Dainis Kalnačs, Misha Kiria / Rihards Mačanovskis, Rinalds Kandalincevs / Rihards Millers / Daniils Pogoriless, Katrīna Paula Felsberga / Laura Kancāne**
 
 Produced by [Latvian National Opera and Ballet](https://www.opera.lv/en/).
 
