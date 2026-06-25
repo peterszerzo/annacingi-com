@@ -1,17 +1,17 @@
 ---
 portraitUrl: /cms/images/img_9548_frame.jpg
 ---
-Anna Maddalena Cingi is a designer, artist and all-around tinkerer who has been working in the fields of theatre, opera and multimedia performance since 2014, focusing on storytelling through space and on the expressive use of clutter, texture, and materiality.
+Anna Maddalena Cingi is a designer, artist, and all-around tinkerer whose work spans theatre, opera, and multimedia performance. She focuses on storytelling through space, exploring the expressive potential of clutter, texture, and materiality.
 
-She grew up in Reggio Emilia (Italy), and studied stage, costume and puppet design at Brera Academy of Fine Arts and then at Accademia Teatro alla Scala. Since then, she has been working nomadically for theatres everywhere, such as Wiener Volkstheater, Stadttheater Gießen, Artisti Associati , Teatro Franco Parenti, Biennale Teatro di Venezia, CTM festival, PACT Zollverein, Teatro Alla Scala, Wiener Volksoper, Latvian National Opera, Oper am Rhein, and more. 
+Raised in Reggio Emilia, she studied stage, costume, and puppet design at Brera Academy of Fine Arts before continuing her training at Accademia Teatro alla Scala. Since then, she has worked internationally and nomadically, collaborating with institutions including Wiener Volkstheater, Stadttheater Gießen, Artisti Associati, Teatro Franco Parenti, Biennale Teatro di Venezia, CTM Festival, PACT Zollverein, Teatro alla Scala, Wiener Volksoper, Latvian National Opera, and Deutsche Oper am Rhein, among others.
 
-In 2019 she was awarded the Premio Tragos as up-and-coming set designer for Visite (I Gordi/Teatro Franco Parenti).
+In 2019, she received the Premio Tragos for Best Emerging Set Designer for Visite (I Gordi/Teatro Franco Parenti).
 
-She currently lives between Milan and Berlin and works all around Europe and beyond.
+She currently lives between Milan and Berlin, working throughout Europe and beyond.
 
 ![](/cms/images/blank.jpg)
 
-> _‘Do you understand \[...] the profound meaning of that weakness, that passion for gaudy tissue-paper, papier-mâché, coloured lacquer, straw, and sawdust? It is \[...] our love for matter as such, for its downiness and porousness, its unique, mystical consistency.’_
+> _We give precedence to junk. We are simply rapt by it, entranced by the cheapness, the paltriness, the tawdriness of the material. Do you understand, \[...] the profound meaning of that weakness, that passion for gaudy tissue-paper, papier-mâché, coloured lacquer, straw, and sawdust? It is,” he said with a pained smile, “our love for matter as such, for its downiness and porousness, its unique, mystical consistency. Demiurgus, that renowned master and artist, hides it away, causes it to vanish behind life’s make-believe. We, to the contrary, love its abrasiveness, its unruliness, its rag doll ungainliness. Behind each gesture, each movement, we like to see its exertion, its torpor, its sweet ursinality.”_
 >
 > _Bruno Schulz, The Cinnamon Shops and Other Stories_
 
