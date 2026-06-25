@@ -65,7 +65,7 @@ Light design: **Marco Filibeck**
 
 Video design: **Joshua Higgason**
 
-Performers: **Anna-Doris Capitelli, Dorothea Spilger, Mareike Jankowski, Chiara Isotton, Paolo Ingrasciotta, Enkeleda Kamani / Sara Rossini, Francesca Manzo / Céline Mellon**
+Cast: **Anna-Doris Capitelli, Dorothea Spilger, Mareike Jankowski, Chiara Isotton, Paolo Ingrasciotta, Enkeleda Kamani / Sara Rossini, Francesca Manzo / Céline Mellon**
 
 Produced by Teatro alla Scala.
 
