@@ -5,6 +5,10 @@ openedAt: 2024-05-23T18:00:02.039Z
 tags:
   - Julian Crouch
   - Sven Bechtolf
+thumbnailImg: /cms/images/elisir-thumbnail2.jpg
+imgs:
+  - credit: Agnese Zeltiņa
+    url: /cms/images/elisir1.jpg
 archived: true
 group: Opera
 ---
