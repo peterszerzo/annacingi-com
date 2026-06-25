@@ -6,6 +6,43 @@ tags:
   - Julian Crouch
   - Spymonkey
 thumbnailImg: /cms/images/pirates-thumbnail2.jpg
+imgs:
+  - alt: '"Pour, oh pour, the pirate sherry"'
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates1b.jpg
+  - alt: '"Climbing over rocky mountain" '
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates3b1.jpg
+  - alt: '"Stay, we must not lose our senses" '
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates4b.jpg
+  - alt: '"Pray observe the magnanimity"'
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates4b3.jpg
+  - alt: Intermezzo
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates5b.jpg
+  - alt: ' "Oh, dry the glist''ning tear"'
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates6b.jpg
+  - alt: '"When the foeman bares his steel" '
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates7b.jpg
+  - alt: Wind ballet
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates9a.jpg
+  - alt: '"Hush, hush, not a word!'
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates10b.jpg
+  - alt: '"Now what is this, and what is that?"'
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates10a.jpg
+  - alt: '"You/We triumph now"'
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates11b1.jpg
+  - alt: Finale
+    credit: Barbara Pálffy/Volksoper Wien
+    url: /cms/images/pirates11b2.jpg
 archived: false
 group: Opera
 ---
