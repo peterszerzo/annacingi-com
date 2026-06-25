@@ -5,7 +5,8 @@ openedAt: 2026-03-27T19:00:02.039Z
 tags:
   - Julian Crouch
   - Spymonkey
-archived: true
+thumbnailImg: /cms/images/pirates-thumbnail2.jpg
+archived: false
 group: Opera
 ---
 Conductor: **Chloe Rooke**
