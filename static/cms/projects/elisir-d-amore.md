@@ -42,9 +42,6 @@ imgs:
     url: /cms/images/elisir11a.jpg
   - alt: 'L''elisir d''amore: Ei corregge ogni difetto / Va'', mortale'
     credit: Agnese Zeltiņa
-    url: /cms/images/elisir11b.jpg
-  - alt: 'L''elisir d''amore: Ei corregge ogni difetto / Va'', mortale'
-    credit: Agnese Zeltiņa
     url: /cms/images/elisir12.jpg
 archived: false
 group: Opera
