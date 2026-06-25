@@ -61,7 +61,7 @@ Video design: **Torge Möller**
 
 Dramaturgy: **Anne Melcher**
 
-Performers: **Jacquelyn Wagner, Maria Kataeva, Elena Sancho Pereg, Wallis Giunta, Andrés Sulbarán, Beniamin Pop, Maria Carla Pino Cury**
+Cast: **Jacquelyn Wagner, Maria Kataeva, Elena Sancho Pereg, Wallis Giunta, Andrés Sulbarán, Beniamin Pop, Maria Carla Pino Cury**
 
 Produced by Deutsche Oper am Rhein.
 
