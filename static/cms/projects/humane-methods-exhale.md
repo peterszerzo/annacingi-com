@@ -1,6 +1,6 @@
 ---
 id: humane-methods-exhale
-title: h. m. / EXHALE
+title: EXHALE / humane methods
 openedAt: 2022-02-04T18:00:40.211Z
 tags:
   - Fronte Vacuo
