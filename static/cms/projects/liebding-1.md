@@ -18,6 +18,11 @@ imgs:
     url: /cms/images/liebding-3.jpg
   - alt: 'screenshot: object profile'
     url: /cms/images/liebding-1.jpg
+  - alt: 'screenshot: screensaver'
+    credit: screensaver animation by Anna Cingi and Meredith Thomas
+    url: /cms/images/liebding_screen.jpg
+  - alt: 'screenshot: conversation'
+    url: /cms/images/liebding_sg1.jpg
 archived: false
 group: Installation
 ---
