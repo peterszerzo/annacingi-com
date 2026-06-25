@@ -4,7 +4,7 @@ title: Liebding
 openedAt: 2025-11-01T19:00:22.322Z
 tags:
   - ArtesMobiles
-archived: false
+archived: true
 group: Installation
 ---
 Directing: **Nina Stemberger**
