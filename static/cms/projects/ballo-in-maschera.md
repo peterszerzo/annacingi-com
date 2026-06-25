@@ -48,12 +48,12 @@ Conductor: **Nicola Luisotti** / **Giampaolo Bisanti**
 
 Director, set and costume designer: **Marco Arturo Marelli**
 
-> Set associate: 
->
-> **Anna Cingi**
+> Set associate: **Anna Cingi**
 
 Light designer: **Marco Filibeck**
 
-First performed on May 4th, 2022 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/en/season/2021-2022/opera/ballo-in-maschera.html)
+Performers: **Francesco Meli, Luca Salsi/ Ludovic Tézier, Sondra Radvanovsky, Yulia Matochkina/Okka von der Damerau, Federica Guida**
 
 Produced by Teatro alla Scala.
+
+First performed on May 4th, 2022 in Teatro alla Scala, Milan. // [more information](https://www.teatroallascala.org/en/season/2021-2022/opera/ballo-in-maschera.html)
