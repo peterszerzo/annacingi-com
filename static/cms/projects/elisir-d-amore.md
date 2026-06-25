@@ -7,8 +7,45 @@ tags:
   - Sven Bechtolf
 thumbnailImg: /cms/images/elisir-thumbnail2.jpg
 imgs:
-  - credit: Agnese Zeltiņa
+  - alt: 'L''elisir d''amore: quanto è bella'
+    credit: Agnese Zeltiņa
     url: /cms/images/elisir1.jpg
+  - alt: 'L''elisir d''amore: Una parola'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir2.jpg
+  - alt: 'L''elisir d''amore: Una parola'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir3.jpg
+  - alt: 'L''elisir d''amore: Udite udite o rustici'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir4.jpg
+  - alt: 'L''elisir d''amore: Udite udite o rustici'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir5.jpg
+  - alt: 'L''elisir d''amore: Esulti pur la barbara'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir6.jpg
+  - alt: 'L''elisir d''amore: In guerra ed in amore'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir7.jpg
+  - alt: 'L''elisir d''amore: Finale I'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir8.jpg
+  - alt: 'L''elisir d''amore: Saria possibile?'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir9.jpg
+  - alt: 'L''elisir d''amore: Una furtiva lagrima'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir10.jpg
+  - alt: 'L''elisir d''amore: Ei corregge ogni difetto / Va'', mortale'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir11a.jpg
+  - alt: 'L''elisir d''amore: Ei corregge ogni difetto / Va'', mortale'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir11b.jpg
+  - alt: 'L''elisir d''amore: Ei corregge ogni difetto / Va'', mortale'
+    credit: Agnese Zeltiņa
+    url: /cms/images/elisir12.jpg
 archived: false
 group: Opera
 ---
