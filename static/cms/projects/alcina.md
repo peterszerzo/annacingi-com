@@ -51,9 +51,7 @@ Stage director: **Lotte de Beer**
 
 Set design: **Christof Hetzer**
 
-> Set associate: 
->
-> **Anna Cingi**
+> Set associate: **Anna Cingi**
 
 Costume design: **Jorine Van Beek**
 
@@ -63,6 +61,8 @@ Video design: **Torge Möller**
 
 Dramaturgy: **Anne Melcher**
 
-First performed on February 14th, 2020 in Deutsche Oper am Rhein, Düsseldorf. // [more information](https://operamrhein.de/en_EN/termin/alcina.16007078)
+Performers: **Jacquelyn Wagner, Maria Kataeva, Elena Sancho Pereg, Wallis Giunta, Andrés Sulbarán, Beniamin Pop, Maria Carla Pino Cury**
 
 Produced by Deutsche Oper am Rhein.
+
+First performed on February 14th, 2020 in Deutsche Oper am Rhein, Düsseldorf. // [more information](https://operamrhein.de/en_EN/termin/alcina.16007078)
