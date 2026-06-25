@@ -3,7 +3,7 @@ portraitUrl: /cms/images/img_9548_frame.jpg
 ---
 Anna Maddalena Cingi is a designer, artist, and all-around tinkerer whose work spans theatre, opera, and multimedia performance. She focuses on storytelling through space, exploring the expressive potential of clutter, texture, and materiality.
 
-Originally from Reggio Emilia, she studied stage, costume, and puppet design at Brera Academy of Fine Arts before continuing her training at Accademia Teatro alla Scala. Since then, she has worked internationally and nomadically, collaborating with institutions including Wiener Volkstheater, Stadttheater Gießen, Artisti Associati, Teatro Franco Parenti, Biennale Teatro di Venezia, CTM Festival, PACT Zollverein, Teatro alla Scala, Wiener Volksoper, Latvian National Opera, and Deutsche Oper am Rhein, among others. In 2019, she received the Premio Tragos for Best Emerging Set Designer for Visite (I Gordi/Teatro Franco Parenti).
+Originally from Reggio Emilia, Italy, she studied stage, costume, and puppet design at Brera Academy of Fine Arts before continuing her training at Teatro alla Scala. Since then, she has worked internationally and nomadically. In 2019, she received the Premio Tragos for Best Emerging Set Designer for Visite (I Gordi/Teatro Franco Parenti).
 
 Based between Milan and Berlin, she works wherever the next project takes her.
 
