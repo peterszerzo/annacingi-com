@@ -23,7 +23,7 @@ imgs:
     url: /cms/images/liebding_screen.jpg
   - alt: 'screenshot: conversation'
     url: /cms/images/liebding_sg1.jpg
-archived: false
+archived: true
 group: Installation
 ---
 Directing: **Nina Stemberger**
