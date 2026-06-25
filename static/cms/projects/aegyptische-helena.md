@@ -57,7 +57,7 @@ Costume design: **Mark Bouman**
 
 Light design: **Fabrice Kebour**
 
-Performers: **Ricarda Merbeth, Andreas Schager, Eva Mei, Thomas Hampson, Attilio Glaser, Claudia Huckle, Caterina Maria Sala**
+Cast: **Ricarda Merbeth, Andreas Schager, Eva Mei, Thomas Hampson, Attilio Glaser, Claudia Huckle, Caterina Maria Sala**
 
 First performed on November 6th, 2019 in Teatro alla Scala, Milan // [more information](http://www.teatroallascala.org/en/season/2018-2019/opera/die-agyptische-helena.html).
 
