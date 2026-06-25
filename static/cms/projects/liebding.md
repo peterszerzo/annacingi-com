@@ -20,7 +20,7 @@ imgs:
     url: /cms/images/liebding-1.jpg
   - alt: 'screenshot: screensaver'
     credit: screensaver animation by Anna Cingi and Meredith Thomas
-    url: /cms/images/liebding_screen.jpg
+    url: /cms/images/liebdingscreensaver.jpg
   - alt: 'screenshot: conversation'
     url: /cms/images/liebding_sg1.jpg
 archived: false
