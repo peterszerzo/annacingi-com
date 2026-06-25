@@ -45,7 +45,7 @@ imgs:
     url: /cms/images/cosi-fan-tutte12.jpg
 group: Opera
 ---
-Conductor: **Zubin Metha**
+Conductor: **Zubin Metha/Ádám Fischer**
 
 Director: **Sven-Eric Bechtolf**
 
@@ -59,6 +59,8 @@ Light design: **Alex Brok**
 
 Projection design: **Josh Higgason**
 
-First performed on March 28th, 2020 in Teatro del Maggio, Florence // [more information](https://www.maggiofiorentino.com/en/events/24077/).
+Performers: **Valentina Naforniţa, Vasilisa Berzhanskaya, Matthew Swensen, Mattia Olivieri/Markus Werba, Benedetta Torre, Thomas Hampson**
 
 Produced by Maggio Musicale Fiorentino.
+
+First performed on March 28th, 2020 in Teatro del Maggio, Florence // [more information](https://www.maggiofiorentino.com/en/events/24077/).
