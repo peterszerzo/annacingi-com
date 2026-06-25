@@ -70,7 +70,7 @@ Video design: **Filippo Marta**
 
 Coreography: **Lara Montanaro**
 
-Performers: **Francesco Meli, Ailyn Pérez, Luca Salsi, Ildar Abdrazakov, Daria Cherniy, Matteo Desole, Alessandro Spina**
+Cast: **Francesco Meli, Ailyn Pérez, Luca Salsi, Ildar Abdrazakov, Daria Cherniy, Matteo Desole, Alessandro Spina**
 
 Produced by Teatro alla Scala.
 
