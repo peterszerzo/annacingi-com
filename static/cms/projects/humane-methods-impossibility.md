@@ -1,6 +1,6 @@
 ---
 id: humane-methods-impossibility
-title: H. M. / Impossibility
+title: Impossibility / humane methods
 openedAt: 2023-03-24T16:00:36.081Z
 tags:
   - Fronte Vacuo
