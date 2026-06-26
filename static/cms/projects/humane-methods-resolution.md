@@ -1,6 +1,6 @@
 ---
 id: humane-methods-resolution
-title: resolution / humane methods
+title: humane methods / resolution
 openedAt: 2023-05-19T17:00:09.066Z
 tags:
   - Fronte Vacuo
