@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-  <title>About Anna</title>
+  <title>About</title>
 </svelte:head>
 
 <div class="about-container">

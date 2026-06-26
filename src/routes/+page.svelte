@@ -13,7 +13,7 @@
 </script>
 
 <svelte:head>
-  <title>Anna Cingi | Set Designer</title>
+  <title>Portfolio</title>
 </svelte:head>
 
 <Wings>

@@ -16,6 +16,10 @@
   let { data }: Props = $props();
 </script>
 
+<svelte:head>
+  <title>Credits</title>
+</svelte:head>
+
 <WingTitle title="Credits" tags={[]} />
 
 <div class="credits">
