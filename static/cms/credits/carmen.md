@@ -1,6 +1,6 @@
 ---
 title: Carmen
-role: set assistant
+role: set design assistant
 description: >-
   Directed by Gabriela Carrizo (Peeping Tom), set design by Christof Hetzer.
   Produced by Salzburger Festspiele, Salzburg.
