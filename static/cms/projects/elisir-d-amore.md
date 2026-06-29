@@ -5,7 +5,7 @@ openedAt: 2024-05-23T18:00:02.039Z
 tags:
   - Julian Crouch
   - Sven Bechtolf
-thumbnailImg: /cms/images/elisir-thumbnail3-copy.jpg
+thumbnailImg: /cms/images/elisir-thumbnail5.jpg
 imgs:
   - alt: 'L''elisir d''amore: quanto è bella'
     credit: Agnese Zeltiņa
