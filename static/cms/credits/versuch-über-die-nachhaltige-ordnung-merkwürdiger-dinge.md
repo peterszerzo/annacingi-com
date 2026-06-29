@@ -1,6 +1,6 @@
 ---
 title: Versuch über die nachhaltige Ordnung merkwürdiger Dinge
-role: Set designer
+role: set designer
 description: >-
   Directed by Nina Maria Stemberger & Birk Schmithüsen. Produced by ArtesMobiles
   in co-production with Stadttheater Gießen and Fonds Zero (Kulturstiftung des
