@@ -39,7 +39,7 @@ imgs:
     url: /cms/images/hold-for-three_7.jpg
   - alt: hold for three (graphic)
     credit: Davide Luciani
-    url: /cms/images/hold-for-three_8.jpg
+    url: /cms/images/hold-for-three-poster.jpeg
 group: Performance
 ---
 Initial concept & performance, object design assistance: **Lottie Sebes**
