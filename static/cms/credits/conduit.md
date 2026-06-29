@@ -1,6 +1,6 @@
 ---
 title: Conduit
-role: Harness design and construction
+role: harness design and construction
 description: >-
   Original performance by and with Lottie Sebes. Performed in  Silent Green
   Kunstquartier, Berlin.
