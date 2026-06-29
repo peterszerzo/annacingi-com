@@ -1,6 +1,6 @@
 ---
 title: Faust
-role: set assistant
+role: set design assistant
 description: >-
   Directed by Lotte de Beer, set design by Christof Hetzer. Produced by
   Bayerische Staatsoper and Teatr Wielki-Opera Narodowa, Warschau
