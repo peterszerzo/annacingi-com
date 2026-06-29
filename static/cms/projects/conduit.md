@@ -4,7 +4,7 @@ title: Conduit
 openedAt: 2025-12-13T19:00:49.376Z
 tags:
   - Lottie Sebes
-thumbnailImg: /cms/images/conduit_thumb2.jpg
+thumbnailImg: /cms/images/conduit_thumb3.jpg
 imgs:
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
