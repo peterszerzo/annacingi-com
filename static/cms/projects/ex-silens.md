@@ -13,9 +13,7 @@ music and programming: **Marco Donnarumma**
 
 Prostheses’ concept, morphology, engineering, fabrication and AI programming: **Marco Donnarumma**
 
-Collaborative research on hardware and AI software: **Intelligent Instruments Lab at**
-
-**the Iceland University of the Arts**
+Collaborative research on hardware and AI software: **Intelligent Instruments Lab at the Iceland University of the Arts**
 
 > Stage design: **Marco Donnarumma, Anna Cingi**
 
@@ -25,13 +23,11 @@ Light design: **Andrea Familari**
 
 Additional prostheses’ 3D modelling and 3D printing: **Christian Schmidts**
 
-Collaborative research group: **Wojciech Czernia, Adriane Große, Ann-Catrin Gruber,**
-
-**Martin Holst, Mara Matzke**
+Collaborative research group: **Wojciech Czernia, Adriane Große, Ann-Catrin Gruber, Martin Holst, Mara Matzke**
 
 Artwork’s description texts: **Marco Donnarumma**
 
-Live photography: **Eunice Maurice, Stefanie Kulisch for CTM Festival**
+Live photography: **Eunice Maurice, Stefanie Kulisch** for CTM Festival
 
 Photography: **Manuel Vason**
 
