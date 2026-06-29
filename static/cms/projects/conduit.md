@@ -4,7 +4,39 @@ title: Conduit
 openedAt: 2025-12-13T19:00:49.376Z
 tags:
   - Lottie Sebes
-archived: true
+thumbnailImg: /cms/images/conduit_thumb.jpg
+imgs:
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit1.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit2.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit3.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit4.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit5.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit6.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit7.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit8.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit9.jpg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit10.jpg
+archived: false
 group: Performance
 ---
 Directing, concept, instrument design and construction, performing: **Lottie Sebes**
