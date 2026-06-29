@@ -1,6 +1,6 @@
 ---
 title: Pirates of Penzance
-role: Set associate
+role: set associate
 description: >-
   Directed by Spymonkey: Toby Park, Aitor Basauri, set design by Julian Crouch.
   Produced by Volksoper, Vienna.
