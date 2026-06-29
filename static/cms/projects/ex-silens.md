@@ -4,7 +4,45 @@ title: Ex Silens
 openedAt: 2023-09-22T16:30:59.164Z
 tags:
   - Marco Donnarumma
-archived: true
+thumbnailImg: /cms/images/ex_silens_thumb3.jpg
+imgs:
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens0.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens0b.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens1.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens2-m.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens3.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens12.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens4.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens5.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens6.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens7.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens8.jpg
+  - alt: ex silens
+    credit: 'Eunice Maurice, Stefanie Kulisch'
+    url: /cms/images/ex-silens10.jpg
+archived: false
 group: Performance
 ---
 Concept, artistic direction, performance, choreography, dramaturgy, interactive AI
