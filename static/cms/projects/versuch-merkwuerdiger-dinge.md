@@ -4,7 +4,7 @@ title: Versuch über die nachhaltige Ordnung merkwürdiger Dinge
 openedAt: 2026-06-04T16:00:10.356Z
 tags:
   - ArtesMobiles
-thumbnailImg: /cms/images/versuch-thumbnail1.jpg
+thumbnailImg: /cms/images/versuch-thumbnail4.jpg
 imgs:
   - alt: Versuch (main stage)
     credit: Robert Schittko
