@@ -39,7 +39,7 @@ imgs:
 archived: false
 group: Performance
 ---
-Directing, concept, instrument design and construction, performing: **Lottie Sebes**
+Concept, instrument design and construction, performing: **Lottie Sebes**
 
 > Harness design and construction: **Anna Cingi**
 
