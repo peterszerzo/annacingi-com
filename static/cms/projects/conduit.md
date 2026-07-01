@@ -8,34 +8,34 @@ thumbnailImg: /cms/images/conduit_thumb3.jpg
 imgs:
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit1.jpg
+    url: /cms/images/conduit01.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit2.jpg
+    url: /cms/images/conduit02.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit3.jpg
+    url: /cms/images/conduit05.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit4.jpg
+    url: /cms/images/conduit07.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit5.jpg
+    url: /cms/images/conduit09.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit6.jpg
+    url: /cms/images/conduit10.jpeg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
+    url: /cms/images/conduit11.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
     url: /cms/images/conduit7.jpg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit8.jpg
+    url: /cms/images/conduit13.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
-    url: /cms/images/conduit9.jpg
-  - alt: conduit by Lottie Sebes
-    credit: Oolongradio
-    url: /cms/images/conduit10.jpg
+    url: /cms/images/conduit14.jpeg
 archived: false
 group: Performance
 ---
