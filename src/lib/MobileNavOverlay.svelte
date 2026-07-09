@@ -5,10 +5,11 @@
   import Logo from "./Logo.svelte";
 
   interface Props {
-    close: () => void
+    cvUrl: string;
+    close: () => void;
   }
 
-  let { close }: Props = $props();
+  let { cvUrl, close }: Props = $props();
 
   onMount(() => {
     document.body.style.overflowY = "hidden";
@@ -27,7 +28,7 @@
     <a onclick={close} href="/">home</a>
     <a onclick={close} href="/about">about</a>
     <a onclick={close} href="mailto:annamcingi@gmail.com">contact</a>
-    <a onclick={close} href="/cms/images/eng-jan-2024.pdf">cv</a>
+    <a onclick={close} href={cvUrl}>cv</a>
     <a onclick={close} href="/credits">credits</a>
     <div class="logo-container"><Logo /></div>
   </div>

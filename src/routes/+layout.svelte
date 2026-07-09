@@ -2,13 +2,22 @@
   import { navigating } from "$app/state";
   import Header from "$lib/Header.svelte";
   import Footer from "$lib/Footer.svelte";
+
+  interface Props {
+    data: {
+      cvUrl: string
+    }
+    children: any;
+  }
+
+  let { data, children }: Props = $props();
 </script>
 
 <div class="container space-y-lg" class:container--active={!navigating.complete}>
-  <Header />
+  <Header cvUrl={data.cvUrl} />
 
   <main class="content space-y-lg">
-    <slot />
+    {@render children()}
   </main>
 
   <Footer />

@@ -6,6 +6,12 @@
 
   let isMobileNavOpen = $state(false);
 
+  interface Props {
+    cvUrl: string;
+  }
+
+  let { cvUrl }: Props = $props();
+
   let isActive = $derived((linkPath: string) => {
     return [linkPath, `${linkPath}/`].indexOf(page.url.pathname) > -1;
   });
@@ -29,7 +35,7 @@
     />
   </nav>
   {#if isMobileNavOpen}
-    <MobileNavOverlay close={() => { isMobileNavOpen = false }} />
+    <MobileNavOverlay cvUrl={cvUrl} close={() => { isMobileNavOpen = false }} />
   {/if}
   <nav class="header-nav-desktop font-geom">
     <a
@@ -40,7 +46,7 @@
     <a class="nav-link font-light" href="mailto:annamcingi@gmail.com"
       >contact</a
     >
-    <a class="nav-link font-light" href="/cms/images/eng-jan-2024.pdf"
+    <a class="nav-link font-light" href={cvUrl}
       >cv</a
     >
     <a
