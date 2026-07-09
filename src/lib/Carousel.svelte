@@ -19,8 +19,8 @@
   };
 
   const handleKeyDown = (ev: KeyboardEvent) => {
-    if (ev.key === "ArrowRight") next();
-    else if (ev.key === "ArrowLeft") prev();
+    if (ev.key === "ArrowRight" && !ev.metaKey && !ev.ctrlKey) next();
+    else if (ev.key === "ArrowLeft" && !ev.metaKey && !ev.ctrlKey) prev();
   };
 
   let dragOffset = $state(0);

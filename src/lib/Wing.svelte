@@ -8,6 +8,8 @@
   
   let { project }: Props = $props();
 
+  let loaded: boolean = $state(false);
+
   let openingYear = $derived(new Date(project.openedAt).getFullYear());
   let openingMonth = $derived(new Date(project.openedAt).getMonth() + 1);
 
@@ -18,7 +20,7 @@
       .map((i) => range(m).map((j) => [i, j]))
       .reduce((accumulator, current) => [...accumulator, ...current], []);
 
-  let grid = range2(8)(4);
+  let grid = range2(7)(3);
 
   let longestWord = $derived(Math.max(
     ...project.title.split(" ").map((str) => str.length)
@@ -39,25 +41,24 @@
     </div>
     <p class="date font-geom">{openingMonth} / {openingYear}</p>
   </div>
-  {#if project.thumbnailImg}
-    <div
-      class="wing-side stickout"
-      style="background-image: url({project.thumbnailImg})"
-    ></div>
-    <img
-      class="load-test"
-      src={project.thumbnailImg}
-      alt="Loading image"
-      aria-hidden="true"
-    />
+  <img
+    class="load-test"
+    onload={() => { loaded = true; }}
+    src={project.thumbnailImg}
+    alt="Loading image"
+    aria-hidden="true"
+    loading="lazy"
+  />
+  {#if project.thumbnailImg && loaded}
+    <div class="wing-side stickout" style="background-image: url({project.thumbnailImg})"></div>
   {:else}
-    <div class="wing-side stickout" style="background: #454545;">
+    <div class="wing-side stickout" style="background: #343434;">
       {#each grid as gridItem, index}
         <div
           class="wing-pattern"
-          style="transform: rotate({(index % 4) * 90}deg); top: {-10 +
-            gridItem[0] * 40}px; left: {-10 +
-            gridItem[1] * 40 +
+          style="transform: rotate({(index % 4) * 90}deg); top: {10 +
+            gridItem[0] * 38}px; left: {10 +
+            gridItem[1] * 38 +
             (gridItem[0] % 2 === 0 ? 20 : 0)}px;"
         >
           <svg viewBox="0 0 1000 1000">
@@ -113,7 +114,7 @@
     position: relative;
   }
 
-  .wing-side:nth-child(2) {
+  .wing-side:nth-child(3) {
     margin-left: -1px;
   }
 
@@ -125,11 +126,11 @@
     transform: skewY(-14deg);
   }
 
-  .wing:nth-child(2n + 0) .wing-side:nth-child(2) {
+  .wing:nth-child(2n + 0) .wing-side:nth-child(3) {
     transform: skewY(-14deg);
   }
 
-  .wing:nth-child(2n + 1) .wing-side:nth-child(2) {
+  .wing:nth-child(2n + 1) .wing-side:nth-child(3) {
     transform: skewY(14deg);
   }
 
@@ -141,7 +142,7 @@
       margin-left: -1px;
     }
 
-    .wing:nth-child(2n + 1) .wing-side:nth-child(2) {
+    .wing:nth-child(2n + 1) .wing-side:nth-child(3) {
       order: 1;
       transform: skewY(-14deg);
       margin-left: 0;
@@ -159,13 +160,13 @@
       transform: skewY(14deg);
     }
 
-    .wing:nth-child(4n + 1) .wing-side:nth-child(2),
-    .wing:nth-child(4n + 2) .wing-side:nth-child(2) {
+    .wing:nth-child(4n + 1) .wing-side:nth-child(3),
+    .wing:nth-child(4n + 2) .wing-side:nth-child(3) {
       transform: skewY(14deg);
     }
 
-    .wing:nth-child(4n + 3) .wing-side:nth-child(2),
-    .wing:nth-child(4n + 4) .wing-side:nth-child(2) {
+    .wing:nth-child(4n + 3) .wing-side:nth-child(3),
+    .wing:nth-child(4n + 4) .wing-side:nth-child(3) {
       transform: skewY(-14deg);
     }
   }
@@ -183,15 +184,15 @@
       transform: skewY(14deg);
     }
 
-    .wing:nth-child(6n + 1) .wing-side:nth-child(2),
-    .wing:nth-child(6n + 2) .wing-side:nth-child(2),
-    .wing:nth-child(6n + 3) .wing-side:nth-child(2) {
+    .wing:nth-child(6n + 1) .wing-side:nth-child(3),
+    .wing:nth-child(6n + 2) .wing-side:nth-child(3),
+    .wing:nth-child(6n + 3) .wing-side:nth-child(3) {
       transform: skewY(14deg);
     }
 
-    .wing:nth-child(6n + 4) .wing-side:nth-child(2),
-    .wing:nth-child(6n + 5) .wing-side:nth-child(2),
-    .wing:nth-child(6n + 6) .wing-side:nth-child(2) {
+    .wing:nth-child(6n + 4) .wing-side:nth-child(3),
+    .wing:nth-child(6n + 5) .wing-side:nth-child(3),
+    .wing:nth-child(6n + 6) .wing-side:nth-child(3) {
       transform: skewY(-14deg);
     }
   }
@@ -200,7 +201,7 @@
     width: 30px;
     height: 30px;
     position: absolute;
-    color: #fff;
+    color: var(--color-accent);
   }
 
   .date {
