@@ -1,5 +1,5 @@
 ---
-cvItalian: /cms/images/eng-oct-2024.pdf
-cvEnglish: /cms/images/eng-oct-2024.pdf
+cvItalian: /cms/images/annacingi-engcv-jul26.pdf
+cvEnglish: /cms/images/annacingi-engcv-jul26.pdf
 ---
 
