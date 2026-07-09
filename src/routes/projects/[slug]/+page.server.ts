@@ -1,4 +1,4 @@
-import { fs } from "mz";
+import { readFile } from "node:fs/promises";
 import frontMatter from "front-matter";
 import { error } from "@sveltejs/kit";
 import type { PageServerLoad } from "./$types";
@@ -9,7 +9,7 @@ export const load: PageServerLoad = async ({ params }) => {
 
   try {
     const file = (
-      await fs.readFile(`static/cms/projects/${slug}.md`)
+      await readFile(`static/cms/projects/${slug}.md`)
     ).toString();
 
     const parsedFile = frontMatter<Omit<Project, "body">>(file);

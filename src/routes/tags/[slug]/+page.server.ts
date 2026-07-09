@@ -1,7 +1,7 @@
 import { type Project } from "$lib/types";
 import frontMatter from "front-matter";
 import { glob } from "glob";
-import { fs } from "mz";
+import { readFile } from "node:fs/promises";
 import type { PageServerLoad } from "./$types";
 
 export const load: PageServerLoad = async ({ params }) => {
@@ -12,7 +12,7 @@ export const load: PageServerLoad = async ({ params }) => {
   const projects = (
     await Promise.all(
       projectsFiles.map(async (file) => {
-        const content = (await fs.readFile(file)).toString();
+        const content = (await readFile(file)).toString();
         return { ...frontMatter<Project>(content).attributes };
       }),
     )

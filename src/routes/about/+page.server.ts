@@ -1,11 +1,11 @@
-import { fs } from "mz";
+import { readFile } from "node:fs/promises";
 import frontMatter from "front-matter";
 import { error } from "@sveltejs/kit";
 import type { PageServerLoad } from "./$types";
 
 export const load: PageServerLoad = async () => {
   try {
-    const file = (await fs.readFile("static/cms/about.md")).toString();
+    const file = (await readFile("static/cms/about.md")).toString();
 
     const parsedFile = frontMatter<{ portraitUrl: string }>(file);
 
