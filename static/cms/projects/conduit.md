@@ -14,6 +14,9 @@ imgs:
     url: /cms/images/conduit02.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
+    url: /cms/images/conduit03.jpeg
+  - alt: conduit by Lottie Sebes
+    credit: Oolongradio
     url: /cms/images/conduit05.jpeg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
@@ -27,9 +30,6 @@ imgs:
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
     url: /cms/images/conduit11.jpeg
-  - alt: conduit by Lottie Sebes
-    credit: Oolongradio
-    url: /cms/images/conduit7.jpg
   - alt: conduit by Lottie Sebes
     credit: Oolongradio
     url: /cms/images/conduit13.jpeg
