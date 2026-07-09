@@ -1,7 +1,7 @@
 {
   "name": "annacingi-com",
   "main": ".svelte-kit/cloudflare/_worker.js",
-  "compatibility_flags": ["nodejs_als"],
+  "compatibility_flags": ["nodejs_compat"],
   "compatibility_date": "2022-04-05",
   "assets": {
     "binding": "ASSETS",
